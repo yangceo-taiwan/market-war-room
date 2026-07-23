@@ -1,0 +1,22 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { data } from "../lib/data";
+import { formatTaipei } from "../lib/format";
+const statusText = { ok: "正常", stale: "逾時", fallback: "沿用舊值", sample: "示範", error: "失敗" } as const;
+---
+<BaseLayout title="資料來源健康狀態｜市場觀點戰情室" description="檢查各公開資料來源的最後成功時間與降級狀態。" active="health">
+  <section class="hero shell"><div class="eyebrow">Data observability</div><h1 class="page-title">資料健康狀態</h1><p class="lede">單一來源失敗不會讓整站空白；系統保留上次成功值，並把狀態、資料時間與錯誤原因公開顯示。</p></section>
+  <section class="shell section content-grid">
+    <div class="panel content-card">
+      <div class="section-head"><h2 class="section-title">來源狀態</h2><span class="muted">最後整體更新 {formatTaipei(data.market.updatedAt)}</span></div>
+      {data.market.sources.map((source) => <div class="source-row">
+        <div><strong>{source.name}</strong><div class="muted" style="font-size:.78rem">資料時間：{formatTaipei(source.asOf)} · 嘗試：{formatTaipei(source.lastAttempt)}</div>{source.message && <div class="news-original">{source.message}</div>}</div>
+        <a class:list={["pill", source.status === "ok" ? "lamp-green" : source.status === "error" ? "lamp-red" : "lamp-yellow"]} href={source.url} target="_blank" rel="noreferrer"><span class="dot"></span>{statusText[source.status]}</a>
+      </div>)}
+    </div>
+    <aside class="stack">
+      <article class="panel content-card"><div class="eyebrow">Fail-safe</div><h2 class="section-title">降級原則</h2><ul class="plain-list"><li>1. 個別抓取，互不連坐。</li><li>2. 新資料驗證失敗就沿用舊值。</li><li>3. 每個欄位保留自己的資料時間。</li><li>4. 不繞過登入、CAPTCHA 或付費牆。</li></ul></article>
+      <article class="panel content-card"><div class="eyebrow">Manual source</div><h2 class="section-title">公開觀點人工更新</h2><p class="muted">刀神或其他作者若沒有穩定公開來源，請編輯 <code>content/manual-viewpoints.json</code>。必須附公開連結；私人貼文與需登入內容不收錄。</p></article>
+    </aside>
+  </section>
+</BaseLayout>

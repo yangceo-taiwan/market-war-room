@@ -1,0 +1,7 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { basePath } from "../lib/data";
+---
+<BaseLayout title="找不到頁面｜市場觀點戰情室" description="找不到指定頁面。">
+  <section class="hero shell"><div class="eyebrow">404</div><h1 class="page-title">這裡沒有資料。</h1><p class="lede">網址可能已變更，請返回市場首頁。</p><a class="pill" href={basePath("/")}>返回首頁 →</a></section>
+</BaseLayout>

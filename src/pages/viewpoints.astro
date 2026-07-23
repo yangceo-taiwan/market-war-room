@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LampPill from "../components/LampPill.astro";
+import { data } from "../lib/data";
+import { formatTaipei } from "../lib/format";
+const { viewpoints } = data;
+---
+<BaseLayout title="今日市場觀點｜市場觀點戰情室" description="市場事實、公開多空觀點、情境劇本與風險燈號。" active="viewpoints">
+  <section class="hero shell">
+    <div class="eyebrow">Daily market brief</div>
+    <h1 class="page-title">今日市場觀點</h1>
+    <p class="lede">先區分可驗證事實與公開評論，再用固定規則整理情境。更新：{formatTaipei(viewpoints.updatedAt)}</p>
+  </section>
+
+  <section class="shell section content-grid">
+    <div class="stack">
+      <article class="panel content-card">
+        <div class="eyebrow">01 · Facts</div><h2 class="section-title">市場事實</h2>
+        <ol class="fact-list">{viewpoints.marketFacts.map((item, index) => <li data-index={String(index + 1).padStart(2, "0")}>{item}</li>)}</ol>
+      </article>
+
+      <article class="panel content-card">
+        <div class="eyebrow">02 · Public viewpoints</div><h2 class="section-title">公開多空觀點</h2>
+        <div class="stance-grid" style="margin-top:18px">
+          <div class="panel stance-card"><span class="change up">多方觀點</span>{viewpoints.bulls.length ? viewpoints.bulls.map((item) => <div style="margin-top:14px"><strong>{item.author}</strong><p class="muted">{item.summary}</p><a class="external" href={item.sourceUrl} target="_blank" rel="noreferrer">公開來源 ↗</a></div>) : <p class="muted">目前沒有通過公開連結驗證的多方觀點。</p>}</div>
+          <div class="panel stance-card"><span class="change down">空方觀點</span>{viewpoints.bears.length ? viewpoints.bears.map((item) => <div style="margin-top:14px"><strong>{item.author}</strong><p class="muted">{item.summary}</p><a class="external" href={item.sourceUrl} target="_blank" rel="noreferrer">公開來源 ↗</a></div>) : <p class="muted">目前沒有通過公開連結驗證的空方觀點。</p>}</div>
+        </div>
+      </article>
+
+      <article class="panel content-card">
+        <div class="eyebrow">03 · Scenarios</div><h2 class="section-title">一週／一個月／三個月劇本</h2>
+        <div class="scenario-grid" style="margin-top:18px">
+          <div class="panel scenario-card"><span class="category">1 WEEK</span><h3>一週</h3><p class="muted">{viewpoints.scenarios.oneWeek}</p></div>
+          <div class="panel scenario-card"><span class="category">1 MONTH</span><h3>一個月</h3><p class="muted">{viewpoints.scenarios.oneMonth}</p></div>
+          <div class="panel scenario-card"><span class="category">3 MONTHS</span><h3>三個月</h3><p class="muted">{viewpoints.scenarios.threeMonths}</p></div>
+        </div>
+      </article>
+    </div>
+
+    <aside class="stack">
+      <article class="panel content-card">
+        <div class="eyebrow">Knife God · Public only</div><h2 class="section-title">刀神最新公開觀點</h2>
+        {viewpoints.knifeGod ? <><p>{viewpoints.knifeGod.summary}</p><small class="muted">{viewpoints.knifeGod.author} · {formatTaipei(viewpoints.knifeGod.publishedAt)}</small><br /><a class="pill" style="margin-top:12px" href={viewpoints.knifeGod.sourceUrl} target="_blank" rel="noreferrer">查看公開原文 ↗</a></> : <><p class="muted">目前沒有可公開驗證的最新連結。Facebook 若需登入、出現驗證或無法穩定讀取，系統不會繞過限制。</p><div class="warning">可改以 YouTube、官網公開頁面，或編輯人工觀點檔更新。</div></>}
+      </article>
+      <article class="panel content-card">
+        <div class="eyebrow">Five signals</div><h2 class="section-title">五大風險燈號</h2>
+        <div class="risk-list">{viewpoints.risks.map((risk) => <div class="risk-row"><strong>{risk.name}</strong><span class="muted">{risk.reason}</span><LampPill lamp={risk.lamp} label={risk.value} /></div>)}</div>
+      </article>
+      <article class="panel content-card">
+        <div class="eyebrow">Do not</div><h2 class="section-title">今日不做什麼</h2>
+        <ul class="plain-list">{viewpoints.doNotDo.map((item) => <li>— {item}</li>)}</ul>
+      </article>
+    </aside>
+  </section>
+
+  <section class="shell section"><div class="panel content-card"><div class="eyebrow">Synthesis</div><h2 class="section-title">綜合結論</h2><p class="lede">{viewpoints.conclusion}</p><div class="warning">{viewpoints.disclaimer}</div></div></section>
+</BaseLayout>

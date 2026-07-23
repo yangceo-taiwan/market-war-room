@@ -1,0 +1,13 @@
+---
+import type { Metric } from "../lib/types";
+import { formatChange, formatNumber } from "../lib/format";
+const { item } = Astro.props as { item: Metric };
+const tone = item.changePercent === null ? "flat" : item.changePercent > 0 ? "up" : item.changePercent < 0 ? "down" : "flat";
+---
+<article class="panel metric-card" style={`--accent:${tone === "up" ? "var(--green)" : tone === "down" ? "var(--red)" : "var(--yellow)"}`}>
+  <div><span class="metric-name">{item.name}</span><span class="metric-symbol">{item.symbol}</span></div>
+  <div class="metric-value">{formatNumber(item.value, item.unit === "%" ? 2 : item.id === "usdtwd" ? 3 : 2)}{item.unit === "%" && <small>%</small>}</div>
+  <div class:list={["change", tone]}>{item.changePercent === null && item.value !== null ? "最新比率" : formatChange(item.changePercent, "%")} · {item.status === "ok" ? "已更新" : item.status === "sample" ? "示範" : "沿用舊值"}</div>
+</article>
+
+<style>small { color: #87918c; font-size: .9rem; margin-left: 3px; }</style>

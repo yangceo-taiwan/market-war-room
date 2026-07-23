@@ -1,0 +1,61 @@
+---
+import "../styles/global.css";
+import { basePath } from "../lib/data";
+
+interface Props { title: string; description: string; active?: "home" | "viewpoints" | "news" | "health" }
+const { title, description, active } = Astro.props;
+const nav = [
+  { id: "home", label: "市場首頁", path: "/" },
+  { id: "viewpoints", label: "今日觀點", path: "/viewpoints/" },
+  { id: "news", label: "新聞", path: "/news/" },
+  { id: "health", label: "資料健康", path: "/health/" },
+];
+---
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="theme-color" content="#091014" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href={basePath("/")} aria-label="市場觀點戰情室首頁">
+          <span class="brand-mark">M</span>
+          <span><strong>市場觀點</strong><small>WAR ROOM</small></span>
+        </a>
+        <nav aria-label="主要選單">
+          {nav.map((item) => <a class:list={["nav-link", { active: active === item.id }]} href={basePath(item.path)}>{item.label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main><slot /></main>
+    <footer class="footer">
+      <div class="shell footer-grid">
+        <span>市場觀點戰情室 · 公開資料的私人閱讀介面</span>
+        <span>一般性市場資訊，不構成投資建議或獲利保證。</span>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header { position: sticky; top: 0; z-index: 20; background: rgba(9,16,20,.84); border-bottom: 1px solid rgba(255,255,255,.07); backdrop-filter: blur(16px); }
+  .header-inner { min-height: 68px; display: flex; align-items: center; justify-content: space-between; gap: 22px; }
+  .brand { display: inline-flex; align-items: center; gap: 10px; min-width: max-content; }
+  .brand-mark { width: 33px; height: 33px; display: grid; place-items: center; color: #091014; background: #5ef2a5; border-radius: 10px; font-weight: 950; }
+  .brand strong { display: block; font-size: .86rem; letter-spacing: .04em; line-height: 1; }
+  .brand small { color: #6f7b75; font-size: .57rem; letter-spacing: .19em; }
+  nav { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+  .nav-link { color: #8c9791; padding: 9px 12px; border-radius: 10px; font-size: .8rem; font-weight: 750; white-space: nowrap; }
+  .nav-link:hover, .nav-link.active { color: #f1f5f2; background: rgba(255,255,255,.06); }
+  @media (max-width: 640px) { .header-inner { align-items: flex-start; flex-direction: column; padding-block: 11px 8px; gap: 7px; } nav { width: 100%; } .nav-link { padding: 7px 10px; } }
+</style>

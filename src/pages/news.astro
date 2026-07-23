@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { data } from "../lib/data";
+import { formatTaipei } from "../lib/format";
+const items = [...data.news.items].sort((a, b) => +new Date(b.publishedAt) - +new Date(a.publishedAt)).slice(0, 20);
+---
+<BaseLayout title="最新新聞｜市場觀點戰情室" description="最新二十則公開市場新聞索引，只保留標題、來源、時間與原文連結。" active="news">
+  <section class="hero shell">
+    <div class="eyebrow">Latest 20 · Links only</div><h1 class="page-title">市場新聞</h1>
+    <p class="lede">只整理標題、來源、分類與公開原文連結，不保存或轉載新聞全文。資料更新：{formatTaipei(data.news.updatedAt)}</p>
+    {data.news.status === "sample" && <div class="warning" style="margin-top:18px">目前為示範新聞。執行公開資料更新後，將顯示可取得的最新項目。</div>}
+  </section>
+  <section class="shell section">
+    <div class="section-head"><h2 class="section-title">最新 {items.length} 則</h2><span class="muted">新 → 舊</span></div>
+    <div class="news-list">
+      {items.map((item) => <a class="panel news-item" href={item.url} target="_blank" rel="noreferrer">
+        <div><span class="category">{item.category}</span><div class="muted" style="font-size:.76rem;margin-top:5px">{item.source}<br />{formatTaipei(item.publishedAt)}</div></div>
+        <div><strong>{item.titleZh}</strong>{item.titleZh !== item.title && <div class="news-original">{item.title}</div>}</div>
+        <span class="external">原文 ↗</span>
+      </a>)}
+    </div>
+  </section>
+</BaseLayout>

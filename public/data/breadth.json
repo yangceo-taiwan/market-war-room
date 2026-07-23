@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-23T00:10:00.000Z",
+  "status": "fallback",
+  "advanceDeclineRatio": 1.05,
+  "percentAbove20d": 53,
+  "percentAbove50d": 51,
+  "newHighLowRatio": 1.1,
+  "sourceId": "manual-breadth",
+  "note": "免費版的市場寬度採人工更新；更新後請一併修改 updatedAt。"
+}

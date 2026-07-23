@@ -1,0 +1,6 @@
+---
+import { lampText } from "../lib/format";
+import type { Lamp } from "../lib/types";
+const { lamp, label } = Astro.props as { lamp: Lamp; label?: string };
+---
+<span class:list={["pill", `lamp-${lamp}`]}><span class="dot"></span>{label ?? lampText[lamp]}</span>
