@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T05:06:30.410Z",
+  "updatedAt": "2026-07-23T16:42:50.024Z",
   "status": "ok",
   "items": [
+    {
+      "id": "34e3b4bcfadc9e",
+      "title": "    SEC Announces Roundtable on Preparations for 24-Hour Trading\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Roundtable on Preparations for 24-Hour Trading\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-07-23T15:04:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
+    },
     {
       "id": "444fb62e3047ff",
       "title": "    SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon\n",
@@ -122,8 +131,8 @@
     },
     {
       "id": "4df2e7be3dce8c",
-      "title": "    SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors\n",
+      "title": "  SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-07-16T12:57:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-08T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
-    },
-    {
-      "id": "9f8b049fedd7c1",
-      "title": "  SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-07-08T17:54:26.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets"
     }
   ]
 }
