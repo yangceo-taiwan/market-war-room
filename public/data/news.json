@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T16:42:50.024Z",
+  "updatedAt": "2026-07-24T03:38:20.417Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,51 @@
       "publishedAt": "2026-07-23T15:04:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
+    },
+    {
+      "id": "0b450f21c00aff",
+      "title": "泰宗生物科技股份有限公司(泰宗，公司代號：4169)上市普通股自115年7月24日起恢復交易",
+      "titleZh": "泰宗生物科技股份有限公司(泰宗，公司代號：4169)上市普通股自115年7月24日起恢復交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8eb654820253"
+    },
+    {
+      "id": "7c10ae7a193268",
+      "title": "證交所舉辦「企業併購實戰論壇」，助力上市公司價值提升開創新局",
+      "titleZh": "證交所舉辦「企業併購實戰論壇」，助力上市公司價值提升開創新局",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e9defe8024f"
+    },
+    {
+      "id": "4921deaff1c51b",
+      "title": "自115年7月27日起，隆銘綠能科技工程股份有限公司(隆銘綠能，公司代號：3018)上市有價證券恢復交易方法",
+      "titleZh": "自115年7月27日起，隆銘綠能科技工程股份有限公司(隆銘綠能，公司代號：3018)上市有價證券恢復交易方法",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e8a033b024b"
+    },
+    {
+      "id": "3c6b370c08ce3b",
+      "title": "關貿網路股份有限公司等9家公司預計於115年8月份假證交所場地自行舉辦法人說明會",
+      "titleZh": "關貿網路股份有限公司等9家公司預計於115年8月份假證交所場地自行舉辦法人說明會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e6ca26a0247"
+    },
+    {
+      "id": "b531704d8743d0",
+      "title": "永悅健康股份有限公司股票自115年7月24日於臺灣創新板上市開始買賣",
+      "titleZh": "永悅健康股份有限公司股票自115年7月24日於臺灣創新板上市開始買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e57159c023e"
     },
     {
       "id": "444fb62e3047ff",
@@ -65,51 +110,6 @@
       "publishedAt": "2026-07-22T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8902f8d80223"
-    },
-    {
-      "id": "5f185017fa0d8f",
-      "title": "台鎔科技材料股份有限公司股票自115年7月23日開始上市買賣",
-      "titleZh": "台鎔科技材料股份有限公司股票自115年7月23日開始上市買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f88fc71ec021f"
-    },
-    {
-      "id": "3ef0f3390129fc",
-      "title": "輝創電子股份有限公司上市股票（輝創，代號：6722）自115年7月23日起得為融資融券交易",
-      "titleZh": "輝創電子股份有限公司上市股票（輝創，代號：6722）自115年7月23日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f88f63f5c021b"
-    },
-    {
-      "id": "0c690e6e00edc9",
-      "title": "證交所持續推動2026年「地球特攻隊」永續宣導「清冰箱救剩食」倡議惜食減廢 打造低碳生活新習慣",
-      "titleZh": "證交所持續推動2026年「地球特攻隊」永續宣導「清冰箱救剩食」倡議惜食減廢 打造低碳生活新習慣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f87860f9301f6"
-    },
-    {
-      "id": "21897aace0e2f3",
-      "title": "耐特科技材料(股)公司於115年7月20日送件申請股票上市",
-      "titleZh": "耐特科技材料(股)公司於115年7月20日送件申請股票上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f7eeec83301f1"
-    },
-    {
-      "id": "24ed9f5b042711",
-      "title": "「永續資訊確信機構宣導暨交流會」圓滿完成　提升永續資訊揭露品質",
-      "titleZh": "「永續資訊確信機構宣導暨交流會」圓滿完成　提升永續資訊揭露品質",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f7ec098ad01ed"
     },
     {
       "id": "12b5808ff7e453",
