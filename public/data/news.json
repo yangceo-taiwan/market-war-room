@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-24T16:54:30.846Z",
+  "updatedAt": "2026-07-25T03:33:52.616Z",
   "status": "ok",
   "items": [
+    {
+      "id": "def2df9f7583b6",
+      "title": "本週發行量加權股價指數漲幅約為2.30%，上市股票總市值達142.58兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為2.30%，上市股票總市值達142.58兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f939355570270"
+    },
+    {
+      "id": "999d154dddeae3",
+      "title": "英柏得科技(股)公司於115年7月24日送件申請股票上市",
+      "titleZh": "英柏得科技(股)公司於115年7月24日送件申請股票上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f9358fd67026c"
+    },
     {
       "id": "34e3b4bcfadc9e",
       "title": "    SEC Announces Roundtable on Preparations for 24-Hour Trading\n",
@@ -92,24 +110,6 @@
       "publishedAt": "2026-07-22T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f89254ab6022b"
-    },
-    {
-      "id": "cec6ab3fc230ce",
-      "title": "長廣精機股份有限公司上市股票自本（115）年7月23日起得為融資融券交易",
-      "titleZh": "長廣精機股份有限公司上市股票自本（115）年7月23日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8909d3cd0227"
-    },
-    {
-      "id": "41ecde13e7a709",
-      "title": "聚賢研發股份有限公司上市股票自本（115）年7月23日起得為融資融券交易",
-      "titleZh": "聚賢研發股份有限公司上市股票自本（115）年7月23日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8902f8d80223"
     },
     {
       "id": "12b5808ff7e453",
