@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-07-26T03:50:54.469Z",
+  "updatedAt": "2026-07-26T06:46:21.864Z",
   "timezone": "Asia/Taipei",
   "session": "noon",
   "dailyTrend": "bear",
@@ -29,12 +29,12 @@
       "id": "sp500",
       "name": "S&P 500",
       "symbol": "SPX",
-      "value": 7408.2998046875,
-      "change": -90.66015625,
-      "changePercent": -1.2089697334330867,
+      "value": 7411.97998046875,
+      "change": 3.68017578125,
+      "changePercent": 0.04967638835190524,
       "unit": "點",
-      "direction": "bear",
-      "asOf": "2026-07-23T13:30:00.000Z",
+      "direction": "mixed",
+      "asOf": "2026-07-24T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -42,12 +42,12 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "symbol": "NDX",
-      "value": 25137.689453125,
-      "change": -553.2109375,
-      "changePercent": -2.153334173145115,
+      "value": 24975.8203125,
+      "change": -161.869140625,
+      "changePercent": -0.6439300673470496,
       "unit": "點",
       "direction": "bear",
-      "asOf": "2026-07-23T13:30:00.000Z",
+      "asOf": "2026-07-24T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -55,12 +55,12 @@
       "id": "dow",
       "name": "Dow Jones",
       "symbol": "DJIA",
-      "value": 51711.6484375,
-      "change": -506.9296875,
-      "changePercent": -0.9707841647593694,
+      "value": 51947.25,
+      "change": 235.6015625,
+      "changePercent": 0.45560636649352604,
       "unit": "點",
-      "direction": "bear",
-      "asOf": "2026-07-23T13:30:00.000Z",
+      "direction": "bull",
+      "asOf": "2026-07-24T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -68,12 +68,12 @@
       "id": "sox",
       "name": "費城半導體",
       "symbol": "SOX",
-      "value": 12343.83984375,
-      "change": -66.830078125,
-      "changePercent": -0.5384888853357187,
+      "value": 11818.8798828125,
+      "change": -524.9599609375,
+      "changePercent": -4.252809235882144,
       "unit": "點",
       "direction": "bear",
-      "asOf": "2026-07-23T13:30:00.000Z",
+      "asOf": "2026-07-24T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-07-26T03:50:54.469Z",
+      "asOf": "2026-07-26T06:46:21.864Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -150,7 +150,7 @@
       "url": "https://finance.yahoo.com/",
       "status": "ok",
       "asOf": "2026-07-24T23:10:57.000Z",
-      "lastAttempt": "2026-07-26T03:50:54.469Z",
+      "lastAttempt": "2026-07-26T06:46:21.864Z",
       "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
       "asOf": "2026-07-23T22:00:00.000Z",
-      "lastAttempt": "2026-07-26T03:50:54.469Z",
+      "lastAttempt": "2026-07-26T06:46:21.864Z",
       "message": "3/3 個系列更新成功"
     },
     {
@@ -168,23 +168,23 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-07-24T05:30:00.000Z",
-      "lastAttempt": "2026-07-26T03:50:54.469Z"
+      "lastAttempt": "2026-07-26T06:46:21.864Z"
     },
     {
       "id": "cboe",
       "name": "Cboe Daily Market Statistics",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
       "status": "ok",
-      "asOf": "2026-07-26T03:50:54.469Z",
-      "lastAttempt": "2026-07-26T03:50:54.469Z"
+      "asOf": "2026-07-26T06:46:21.864Z",
+      "lastAttempt": "2026-07-26T06:46:21.864Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-07-26T03:50:54.469Z",
-      "lastAttempt": "2026-07-26T03:50:54.469Z",
+      "asOf": "2026-07-26T06:46:21.864Z",
+      "lastAttempt": "2026-07-26T06:46:21.864Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
