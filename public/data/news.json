@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T17:05:50.646Z",
+  "updatedAt": "2026-07-28T03:30:13.643Z",
   "status": "ok",
   "items": [
+    {
+      "id": "e26fe2c63abaa5",
+      "title": "    Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-07-27T19:59:17.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
+    },
+    {
+      "id": "3154a90130aebf",
+      "title": "饗賓餐旅事業(股)公司及欣雄天然氣(股)公司於115年7月27日送件申請股票上市",
+      "titleZh": "饗賓餐旅事業(股)公司及欣雄天然氣(股)公司於115年7月27日送件申請股票上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-27T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa2fbf2d80035"
+    },
+    {
+      "id": "0107d5012bbc94",
+      "title": "大鵬科技股份有限公司股票自115年7月28日開始上市買賣",
+      "titleZh": "大鵬科技股份有限公司股票自115年7月28日開始上市買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-27T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa2ec90b70031"
+    },
+    {
+      "id": "93f3bc849b18d2",
+      "title": "上週外資在集中市場賣超470.64億元，賣超力積電10.88萬張最多，另買超緯創15.49萬張最多",
+      "titleZh": "上週外資在集中市場賣超470.64億元，賣超力積電10.88萬張最多，另買超緯創15.49萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-27T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa17b05a50008"
+    },
     {
       "id": "def2df9f7583b6",
       "title": "本週發行量加權股價指數漲幅約為2.30%，上市股票總市值達142.58兆元",
@@ -85,33 +121,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon"
     },
     {
-      "id": "79c917f5b6b8bd",
-      "title": "泰宗生物科技股份有限公司(泰宗，公司代號：4169)上市普通股自115年7月23日起暫停交易",
-      "titleZh": "泰宗生物科技股份有限公司(泰宗，公司代號：4169)上市普通股自115年7月23日起暫停交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f893bb2710233"
-    },
-    {
-      "id": "fd58d3ace79285",
-      "title": "全體證券商115年6月稅後淨利265.72億元，累計稅後淨利1,440.9億元",
-      "titleZh": "全體證券商115年6月稅後淨利265.72億元，累計稅後淨利1,440.9億元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f893137cb022f"
-    },
-    {
-      "id": "8301752943b248",
-      "title": "臺灣創新板（tib-創）以新經濟雙引擎 接軌全球創新資本浪潮   AI原生防禦 × 訂閱制內容經濟：臺灣新興科技企業的資本市場新路徑",
-      "titleZh": "臺灣創新板（tib-創）以新經濟雙引擎 接軌全球創新資本浪潮   AI原生防禦 × 訂閱制內容經濟：臺灣新興科技企業的資本市場新路徑",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f89254ab6022b"
-    },
-    {
       "id": "12b5808ff7e453",
       "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
       "titleZh": "【央行｜英文原題待人工校訂】Agencies issue joint statement on handling of highly sensitive information during bank examinations",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-09T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm"
-    },
-    {
-      "id": "569788985d01b1",
-      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, June 16-17, 2026",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-08T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
     }
   ]
 }
