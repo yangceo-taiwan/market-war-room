@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T16:48:26.081Z",
+  "updatedAt": "2026-07-29T03:33:32.253Z",
   "status": "ok",
   "items": [
+    {
+      "id": "a22dbfd6a60a90",
+      "title": "澄清媒體有關交割安全疑慮報導",
+      "titleZh": "澄清媒體有關交割安全疑慮報導",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-28T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa85711c0006d"
+    },
+    {
+      "id": "63911052484df1",
+      "title": "大東電業廠股份有限公司上市股票自本(115)年7月29日起得為融資融券交易",
+      "titleZh": "大東電業廠股份有限公司上市股票自本(115)年7月29日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-28T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa820e5420069"
+    },
+    {
+      "id": "6349326e39efcf",
+      "title": "三商美邦人壽保險股份有限公司 (三商壽，公司代號：2867)因進行股份轉換其上市有價證券自115年8月20日起停止買賣，並自115年9月1日起終止上市",
+      "titleZh": "三商美邦人壽保險股份有限公司 (三商壽，公司代號：2867)因進行股份轉換其上市有價證券自115年8月20日起停止買賣，並自115年9月1日起終止上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-28T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa7a779a60065"
+    },
     {
       "id": "e26fe2c63abaa5",
       "title": "    Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
@@ -83,33 +110,6 @@
       "publishedAt": "2026-07-23T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e9defe8024f"
-    },
-    {
-      "id": "4921deaff1c51b",
-      "title": "自115年7月27日起，隆銘綠能科技工程股份有限公司(隆銘綠能，公司代號：3018)上市有價證券恢復交易方法",
-      "titleZh": "自115年7月27日起，隆銘綠能科技工程股份有限公司(隆銘綠能，公司代號：3018)上市有價證券恢復交易方法",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e8a033b024b"
-    },
-    {
-      "id": "3c6b370c08ce3b",
-      "title": "關貿網路股份有限公司等9家公司預計於115年8月份假證交所場地自行舉辦法人說明會",
-      "titleZh": "關貿網路股份有限公司等9家公司預計於115年8月份假證交所場地自行舉辦法人說明會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e6ca26a0247"
-    },
-    {
-      "id": "b531704d8743d0",
-      "title": "永悅健康股份有限公司股票自115年7月24日於臺灣創新板上市開始買賣",
-      "titleZh": "永悅健康股份有限公司股票自115年7月24日於臺灣創新板上市開始買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e57159c023e"
     },
     {
       "id": "444fb62e3047ff",
