@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T16:37:44.382Z",
+  "updatedAt": "2026-07-30T03:22:16.933Z",
   "status": "ok",
   "items": [
+    {
+      "id": "b31df595e972b0",
+      "title": "Federal Reserve issues FOMC statement",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-07-29T18:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+    },
+    {
+      "id": "872ecb233eb466",
+      "title": "國際市場波動加劇 臺股基本面及資金動能維持穩健",
+      "titleZh": "國際市場波動加劇 臺股基本面及資金動能維持穩健",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fad937542007f"
+    },
+    {
+      "id": "d1de47ab9a488c",
+      "title": "臺灣證券交易所訂於7月31日召開有價證券上市審議委員會第890次會議，將審議英屬開曼群島商禾碩康(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於7月31日召開有價證券上市審議委員會第890次會議，將審議英屬開曼群島商禾碩康(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fad59df59007b"
+    },
     {
       "id": "a22dbfd6a60a90",
       "title": "澄清媒體有關交割安全疑慮報導",
@@ -94,24 +121,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
     },
     {
-      "id": "0b450f21c00aff",
-      "title": "泰宗生物科技股份有限公司(泰宗，公司代號：4169)上市普通股自115年7月24日起恢復交易",
-      "titleZh": "泰宗生物科技股份有限公司(泰宗，公司代號：4169)上市普通股自115年7月24日起恢復交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8eb654820253"
-    },
-    {
-      "id": "7c10ae7a193268",
-      "title": "證交所舉辦「企業併購實戰論壇」，助力上市公司價值提升開創新局",
-      "titleZh": "證交所舉辦「企業併購實戰論壇」，助力上市公司價值提升開創新局",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f8e9defe8024f"
-    },
-    {
       "id": "444fb62e3047ff",
       "title": "  SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-09T19:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm"
-    },
-    {
-      "id": "7c284c44699578",
-      "title": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-09T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm"
     }
   ]
 }
