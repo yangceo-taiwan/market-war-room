@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T16:44:53.769Z",
+  "updatedAt": "2026-07-31T03:46:37.054Z",
   "status": "ok",
   "items": [
     {
@@ -29,6 +29,42 @@
       "publishedAt": "2026-07-30T13:53:38.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting"
+    },
+    {
+      "id": "51ef34297219b7",
+      "title": "臺灣證券交易所與中華電信公司簽訂「新建備援資訊中心」合作備忘錄",
+      "titleZh": "臺灣證券交易所與中華電信公司簽訂「新建備援資訊中心」合作備忘錄",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb265be3d008e"
+    },
+    {
+      "id": "226d912d3f0c2b",
+      "title": "貝萊德投信募集發行之「貝萊德iShares安碩世界股票ETF」、「貝萊德iShares安碩10年期以上A級美元公司債ETF」及永豐投信募集發行之「永豐台灣科技趨勢主動式ETF」，自115年8月3日起掛牌上市，並得辦理融資融券",
+      "titleZh": "貝萊德投信募集發行之「貝萊德iShares安碩世界股票ETF」、「貝萊德iShares安碩10年期以上A級美元公司債ETF」及永豐投信募集發行之「永豐台灣科技趨勢主動式ETF」，自115年8月3日起掛牌上市，並得辦理融資融券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb25bf91d008a"
+    },
+    {
+      "id": "e372142623ee8a",
+      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)數位雲端、綠能環保、生技醫療及汽車工業之洞察報告",
+      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)數位雲端、綠能環保、生技醫療及汽車工業之洞察報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb2513e000086"
+    },
+    {
+      "id": "18230b898a5a49",
+      "title": "華德動能(證券代號：2237)採競價拍賣方式辦理承銷，於7月30日順利完成",
+      "titleZh": "華德動能(證券代號：2237)採競價拍賣方式辦理承銷，於7月30日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb23dd0390082"
     },
     {
       "id": "b31df595e972b0",
@@ -101,42 +137,6 @@
       "publishedAt": "2026-07-27T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa2fbf2d80035"
-    },
-    {
-      "id": "0107d5012bbc94",
-      "title": "大鵬科技股份有限公司股票自115年7月28日開始上市買賣",
-      "titleZh": "大鵬科技股份有限公司股票自115年7月28日開始上市買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa2ec90b70031"
-    },
-    {
-      "id": "93f3bc849b18d2",
-      "title": "上週外資在集中市場賣超470.64億元，賣超力積電10.88萬張最多，另買超緯創15.49萬張最多",
-      "titleZh": "上週外資在集中市場賣超470.64億元，賣超力積電10.88萬張最多，另買超緯創15.49萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa17b05a50008"
-    },
-    {
-      "id": "def2df9f7583b6",
-      "title": "本週發行量加權股價指數漲幅約為2.30%，上市股票總市值達142.58兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為2.30%，上市股票總市值達142.58兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f939355570270"
-    },
-    {
-      "id": "999d154dddeae3",
-      "title": "英柏得科技(股)公司於115年7月24日送件申請股票上市",
-      "titleZh": "英柏得科技(股)公司於115年7月24日送件申請股票上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69ef76943019f9358fd67026c"
     },
     {
       "id": "34e3b4bcfadc9e",
