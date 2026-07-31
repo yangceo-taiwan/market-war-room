@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T06:52:46.692Z",
+  "updatedAt": "2026-07-31T16:54:20.226Z",
   "status": "ok",
   "items": [
+    {
+      "id": "eb335d09e7f6ad",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-07-31T14:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm"
+    },
+    {
+      "id": "185e475f6a0f32",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-07-31T14:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
+    },
     {
       "id": "0edb7afd0aae23",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-07-16T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm"
-    },
-    {
-      "id": "f4aa45acdb264c",
-      "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-16T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm"
-    },
-    {
-      "id": "4df2e7be3dce8c",
-      "title": "  SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-07-16T12:57:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors"
     }
   ]
 }
