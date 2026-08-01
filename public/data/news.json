@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T03:46:01.269Z",
-  "status": "fallback",
+  "updatedAt": "2026-08-01T06:38:47.310Z",
+  "status": "ok",
   "items": [
     {
       "id": "eb335d09e7f6ad",
@@ -20,6 +20,51 @@
       "publishedAt": "2026-07-31T14:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
+    },
+    {
+      "id": "1710fc1351716e",
+      "title": "資訊透明讓投資更踏實！理性評估ETF收益結構與產品特質",
+      "titleZh": "資訊透明讓投資更踏實！理性評估ETF收益結構與產品特質",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb7a5bf9c00b6"
+    },
+    {
+      "id": "a49bf2a2dc6474",
+      "title": "本週發行量加權股價指數跌幅約為1.23%，上市股票總市值達140.85兆元",
+      "titleZh": "本週發行量加權股價指數跌幅約為1.23%，上市股票總市值達140.85兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb781130700b2"
+    },
+    {
+      "id": "98fa2438f00b8d",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商禾碩康股份有限公司（NPIC Cayman）初次申請股票第一上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商禾碩康股份有限公司（NPIC Cayman）初次申請股票第一上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb775c2a600ae"
+    },
+    {
+      "id": "7ab426f5fb7a1d",
+      "title": "2026年6月集中市場相關數據",
+      "titleZh": "2026年6月集中市場相關數據",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb6ffa4b200a6"
+    },
+    {
+      "id": "c5486018ddbeae",
+      "title": "和運租車 (證券代號：7855)採競價拍賣方式辦理承銷，於7月31日順利完成",
+      "titleZh": "和運租車 (證券代號：7855)採競價拍賣方式辦理承銷，於7月31日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-07-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb6f64bd200a2"
     },
     {
       "id": "0edb7afd0aae23",
@@ -103,42 +148,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fad937542007f"
     },
     {
-      "id": "d1de47ab9a488c",
-      "title": "臺灣證券交易所訂於7月31日召開有價證券上市審議委員會第890次會議，將審議英屬開曼群島商禾碩康(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於7月31日召開有價證券上市審議委員會第890次會議，將審議英屬開曼群島商禾碩康(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fad59df59007b"
-    },
-    {
-      "id": "a22dbfd6a60a90",
-      "title": "澄清媒體有關交割安全疑慮報導",
-      "titleZh": "澄清媒體有關交割安全疑慮報導",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa85711c0006d"
-    },
-    {
-      "id": "63911052484df1",
-      "title": "大東電業廠股份有限公司上市股票自本(115)年7月29日起得為融資融券交易",
-      "titleZh": "大東電業廠股份有限公司上市股票自本(115)年7月29日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa820e5420069"
-    },
-    {
-      "id": "6349326e39efcf",
-      "title": "三商美邦人壽保險股份有限公司 (三商壽，公司代號：2867)因進行股份轉換其上市有價證券自115年8月20日起停止買賣，並自115年9月1日起終止上市",
-      "titleZh": "三商美邦人壽保險股份有限公司 (三商壽，公司代號：2867)因進行股份轉換其上市有價證券自115年8月20日起停止買賣，並自115年9月1日起終止上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa7a779a60065"
-    },
-    {
       "id": "e26fe2c63abaa5",
       "title": "  Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
       "titleZh": "【法規｜英文原題待人工校訂】  Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
@@ -146,15 +155,6 @@
       "publishedAt": "2026-07-27T19:59:17.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
-    },
-    {
-      "id": "3154a90130aebf",
-      "title": "饗賓餐旅事業(股)公司及欣雄天然氣(股)公司於115年7月27日送件申請股票上市",
-      "titleZh": "饗賓餐旅事業(股)公司及欣雄天然氣(股)公司於115年7月27日送件申請股票上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fa2fbf2d80035"
     },
     {
       "id": "34e3b4bcfadc9e",
