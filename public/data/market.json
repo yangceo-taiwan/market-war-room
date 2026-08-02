@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-08-01T16:10:52.532Z",
+  "updatedAt": "2026-08-02T03:48:09.439Z",
   "timezone": "Asia/Taipei",
-  "session": "morning",
+  "session": "noon",
   "dailyTrend": "bull",
   "hourlyTrend": "mixed",
   "temperature": {
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-08-01T16:10:52.532Z",
+      "asOf": "2026-08-02T03:48:09.439Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -150,7 +150,7 @@
       "url": "https://finance.yahoo.com/",
       "status": "ok",
       "asOf": "2026-08-01T02:37:33.000Z",
-      "lastAttempt": "2026-08-01T16:10:52.532Z",
+      "lastAttempt": "2026-08-02T03:48:09.439Z",
       "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
@@ -159,16 +159,8 @@
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
       "asOf": "2026-07-30T22:00:00.000Z",
-      "lastAttempt": "2026-08-01T16:10:52.532Z",
+      "lastAttempt": "2026-08-02T03:48:09.439Z",
       "message": "3/3 個系列更新成功"
-    },
-    {
-      "id": "cboe",
-      "name": "Cboe Daily Market Statistics",
-      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
-      "status": "ok",
-      "asOf": "2026-08-01T16:10:52.532Z",
-      "lastAttempt": "2026-08-01T16:10:52.532Z"
     },
     {
       "id": "twse",
@@ -176,15 +168,23 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-07-31T05:30:00.000Z",
-      "lastAttempt": "2026-08-01T16:10:52.532Z"
+      "lastAttempt": "2026-08-02T03:48:09.439Z"
+    },
+    {
+      "id": "cboe",
+      "name": "Cboe Daily Market Statistics",
+      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
+      "status": "ok",
+      "asOf": "2026-08-02T03:48:09.439Z",
+      "lastAttempt": "2026-08-02T03:48:09.439Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-08-01T16:10:52.532Z",
-      "lastAttempt": "2026-08-01T16:10:52.532Z",
+      "asOf": "2026-08-02T03:48:09.439Z",
+      "lastAttempt": "2026-08-02T03:48:09.439Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
