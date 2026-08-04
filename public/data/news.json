@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T17:17:50.656Z",
+  "updatedAt": "2026-08-04T03:32:42.527Z",
   "status": "ok",
   "items": [
+    {
+      "id": "8aa38b73421bdd",
+      "title": "金管會、國發會啟動「TiBOOST 創新大步計畫」徵件 臺灣創新板(tib-創)助攻新創成長",
+      "titleZh": "金管會、國發會啟動「TiBOOST 創新大步計畫」徵件 臺灣創新板(tib-創)助攻新創成長",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fc7914d450005"
+    },
+    {
+      "id": "9d700eac894a1c",
+      "title": "上市公司115年第2季財務報告公告申報期限及注意事項",
+      "titleZh": "上市公司115年第2季財務報告公告申報期限及注意事項",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fc738a3f100ca"
+    },
+    {
+      "id": "3b70a617544eef",
+      "title": "證交所修正公布注意暨處置規定，自115年8月10日起實施",
+      "titleZh": "證交所修正公布注意暨處置規定，自115年8月10日起實施",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fc6ff768600c2"
+    },
+    {
+      "id": "8150ac8451d7ca",
+      "title": "上週外資在集中市場賣超824.55億元，賣超旺宏3.77萬張最多，另買超長榮航13.70萬張最多",
+      "titleZh": "上週外資在集中市場賣超824.55億元，賣超旺宏3.77萬張最多，另買超長榮航13.70萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fc5ab268800bc"
+    },
     {
       "id": "eb335d09e7f6ad",
       "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
@@ -103,33 +139,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb265be3d008e"
     },
     {
-      "id": "226d912d3f0c2b",
-      "title": "貝萊德投信募集發行之「貝萊德iShares安碩世界股票ETF」、「貝萊德iShares安碩10年期以上A級美元公司債ETF」及永豐投信募集發行之「永豐台灣科技趨勢主動式ETF」，自115年8月3日起掛牌上市，並得辦理融資融券",
-      "titleZh": "貝萊德投信募集發行之「貝萊德iShares安碩世界股票ETF」、「貝萊德iShares安碩10年期以上A級美元公司債ETF」及永豐投信募集發行之「永豐台灣科技趨勢主動式ETF」，自115年8月3日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb25bf91d008a"
-    },
-    {
-      "id": "e372142623ee8a",
-      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)數位雲端、綠能環保、生技醫療及汽車工業之洞察報告",
-      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)數位雲端、綠能環保、生技醫療及汽車工業之洞察報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb2513e000086"
-    },
-    {
-      "id": "18230b898a5a49",
-      "title": "華德動能(證券代號：2237)採競價拍賣方式辦理承銷，於7月30日順利完成",
-      "titleZh": "華德動能(證券代號：2237)採競價拍賣方式辦理承銷，於7月30日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb23dd0390082"
-    },
-    {
       "id": "b31df595e972b0",
       "title": "Federal Reserve issues FOMC statement",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve issues FOMC statement",
@@ -137,15 +146,6 @@
       "publishedAt": "2026-07-29T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
-    },
-    {
-      "id": "872ecb233eb466",
-      "title": "國際市場波動加劇 臺股基本面及資金動能維持穩健",
-      "titleZh": "國際市場波動加劇 臺股基本面及資金動能維持穩健",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fad937542007f"
     },
     {
       "id": "e26fe2c63abaa5",
