@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T17:01:03.573Z",
+  "updatedAt": "2026-08-05T03:28:20.001Z",
   "status": "ok",
   "items": [
+    {
+      "id": "1edd7b3e6105f9",
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-08-04T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm"
+    },
+    {
+      "id": "bb66e299128f00",
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-08-04T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm"
+    },
+    {
+      "id": "5dd3b15c1679b2",
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-08-04T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
+    },
+    {
+      "id": "8891816f59060a",
+      "title": "證交所攜手企業持續深耕培育屏東足球小將 臺灣少年足球計畫耕耘十二載 成果豐碩",
+      "titleZh": "證交所攜手企業持續深耕培育屏東足球小將 臺灣少年足球計畫耕耘十二載 成果豐碩",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fca6442f20009"
+    },
     {
       "id": "8aa38b73421bdd",
       "title": "金管會、國發會啟動「TiBOOST 創新大步計畫」徵件 臺灣創新板(tib-創)助攻新創成長",
@@ -112,15 +148,6 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm"
     },
     {
-      "id": "aabe730a8f85c3",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-30T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm"
-    },
-    {
       "id": "bc6ea1b675bedb",
       "title": "    SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
       "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
@@ -128,24 +155,6 @@
       "publishedAt": "2026-07-30T13:53:38.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting"
-    },
-    {
-      "id": "51ef34297219b7",
-      "title": "臺灣證券交易所與中華電信公司簽訂「新建備援資訊中心」合作備忘錄",
-      "titleZh": "臺灣證券交易所與中華電信公司簽訂「新建備援資訊中心」合作備忘錄",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb265be3d008e"
-    },
-    {
-      "id": "b31df595e972b0",
-      "title": "Federal Reserve issues FOMC statement",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve issues FOMC statement",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-29T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
     },
     {
       "id": "e26fe2c63abaa5",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-22T13:45:25.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon"
-    },
-    {
-      "id": "12b5808ff7e453",
-      "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-      "titleZh": "【央行｜英文原題待人工校訂】Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-16T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm"
     }
   ]
 }
