@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T16:50:09.918Z",
+  "updatedAt": "2026-08-06T03:31:41.121Z",
   "status": "ok",
   "items": [
+    {
+      "id": "a40b27280c0bc4",
+      "title": "    SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-05T18:30:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
+    },
     {
       "id": "1edd7b3e6105f9",
       "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
@@ -149,8 +158,8 @@
     },
     {
       "id": "bc6ea1b675bedb",
-      "title": "    SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
+      "title": "  SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-07-30T13:53:38.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-23T15:04:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
-    },
-    {
-      "id": "444fb62e3047ff",
-      "title": "  SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-07-22T13:45:25.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon"
     }
   ]
 }

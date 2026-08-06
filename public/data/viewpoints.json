@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T16:50:09.918Z",
+  "updatedAt": "2026-08-06T03:31:41.121Z",
   "marketFacts": [
-    "市場溫度 55/100，規則判定為中性偏穩。",
+    "市場溫度 60/100，規則判定為中性偏穩。",
     "主要指數日線結構：震盪；小時線因免費穩定來源不足，暫列 mixed。",
-    "VIX：16.5；Total Put/Call：0.69。",
-    "美債 10Y–2Y 利差：0.45 個百分點。",
+    "VIX：16.5；Total Put/Call：0.88。",
+    "美債 10Y–2Y 利差：0.43 個百分點。",
     "主要資料來源本次更新正常。"
   ],
   "knifeGod": null,
@@ -36,14 +36,14 @@
       "id": "putcall",
       "name": "Put/Call",
       "lamp": "yellow",
-      "value": "0.69",
+      "value": "0.88",
       "reason": "情緒是否進入極端"
     },
     {
       "id": "yield",
       "name": "殖利率",
       "lamp": "green",
-      "value": "0.45%",
+      "value": "0.43%",
       "reason": "10Y–2Y 利差"
     },
     {
