@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T06:42:06.694Z",
+  "updatedAt": "2026-08-07T03:13:14.587Z",
   "status": "ok",
   "items": [
+    {
+      "id": "d03720832cb754",
+      "title": "臺灣創新板（tib-創）引領電動車與綠色移動產業鏈的資本化升級 制度彈性・市值核心・與「AI 新十大建設」及淨零轉型政策直接接軌",
+      "titleZh": "臺灣創新板（tib-創）引領電動車與綠色移動產業鏈的資本化升級 制度彈性・市值核心・與「AI 新十大建設」及淨零轉型政策直接接軌",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fd65c2f490073"
+    },
     {
       "id": "a40b27280c0bc4",
       "title": "    SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
@@ -137,15 +146,6 @@
       "publishedAt": "2026-07-31T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb6ffa4b200a6"
-    },
-    {
-      "id": "c5486018ddbeae",
-      "title": "和運租車 (證券代號：7855)採競價拍賣方式辦理承銷，於7月31日順利完成",
-      "titleZh": "和運租車 (證券代號：7855)採競價拍賣方式辦理承銷，於7月31日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb6f64bd200a2"
     },
     {
       "id": "0edb7afd0aae23",
