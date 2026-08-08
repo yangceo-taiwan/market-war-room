@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:06:17.681Z",
+  "updatedAt": "2026-08-08T02:18:17.145Z",
   "status": "ok",
   "items": [
+    {
+      "id": "3988a8c4952202",
+      "title": "2026年7月集中市場相關數據",
+      "titleZh": "2026年7月集中市場相關數據",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb9fb4d600b3"
+    },
+    {
+      "id": "f0814360898715",
+      "title": "本週發行量加權股價指數漲幅約為2.57%，上市股票總市值達144.56兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為2.57%，上市股票總市值達144.56兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb9440da00af"
+    },
+    {
+      "id": "7bc6a990ee11e9",
+      "title": "自115年8月10日起，證交所將採行公布注意暨處置新規定",
+      "titleZh": "自115年8月10日起，證交所將採行公布注意暨處置新規定",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb6d4e0500ab"
+    },
+    {
+      "id": "95d3635bbeba7b",
+      "title": "華德動能科技股份有限公司股票自115年8月10日於臺灣創新板上市開始買賣",
+      "titleZh": "華德動能科技股份有限公司股票自115年8月10日於臺灣創新板上市開始買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb645a4900a7"
+    },
     {
       "id": "d03720832cb754",
       "title": "臺灣創新板（tib-創）引領電動車與綠色移動產業鏈的資本化升級 制度彈性・市值核心・與「AI 新十大建設」及淨零轉型政策直接接軌",
@@ -110,42 +146,6 @@
       "publishedAt": "2026-07-31T14:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
-    },
-    {
-      "id": "1710fc1351716e",
-      "title": "資訊透明讓投資更踏實！理性評估ETF收益結構與產品特質",
-      "titleZh": "資訊透明讓投資更踏實！理性評估ETF收益結構與產品特質",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb7a5bf9c00b6"
-    },
-    {
-      "id": "a49bf2a2dc6474",
-      "title": "本週發行量加權股價指數跌幅約為1.23%，上市股票總市值達140.85兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為1.23%，上市股票總市值達140.85兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb781130700b2"
-    },
-    {
-      "id": "98fa2438f00b8d",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商禾碩康股份有限公司（NPIC Cayman）初次申請股票第一上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商禾碩康股份有限公司（NPIC Cayman）初次申請股票第一上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb775c2a600ae"
-    },
-    {
-      "id": "7ab426f5fb7a1d",
-      "title": "2026年6月集中市場相關數據",
-      "titleZh": "2026年6月集中市場相關數據",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-07-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fb6ffa4b200a6"
     },
     {
       "id": "0edb7afd0aae23",
