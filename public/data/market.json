@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-08-10T05:41:15.713Z",
+  "updatedAt": "2026-08-10T16:07:47.129Z",
   "timezone": "Asia/Taipei",
-  "session": "noon",
-  "dailyTrend": "bull",
+  "session": "morning",
+  "dailyTrend": "bear",
   "hourlyTrend": "mixed",
   "temperature": {
-    "score": 68,
-    "label": "風險偏好",
-    "lamp": "green"
+    "score": 57,
+    "label": "中性偏穩",
+    "lamp": "yellow"
   },
   "metrics": [
     {
@@ -29,12 +29,12 @@
       "id": "sp500",
       "name": "S&P 500",
       "symbol": "SPX",
-      "value": 7757.64013671875,
-      "change": 47.68017578125,
-      "changePercent": 0.6184231308959001,
+      "value": 7763.52001953125,
+      "change": 5.8798828125,
+      "changePercent": 0.07579473536893161,
       "unit": "點",
       "direction": "bull",
-      "asOf": "2026-08-07T13:30:00.000Z",
+      "asOf": "2026-08-10T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -42,12 +42,12 @@
       "id": "nasdaq",
       "name": "Nasdaq",
       "symbol": "NDX",
-      "value": 26690.619140625,
-      "change": 342.26953125,
-      "changePercent": 1.2990169643423022,
+      "value": 26661.8828125,
+      "change": -28.736328125,
+      "changePercent": -0.10766452427947348,
       "unit": "點",
-      "direction": "bull",
-      "asOf": "2026-08-07T13:30:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-08-10T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -55,12 +55,12 @@
       "id": "dow",
       "name": "Dow Jones",
       "symbol": "DJIA",
-      "value": 54036.9296875,
-      "change": 151.828125,
-      "changePercent": 0.2817627147346068,
+      "value": 53990.73046875,
+      "change": -46.19921875,
+      "changePercent": -0.08549563977297354,
       "unit": "點",
-      "direction": "bull",
-      "asOf": "2026-08-07T13:30:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-08-10T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -68,12 +68,12 @@
       "id": "sox",
       "name": "費城半導體",
       "symbol": "SOX",
-      "value": 12356.7900390625,
-      "change": 308.099609375,
-      "changePercent": 2.5571211342259628,
+      "value": 12165.9677734375,
+      "change": -190.822265625,
+      "changePercent": -1.5442705186522496,
       "unit": "點",
-      "direction": "bull",
-      "asOf": "2026-08-07T13:30:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-08-10T13:30:00.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -81,12 +81,12 @@
       "id": "vix",
       "name": "波動率指數",
       "symbol": "VIX",
-      "value": 15.15,
-      "change": -0.6600000000000001,
-      "changePercent": -4.174573055028464,
+      "value": 14.9,
+      "change": -0.25,
+      "changePercent": -1.65016501650165,
       "unit": "點",
       "direction": "bear",
-      "asOf": "2026-08-06T22:00:00.000Z",
+      "asOf": "2026-08-07T22:00:00.000Z",
       "sourceId": "fred",
       "status": "ok"
     },
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-08-10T05:41:15.713Z",
+      "asOf": "2026-08-10T16:07:47.129Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -107,12 +107,12 @@
       "id": "usdtwd",
       "name": "美元／台幣",
       "symbol": "USD/TWD",
-      "value": 32.20500183105469,
-      "change": -0.001796722412109375,
-      "changePercent": -0.0055787054063340695,
+      "value": 32.23899841308594,
+      "change": 0.032199859619140625,
+      "changePercent": 0.09997845506340951,
       "unit": "匯率",
-      "direction": "mixed",
-      "asOf": "2026-08-10T05:41:14.000Z",
+      "direction": "bull",
+      "asOf": "2026-08-10T16:07:44.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -145,30 +145,22 @@
   ],
   "sources": [
     {
-      "id": "yahoo",
-      "name": "Yahoo Finance 公開圖表端點",
-      "url": "https://finance.yahoo.com/",
-      "status": "ok",
-      "asOf": "2026-08-10T05:41:14.000Z",
-      "lastAttempt": "2026-08-10T05:41:15.713Z",
-      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
-    },
-    {
       "id": "fred",
       "name": "FRED（聖路易聯邦準備銀行）",
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
-      "asOf": "2026-08-06T22:00:00.000Z",
-      "lastAttempt": "2026-08-10T05:41:15.713Z",
+      "asOf": "2026-08-07T22:00:00.000Z",
+      "lastAttempt": "2026-08-10T16:07:47.129Z",
       "message": "3/3 個系列更新成功"
     },
     {
-      "id": "cboe",
-      "name": "Cboe Daily Market Statistics",
-      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
+      "id": "yahoo",
+      "name": "Yahoo Finance 公開圖表端點",
+      "url": "https://finance.yahoo.com/",
       "status": "ok",
-      "asOf": "2026-08-10T05:41:15.713Z",
-      "lastAttempt": "2026-08-10T05:41:15.713Z"
+      "asOf": "2026-08-10T16:07:44.000Z",
+      "lastAttempt": "2026-08-10T16:07:47.129Z",
+      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
       "id": "twse",
@@ -176,15 +168,23 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-08-07T05:30:00.000Z",
-      "lastAttempt": "2026-08-10T05:41:15.713Z"
+      "lastAttempt": "2026-08-10T16:07:47.129Z"
+    },
+    {
+      "id": "cboe",
+      "name": "Cboe Daily Market Statistics",
+      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
+      "status": "ok",
+      "asOf": "2026-08-10T16:07:47.129Z",
+      "lastAttempt": "2026-08-10T16:07:47.129Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-08-10T05:41:15.713Z",
-      "lastAttempt": "2026-08-10T05:41:15.713Z",
+      "asOf": "2026-08-10T16:07:47.129Z",
+      "lastAttempt": "2026-08-10T16:07:47.129Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
