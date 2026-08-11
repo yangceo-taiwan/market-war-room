@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-10T16:07:47.129Z",
+  "updatedAt": "2026-08-11T02:23:44.740Z",
   "status": "ok",
   "items": [
+    {
+      "id": "9d7fdfe4714cf9",
+      "title": "    SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-10T18:00:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
+    },
+    {
+      "id": "ddf68c020f8cbc",
+      "title": "富田電機股份有限公司上市股票自本（115）年8月11日起得為融資融券交易",
+      "titleZh": "富田電機股份有限公司上市股票自本（115）年8月11日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019feb01bf2600c5"
+    },
+    {
+      "id": "4d8ac3e80647a9",
+      "title": "和運租車股份有限公司股票自115年8月11日開始上市買賣",
+      "titleZh": "和運租車股份有限公司股票自115年8月11日開始上市買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fea5e545800c1"
+    },
+    {
+      "id": "837c402d10a7ab",
+      "title": "上週外資在集中市場買超266.90億元，買超緯創7.51萬張最多，另賣超聯電12.76萬張最多",
+      "titleZh": "上週外資在集中市場買超266.90億元，買超緯創7.51萬張最多，另賣超聯電12.76萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fea4f537900bd"
+    },
     {
       "id": "3988a8c4952202",
       "title": "2026年7月集中市場相關數據",
@@ -103,33 +139,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fc7914d450005"
     },
     {
-      "id": "9d700eac894a1c",
-      "title": "上市公司115年第2季財務報告公告申報期限及注意事項",
-      "titleZh": "上市公司115年第2季財務報告公告申報期限及注意事項",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-03T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fc738a3f100ca"
-    },
-    {
-      "id": "3b70a617544eef",
-      "title": "證交所修正公布注意暨處置規定，自115年8月10日起實施",
-      "titleZh": "證交所修正公布注意暨處置規定，自115年8月10日起實施",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-03T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fc6ff768600c2"
-    },
-    {
-      "id": "8150ac8451d7ca",
-      "title": "上週外資在集中市場賣超824.55億元，賣超旺宏3.77萬張最多，另買超長榮航13.70萬張最多",
-      "titleZh": "上週外資在集中市場賣超824.55億元，賣超旺宏3.77萬張最多，另買超長榮航13.70萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-03T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69f96ff79019fc5ab268800bc"
-    },
-    {
       "id": "eb335d09e7f6ad",
       "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-27T19:59:17.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
-    },
-    {
-      "id": "34e3b4bcfadc9e",
-      "title": "    SEC Announces Roundtable on Preparations for 24-Hour Trading\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Roundtable on Preparations for 24-Hour Trading\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-07-23T15:04:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
     }
   ]
 }
