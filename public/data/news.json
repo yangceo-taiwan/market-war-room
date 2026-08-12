@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T16:08:44.108Z",
+  "updatedAt": "2026-08-12T02:40:14.612Z",
   "status": "ok",
   "items": [
+    {
+      "id": "43b672da1cbd3c",
+      "title": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月12日起暫停交易",
+      "titleZh": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月12日起暫停交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff049e15300dd"
+    },
+    {
+      "id": "bf9a32c9a710ac",
+      "title": "自115年8月13日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
+      "titleZh": "自115年8月13日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff020663200d7"
+    },
+    {
+      "id": "a8f3fc72343791",
+      "title": "證交所舉辦「臺灣運動產業暨資本趨勢論壇」串聯運動產業與資本市場　臺灣創新板(tib-創)助攻企業成長",
+      "titleZh": "證交所舉辦「臺灣運動產業暨資本趨勢論壇」串聯運動產業與資本市場　臺灣創新板(tib-創)助攻企業成長",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff00edc2300d5"
+    },
+    {
+      "id": "23b7d311b4e766",
+      "title": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年7月份當月營收較114年同期成長48.16％，累計營業收入較114年同期成長34.47％",
+      "titleZh": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年7月份當月營收較114年同期成長48.16％，累計營業收入較114年同期成長34.47％",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fefd311df00d1"
+    },
+    {
+      "id": "37a8c15ade016b",
+      "title": "心誠鎂行動醫電股份有限公司上市股票自本（115）年8月12日起得為融資融券交易",
+      "titleZh": "心誠鎂行動醫電股份有限公司上市股票自本（115）年8月12日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fefc992d200cd"
+    },
     {
       "id": "9d7fdfe4714cf9",
       "title": "    SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
@@ -58,33 +103,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb9440da00af"
     },
     {
-      "id": "7bc6a990ee11e9",
-      "title": "自115年8月10日起，證交所將採行公布注意暨處置新規定",
-      "titleZh": "自115年8月10日起，證交所將採行公布注意暨處置新規定",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb6d4e0500ab"
-    },
-    {
-      "id": "95d3635bbeba7b",
-      "title": "華德動能科技股份有限公司股票自115年8月10日於臺灣創新板上市開始買賣",
-      "titleZh": "華德動能科技股份有限公司股票自115年8月10日於臺灣創新板上市開始買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb645a4900a7"
-    },
-    {
-      "id": "d03720832cb754",
-      "title": "臺灣創新板（tib-創）引領電動車與綠色移動產業鏈的資本化升級 制度彈性・市值核心・與「AI 新十大建設」及淨零轉型政策直接接軌",
-      "titleZh": "臺灣創新板（tib-創）引領電動車與綠色移動產業鏈的資本化升級 制度彈性・市值核心・與「AI 新十大建設」及淨零轉型政策直接接軌",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-06T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fd65c2f490073"
-    },
-    {
       "id": "a40b27280c0bc4",
       "title": "  SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
@@ -119,24 +137,6 @@
       "publishedAt": "2026-08-04T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
-    },
-    {
-      "id": "8891816f59060a",
-      "title": "證交所攜手企業持續深耕培育屏東足球小將 臺灣少年足球計畫耕耘十二載 成果豐碩",
-      "titleZh": "證交所攜手企業持續深耕培育屏東足球小將 臺灣少年足球計畫耕耘十二載 成果豐碩",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fca6442f20009"
-    },
-    {
-      "id": "8aa38b73421bdd",
-      "title": "金管會、國發會啟動「TiBOOST 創新大步計畫」徵件 臺灣創新板(tib-創)助攻新創成長",
-      "titleZh": "金管會、國發會啟動「TiBOOST 創新大步計畫」徵件 臺灣創新板(tib-創)助攻新創成長",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-03T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fc7914d450005"
     },
     {
       "id": "eb335d09e7f6ad",
