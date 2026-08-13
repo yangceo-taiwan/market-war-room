@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T16:06:47.911Z",
+  "updatedAt": "2026-08-13T02:42:38.445Z",
   "status": "ok",
   "items": [
+    {
+      "id": "5f105e0b59b28d",
+      "title": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月13日起暫停交易",
+      "titleZh": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月13日起暫停交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff5a2b5b700f9"
+    },
+    {
+      "id": "888fa2d6ac9ed2",
+      "title": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月13日起恢復交易",
+      "titleZh": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月13日起恢復交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff56dbd6900f5"
+    },
+    {
+      "id": "8419f6d87d80ed",
+      "title": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，公司代號：1589）違反上市公司董事會設置及行使職權應遵循事項要點規定，處以新台幣10萬元違約金",
+      "titleZh": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，公司代號：1589）違反上市公司董事會設置及行使職權應遵循事項要點規定，處以新台幣10萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff514901100ef"
+    },
+    {
+      "id": "08e376a96a41b8",
+      "title": "奧義賽博科技股份有限公司上市股票自本(115)年8月13日起得為融資融券交易",
+      "titleZh": "奧義賽博科技股份有限公司上市股票自本(115)年8月13日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff4fcdaa600ea"
+    },
+    {
+      "id": "0016b6b0259b07",
+      "title": "證交所創新板 X 文總《創新辦桌》系列2 用「桌遊」讓世界看見臺灣",
+      "titleZh": "證交所創新板 X 文總《創新辦桌》系列2 用「桌遊」讓世界看見臺灣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff4e4895400e5"
+    },
     {
       "id": "43b672da1cbd3c",
       "title": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月12日起暫停交易",
@@ -56,51 +101,6 @@
       "publishedAt": "2026-08-10T18:00:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
-    },
-    {
-      "id": "ddf68c020f8cbc",
-      "title": "富田電機股份有限公司上市股票自本（115）年8月11日起得為融資融券交易",
-      "titleZh": "富田電機股份有限公司上市股票自本（115）年8月11日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019feb01bf2600c5"
-    },
-    {
-      "id": "4d8ac3e80647a9",
-      "title": "和運租車股份有限公司股票自115年8月11日開始上市買賣",
-      "titleZh": "和運租車股份有限公司股票自115年8月11日開始上市買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fea5e545800c1"
-    },
-    {
-      "id": "837c402d10a7ab",
-      "title": "上週外資在集中市場買超266.90億元，買超緯創7.51萬張最多，另賣超聯電12.76萬張最多",
-      "titleZh": "上週外資在集中市場買超266.90億元，買超緯創7.51萬張最多，另賣超聯電12.76萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fea4f537900bd"
-    },
-    {
-      "id": "3988a8c4952202",
-      "title": "2026年7月集中市場相關數據",
-      "titleZh": "2026年7月集中市場相關數據",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb9fb4d600b3"
-    },
-    {
-      "id": "f0814360898715",
-      "title": "本週發行量加權股價指數漲幅約為2.57%，上市股票總市值達144.56兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為2.57%，上市股票總市值達144.56兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fdb9440da00af"
     },
     {
       "id": "a40b27280c0bc4",
