@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T16:07:13.672Z",
+  "updatedAt": "2026-08-14T02:40:54.831Z",
   "status": "ok",
   "items": [
+    {
+      "id": "e64768cae40230",
+      "title": "    SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-13T20:32:19.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish"
+    },
     {
       "id": "4a05721678c735",
       "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
@@ -11,6 +20,42 @@
       "publishedAt": "2026-08-13T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm"
+    },
+    {
+      "id": "0358766982e4ec",
+      "title": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月14日起恢復交易",
+      "titleZh": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月14日起恢復交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffabea61b010f"
+    },
+    {
+      "id": "b03872b8f9bc79",
+      "title": "不法人士冒用證交所董事長名義發布投資詐騙訊息 證交所籲請民眾提高警覺",
+      "titleZh": "不法人士冒用證交所董事長名義發布投資詐騙訊息 證交所籲請民眾提高警覺",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffab8defc010d"
+    },
+    {
+      "id": "469089f5a1d08b",
+      "title": "臺灣穩居MSCI新興市場第一大市場 上市企業國際競爭力再獲肯定",
+      "titleZh": "臺灣穩居MSCI新興市場第一大市場 上市企業國際競爭力再獲肯定",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffa5c9b800109"
+    },
+    {
+      "id": "3c5e713d4db324",
+      "title": "2026年第3季MSCI指數臺股權重調整結果",
+      "titleZh": "2026年第3季MSCI指數臺股權重調整結果",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffa56a0a00105"
     },
     {
       "id": "5f105e0b59b28d",
@@ -65,42 +110,6 @@
       "publishedAt": "2026-08-11T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff049e15300dd"
-    },
-    {
-      "id": "bf9a32c9a710ac",
-      "title": "自115年8月13日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
-      "titleZh": "自115年8月13日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff020663200d7"
-    },
-    {
-      "id": "a8f3fc72343791",
-      "title": "證交所舉辦「臺灣運動產業暨資本趨勢論壇」串聯運動產業與資本市場　臺灣創新板(tib-創)助攻企業成長",
-      "titleZh": "證交所舉辦「臺灣運動產業暨資本趨勢論壇」串聯運動產業與資本市場　臺灣創新板(tib-創)助攻企業成長",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff00edc2300d5"
-    },
-    {
-      "id": "23b7d311b4e766",
-      "title": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年7月份當月營收較114年同期成長48.16％，累計營業收入較114年同期成長34.47％",
-      "titleZh": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年7月份當月營收較114年同期成長48.16％，累計營業收入較114年同期成長34.47％",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fefd311df00d1"
-    },
-    {
-      "id": "37a8c15ade016b",
-      "title": "心誠鎂行動醫電股份有限公司上市股票自本（115）年8月12日起得為融資融券交易",
-      "titleZh": "心誠鎂行動醫電股份有限公司上市股票自本（115）年8月12日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fefc992d200cd"
     },
     {
       "id": "9d7fdfe4714cf9",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-30T13:53:38.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting"
-    },
-    {
-      "id": "e26fe2c63abaa5",
-      "title": "  Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-07-27T19:59:17.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
     }
   ]
 }
