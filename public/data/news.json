@@ -1,8 +1,62 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T16:02:47.362Z",
+  "updatedAt": "2026-08-15T01:46:43.327Z",
   "status": "ok",
   "items": [
+    {
+      "id": "99ec08dcf9f72e",
+      "title": "    SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-14T20:16:34.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
+    },
+    {
+      "id": "ce1db823ceeaf3",
+      "title": "臺灣證券交易所對華碩電腦股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+      "titleZh": "臺灣證券交易所對華碩電腦股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0001e54d40130"
+    },
+    {
+      "id": "dbe2e26217273d",
+      "title": "本國上市公司(不含金融保險公司) 除凌巨外，均已申報115年第2季財務報告",
+      "titleZh": "本國上市公司(不含金融保險公司) 除凌巨外，均已申報115年第2季財務報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a000199b83012c"
+    },
+    {
+      "id": "15f5c0c278f992",
+      "title": "115年第3季得為上市認購（售）權證（含牛熊證）之標的證券",
+      "titleZh": "115年第3季得為上市認購（售）權證（含牛熊證）之標的證券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fffdfba790126"
+    },
+    {
+      "id": "c8f85dddc20d58",
+      "title": "本週發行量加權股價指數漲幅約為3.58%，上市股票總市值達149.74兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為3.58%，上市股票總市值達149.74兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fffa599520119"
+    },
+    {
+      "id": "4b28137ce8d59c",
+      "title": "從在地 IP 到國際獨角獸！證交所跨界《創新辦桌》轉譯拓荒精神 以市值多元標準對接全球資本，為臺灣孵化下一波護國群山",
+      "titleZh": "從在地 IP 到國際獨角獸！證交所跨界《創新辦桌》轉譯拓荒精神 以市值多元標準對接全球資本，為臺灣孵化下一波護國群山",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffe271cac0113"
+    },
     {
       "id": "e64768cae40230",
       "title": "    SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
@@ -67,51 +121,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff5a2b5b700f9"
     },
     {
-      "id": "888fa2d6ac9ed2",
-      "title": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月13日起恢復交易",
-      "titleZh": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月13日起恢復交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff56dbd6900f5"
-    },
-    {
-      "id": "8419f6d87d80ed",
-      "title": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，公司代號：1589）違反上市公司董事會設置及行使職權應遵循事項要點規定，處以新台幣10萬元違約金",
-      "titleZh": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，公司代號：1589）違反上市公司董事會設置及行使職權應遵循事項要點規定，處以新台幣10萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff514901100ef"
-    },
-    {
-      "id": "08e376a96a41b8",
-      "title": "奧義賽博科技股份有限公司上市股票自本(115)年8月13日起得為融資融券交易",
-      "titleZh": "奧義賽博科技股份有限公司上市股票自本(115)年8月13日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff4fcdaa600ea"
-    },
-    {
-      "id": "0016b6b0259b07",
-      "title": "證交所創新板 X 文總《創新辦桌》系列2 用「桌遊」讓世界看見臺灣",
-      "titleZh": "證交所創新板 X 文總《創新辦桌》系列2 用「桌遊」讓世界看見臺灣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff4e4895400e5"
-    },
-    {
-      "id": "43b672da1cbd3c",
-      "title": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月12日起暫停交易",
-      "titleZh": "榮成紙業股份有限公司(榮成，公司代號：1909)上市普通股自115年8月12日起暫停交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff049e15300dd"
-    },
-    {
       "id": "9d7fdfe4714cf9",
       "title": "  SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-07-31T14:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
-    },
-    {
-      "id": "bc6ea1b675bedb",
-      "title": "  SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Continuation of Small Business Advisory Committee Meeting\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-07-30T13:53:38.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting"
     }
   ]
 }

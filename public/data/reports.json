@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T16:02:47.362Z",
+  "updatedAt": "2026-08-15T01:46:43.327Z",
   "reports": [
+    {
+      "date": "2026-08-15",
+      "session": "morning",
+      "generatedAt": "2026-08-15T01:46:43.327Z",
+      "temperature": {
+        "score": 57,
+        "label": "中性偏穩",
+        "lamp": "yellow"
+      },
+      "dailyTrend": "bear",
+      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
+      "verification": null
+    },
     {
       "date": "2026-08-14",
       "session": "morning",
