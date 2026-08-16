@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-08-16T04:47:12.035Z",
+  "updatedAt": "2026-08-16T15:32:55.525Z",
   "timezone": "Asia/Taipei",
-  "session": "noon",
+  "session": "night",
   "dailyTrend": "bear",
   "hourlyTrend": "mixed",
   "temperature": {
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-08-16T04:47:12.035Z",
+      "asOf": "2026-08-16T15:32:55.525Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -112,7 +112,7 @@
       "changePercent": -0.3738567462362578,
       "unit": "匯率",
       "direction": "bear",
-      "asOf": "2026-08-15T01:36:18.000Z",
+      "asOf": "2026-08-16T15:22:02.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -145,21 +145,12 @@
   ],
   "sources": [
     {
-      "id": "fred",
-      "name": "FRED（聖路易聯邦準備銀行）",
-      "url": "https://fred.stlouisfed.org/",
-      "status": "ok",
-      "asOf": "2026-08-13T22:00:00.000Z",
-      "lastAttempt": "2026-08-16T04:47:12.035Z",
-      "message": "3/3 個系列更新成功"
-    },
-    {
       "id": "yahoo",
       "name": "Yahoo Finance 公開圖表端點",
       "url": "https://finance.yahoo.com/",
       "status": "ok",
-      "asOf": "2026-08-15T01:36:18.000Z",
-      "lastAttempt": "2026-08-16T04:47:12.035Z",
+      "asOf": "2026-08-16T15:22:02.000Z",
+      "lastAttempt": "2026-08-16T15:32:55.525Z",
       "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
@@ -168,23 +159,32 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-08-14T05:30:00.000Z",
-      "lastAttempt": "2026-08-16T04:47:12.035Z"
+      "lastAttempt": "2026-08-16T15:32:55.525Z"
     },
     {
       "id": "cboe",
       "name": "Cboe Daily Market Statistics",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
       "status": "ok",
-      "asOf": "2026-08-16T04:47:12.035Z",
-      "lastAttempt": "2026-08-16T04:47:12.035Z"
+      "asOf": "2026-08-16T15:32:55.525Z",
+      "lastAttempt": "2026-08-16T15:32:55.525Z"
+    },
+    {
+      "id": "fred",
+      "name": "FRED（聖路易聯邦準備銀行）",
+      "url": "https://fred.stlouisfed.org/",
+      "status": "ok",
+      "asOf": "2026-08-13T22:00:00.000Z",
+      "lastAttempt": "2026-08-16T15:32:55.525Z",
+      "message": "3/3 個系列更新成功"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-08-16T04:47:12.035Z",
-      "lastAttempt": "2026-08-16T04:47:12.035Z",
+      "asOf": "2026-08-16T15:32:55.525Z",
+      "lastAttempt": "2026-08-16T15:32:55.525Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
