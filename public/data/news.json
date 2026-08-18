@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T15:35:54.054Z",
+  "updatedAt": "2026-08-18T01:47:47.159Z",
   "status": "ok",
   "items": [
+    {
+      "id": "bc57872136c948",
+      "title": "本國上市公司(不含金融保險業)115年上半年度營收成長32.83%、獲利成長92.88%，基本面表現穩健",
+      "titleZh": "本國上市公司(不含金融保險業)115年上半年度營收成長32.83%、獲利成長92.88%，基本面表現穩健",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f39d4820154"
+    },
+    {
+      "id": "eb3ae1b626e961",
+      "title": "堤維西交通工業股份有限公司(堤維西，公司代號：1522)發行之甲種特別股(堤維西甲特，股票代號：1522A)將於115年10月8日終止上市",
+      "titleZh": "堤維西交通工業股份有限公司(堤維西，公司代號：1522)發行之甲種特別股(堤維西甲特，股票代號：1522A)將於115年10月8日終止上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f259c7f0150"
+    },
+    {
+      "id": "034eb32e7f7d59",
+      "title": "國內上市公司115年第2季財務報告形式審閱結果處置情形",
+      "titleZh": "國內上市公司115年第2季財務報告形式審閱結果處置情形",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f1e0ad5014c"
+    },
+    {
+      "id": "c7a65537918549",
+      "title": "2026臺灣週將於11月3日至13日舉行",
+      "titleZh": "2026臺灣週將於11月3日至13日舉行",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00eae654a013f"
+    },
+    {
+      "id": "7f4ca3fddc0935",
+      "title": "上週外資在集中市場買超2,061.36億元，買超力積電31.64萬張最多，另賣超華航14.72萬張最多",
+      "titleZh": "上週外資在集中市場買超2,061.36億元，買超力積電31.64萬張最多，另賣超華航14.72萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00e7609880137"
+    },
     {
       "id": "99ec08dcf9f72e",
       "title": "    SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
@@ -74,51 +119,6 @@
       "publishedAt": "2026-08-13T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm"
-    },
-    {
-      "id": "0358766982e4ec",
-      "title": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月14日起恢復交易",
-      "titleZh": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月14日起恢復交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-13T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffabea61b010f"
-    },
-    {
-      "id": "b03872b8f9bc79",
-      "title": "不法人士冒用證交所董事長名義發布投資詐騙訊息 證交所籲請民眾提高警覺",
-      "titleZh": "不法人士冒用證交所董事長名義發布投資詐騙訊息 證交所籲請民眾提高警覺",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-13T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffab8defc010d"
-    },
-    {
-      "id": "469089f5a1d08b",
-      "title": "臺灣穩居MSCI新興市場第一大市場 上市企業國際競爭力再獲肯定",
-      "titleZh": "臺灣穩居MSCI新興市場第一大市場 上市企業國際競爭力再獲肯定",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-13T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffa5c9b800109"
-    },
-    {
-      "id": "3c5e713d4db324",
-      "title": "2026年第3季MSCI指數臺股權重調整結果",
-      "titleZh": "2026年第3季MSCI指數臺股權重調整結果",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-13T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffa56a0a00105"
-    },
-    {
-      "id": "5f105e0b59b28d",
-      "title": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月13日起暫停交易",
-      "titleZh": "泰山企業股份有限公司(泰山，公司代號：1218)上市普通股自115年8月13日起暫停交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ff5a2b5b700f9"
     },
     {
       "id": "9d7fdfe4714cf9",
