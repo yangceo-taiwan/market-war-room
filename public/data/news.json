@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T15:43:15.723Z",
+  "updatedAt": "2026-08-19T01:49:48.799Z",
   "status": "ok",
   "items": [
+    {
+      "id": "32f74f9449752b",
+      "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-18T19:55:10.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor"
+    },
+    {
+      "id": "9faf3525a072ef",
+      "title": "    SEC Proposes New Regulation Crypto Assets\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes New Regulation Crypto Assets\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-18T17:15:48.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+    },
     {
       "id": "bc57872136c948",
       "title": "本國上市公司(不含金融保險業)115年上半年度營收成長32.83%、獲利成長92.88%，基本面表現穩健",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-08-04T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
-    },
-    {
-      "id": "eb335d09e7f6ad",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-31T14:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm"
-    },
-    {
-      "id": "185e475f6a0f32",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-07-31T14:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
     }
   ]
 }
