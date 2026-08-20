@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T15:42:45.051Z",
+  "updatedAt": "2026-08-20T01:48:31.265Z",
   "status": "ok",
   "items": [
+    {
+      "id": "b5566fcaa719f1",
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-08-19T18:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
+    },
+    {
+      "id": "7916e4a62b9faa",
+      "title": "大華銀投信募集發行之大華銀韓國 KOSPI 50 ETF，自115年8月21日起掛牌上市，並得辦理融資融券",
+      "titleZh": "大華銀投信募集發行之大華銀韓國 KOSPI 50 ETF，自115年8月21日起掛牌上市，並得辦理融資融券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0193351860166"
+    },
     {
       "id": "32f74f9449752b",
       "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
@@ -14,8 +32,8 @@
     },
     {
       "id": "9faf3525a072ef",
-      "title": "  SEC Proposes New Regulation Crypto Assets\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes New Regulation Crypto Assets\n",
+      "title": "    SEC Proposes New Regulation Crypto Assets\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes New Regulation Crypto Assets\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-08-18T17:15:48.000Z",
       "category": "法規",
@@ -112,15 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fffa599520119"
     },
     {
-      "id": "4b28137ce8d59c",
-      "title": "從在地 IP 到國際獨角獸！證交所跨界《創新辦桌》轉譯拓荒精神 以市值多元標準對接全球資本，為臺灣孵化下一波護國群山",
-      "titleZh": "從在地 IP 到國際獨角獸！證交所跨界《創新辦桌》轉譯拓荒精神 以市值多元標準對接全球資本，為臺灣孵化下一波護國群山",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019ffe271cac0113"
-    },
-    {
       "id": "e64768cae40230",
       "title": "  SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-04T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm"
-    },
-    {
-      "id": "5dd3b15c1679b2",
-      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-08-04T20:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
     }
   ]
 }
