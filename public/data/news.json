@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T15:46:17.148Z",
+  "updatedAt": "2026-08-21T01:54:48.653Z",
   "status": "ok",
   "items": [
+    {
+      "id": "76883b84117f3b",
+      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm"
+    },
     {
       "id": "9e559a2c074cc6",
       "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
@@ -20,6 +29,33 @@
       "publishedAt": "2026-08-20T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm"
+    },
+    {
+      "id": "a699cc259a0887",
+      "title": "盤中零股交易新制12月7日上路，上午9時與整股交易同步開盤",
+      "titleZh": "盤中零股交易新制12月7日上路，上午9時與整股交易同步開盤",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a01eac65070178"
+    },
+    {
+      "id": "6acbc484cb32f9",
+      "title": "證交所攜手凱基證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "titleZh": "證交所攜手凱基證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a01e92be7f0174"
+    },
+    {
+      "id": "52e2d08ebef093",
+      "title": "證交所赴日參與國發會SIT臺日新創高峰會及SparkLabs交流會 深化臺灣創新板(tib-創)與日本新創鏈結",
+      "titleZh": "證交所赴日參與國發會SIT臺日新創高峰會及SparkLabs交流會 深化臺灣創新板(tib-創)與日本新創鏈結",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a01e871d280170"
     },
     {
       "id": "b5566fcaa719f1",
@@ -121,33 +157,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0001e54d40130"
     },
     {
-      "id": "dbe2e26217273d",
-      "title": "本國上市公司(不含金融保險公司) 除凌巨外，均已申報115年第2季財務報告",
-      "titleZh": "本國上市公司(不含金融保險公司) 除凌巨外，均已申報115年第2季財務報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a000199b83012c"
-    },
-    {
-      "id": "15f5c0c278f992",
-      "title": "115年第3季得為上市認購（售）權證（含牛熊證）之標的證券",
-      "titleZh": "115年第3季得為上市認購（售）權證（含牛熊證）之標的證券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fffdfba790126"
-    },
-    {
-      "id": "c8f85dddc20d58",
-      "title": "本週發行量加權股價指數漲幅約為3.58%，上市股票總市值達149.74兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為3.58%，上市股票總市值達149.74兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da0019fffa599520119"
-    },
-    {
       "id": "e64768cae40230",
       "title": "  SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-10T18:00:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
-    },
-    {
-      "id": "a40b27280c0bc4",
-      "title": "  SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-05T18:30:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
     }
   ]
 }
