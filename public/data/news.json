@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T15:45:27.356Z",
+  "updatedAt": "2026-08-22T01:47:15.187Z",
   "status": "ok",
   "items": [
+    {
+      "id": "e7b8e5234d22e7",
+      "title": "本週發行量加權股價指數跌幅約為1.28%，上市股票總市值達147.84兆元",
+      "titleZh": "本週發行量加權股價指數跌幅約為1.28%，上市股票總市值達147.84兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-21T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a023e5afff0001"
+    },
+    {
+      "id": "27d17cedc7de6a",
+      "title": "證交所「公布注意暨處置專區」正式上線，便利投資人一站式查詢",
+      "titleZh": "證交所「公布注意暨處置專區」正式上線，便利投資人一站式查詢",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-21T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0239fdd01a023a877360001"
+    },
+    {
+      "id": "93a65a5c88a13f",
+      "title": "臺灣創新板（tib-創）鏈結精準健康 助攻生醫資本化",
+      "titleZh": "臺灣創新板（tib-創）鏈結精準健康 助攻生醫資本化",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-21T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0235fb3e40184"
+    },
+    {
+      "id": "def266840b89c3",
+      "title": "115年第2季財務報告資料符合暫停及恢復融資融券交易之上市股票名單",
+      "titleZh": "115年第2季財務報告資料符合暫停及恢復融資融券交易之上市股票名單",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-21T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a02356b8040180"
+    },
     {
       "id": "76883b84117f3b",
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -112,33 +148,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f259c7f0150"
     },
     {
-      "id": "034eb32e7f7d59",
-      "title": "國內上市公司115年第2季財務報告形式審閱結果處置情形",
-      "titleZh": "國內上市公司115年第2季財務報告形式審閱結果處置情形",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f1e0ad5014c"
-    },
-    {
-      "id": "c7a65537918549",
-      "title": "2026臺灣週將於11月3日至13日舉行",
-      "titleZh": "2026臺灣週將於11月3日至13日舉行",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00eae654a013f"
-    },
-    {
-      "id": "7f4ca3fddc0935",
-      "title": "上週外資在集中市場買超2,061.36億元，買超力積電31.64萬張最多，另賣超華航14.72萬張最多",
-      "titleZh": "上週外資在集中市場買超2,061.36億元，買超力積電31.64萬張最多，另賣超華航14.72萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00e7609880137"
-    },
-    {
       "id": "99ec08dcf9f72e",
       "title": "  SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
@@ -146,15 +155,6 @@
       "publishedAt": "2026-08-14T20:16:34.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
-    },
-    {
-      "id": "ce1db823ceeaf3",
-      "title": "臺灣證券交易所對華碩電腦股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
-      "titleZh": "臺灣證券交易所對華碩電腦股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0001e54d40130"
     },
     {
       "id": "e64768cae40230",
