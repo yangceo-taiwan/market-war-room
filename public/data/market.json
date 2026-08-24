@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-08-23T15:33:39.523Z",
+  "updatedAt": "2026-08-24T01:54:50.481Z",
   "timezone": "Asia/Taipei",
-  "session": "night",
+  "session": "morning",
   "dailyTrend": "bull",
   "hourlyTrend": "mixed",
   "temperature": {
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-08-23T15:33:39.523Z",
+      "asOf": "2026-08-24T01:54:50.481Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -107,12 +107,12 @@
       "id": "usdtwd",
       "name": "美元／台幣",
       "symbol": "USD/TWD",
-      "value": 31.822999954223633,
-      "change": -0.015300750732421875,
-      "changePercent": -0.04805768647709301,
+      "value": 31.790000915527344,
+      "change": -0.04829978942871094,
+      "changePercent": -0.15170341494133963,
       "unit": "匯率",
-      "direction": "mixed",
-      "asOf": "2026-08-23T14:14:04.000Z",
+      "direction": "bear",
+      "asOf": "2026-08-24T01:54:49.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -145,22 +145,30 @@
   ],
   "sources": [
     {
+      "id": "yahoo",
+      "name": "Yahoo Finance 公開圖表端點",
+      "url": "https://finance.yahoo.com/",
+      "status": "ok",
+      "asOf": "2026-08-24T01:54:49.000Z",
+      "lastAttempt": "2026-08-24T01:54:50.481Z",
+      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
+    },
+    {
       "id": "fred",
       "name": "FRED（聖路易聯邦準備銀行）",
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
       "asOf": "2026-08-20T22:00:00.000Z",
-      "lastAttempt": "2026-08-23T15:33:39.523Z",
+      "lastAttempt": "2026-08-24T01:54:50.481Z",
       "message": "3/3 個系列更新成功"
     },
     {
-      "id": "yahoo",
-      "name": "Yahoo Finance 公開圖表端點",
-      "url": "https://finance.yahoo.com/",
+      "id": "cboe",
+      "name": "Cboe Daily Market Statistics",
+      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
       "status": "ok",
-      "asOf": "2026-08-23T14:14:04.000Z",
-      "lastAttempt": "2026-08-23T15:33:39.523Z",
-      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
+      "asOf": "2026-08-24T01:54:50.481Z",
+      "lastAttempt": "2026-08-24T01:54:50.481Z"
     },
     {
       "id": "twse",
@@ -168,23 +176,15 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-08-21T05:30:00.000Z",
-      "lastAttempt": "2026-08-23T15:33:39.523Z"
-    },
-    {
-      "id": "cboe",
-      "name": "Cboe Daily Market Statistics",
-      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
-      "status": "ok",
-      "asOf": "2026-08-23T15:33:39.523Z",
-      "lastAttempt": "2026-08-23T15:33:39.523Z"
+      "lastAttempt": "2026-08-24T01:54:50.481Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-08-23T15:33:39.523Z",
-      "lastAttempt": "2026-08-23T15:33:39.523Z",
+      "asOf": "2026-08-24T01:54:50.481Z",
+      "lastAttempt": "2026-08-24T01:54:50.481Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
