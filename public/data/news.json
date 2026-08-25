@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T15:51:50.168Z",
+  "updatedAt": "2026-08-25T01:48:55.130Z",
   "status": "ok",
   "items": [
+    {
+      "id": "ac4d5f356d4fc9",
+      "title": "怡華實業股份有限公司等17家公司預計於115年9月份假證交所場地自行舉辦法人說明會",
+      "titleZh": "怡華實業股份有限公司等17家公司預計於115年9月份假證交所場地自行舉辦法人說明會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03346d9350014"
+    },
+    {
+      "id": "b46fbbba4ed4a1",
+      "title": "臺灣證券交易所訂於8月26日召開有價證券上市審議委員會第891次會議，將審議兆捷科技國際(股)公司之申請股票創新板上市案",
+      "titleZh": "臺灣證券交易所訂於8月26日召開有價證券上市審議委員會第891次會議，將審議兆捷科技國際(股)公司之申請股票創新板上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0333ec0040010"
+    },
+    {
+      "id": "97a7aea170cd2c",
+      "title": "上週外資在集中市場買超274.45億元，買超陽明16.12萬張最多，另賣超力積電18.78萬張最多",
+      "titleZh": "上週外資在集中市場買超274.45億元，買超陽明16.12萬張最多，另賣超力積電18.78萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03260875d0005"
+    },
     {
       "id": "e7b8e5234d22e7",
       "title": "本週發行量加權股價指數跌幅約為1.28%，上市股票總市值達147.84兆元",
@@ -103,15 +130,6 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
     },
     {
-      "id": "7916e4a62b9faa",
-      "title": "大華銀投信募集發行之大華銀韓國 KOSPI 50 ETF，自115年8月21日起掛牌上市，並得辦理融資融券",
-      "titleZh": "大華銀投信募集發行之大華銀韓國 KOSPI 50 ETF，自115年8月21日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-19T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0193351860166"
-    },
-    {
       "id": "32f74f9449752b",
       "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
       "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
@@ -128,24 +146,6 @@
       "publishedAt": "2026-08-18T17:15:48.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
-    },
-    {
-      "id": "bc57872136c948",
-      "title": "本國上市公司(不含金融保險業)115年上半年度營收成長32.83%、獲利成長92.88%，基本面表現穩健",
-      "titleZh": "本國上市公司(不含金融保險業)115年上半年度營收成長32.83%、獲利成長92.88%，基本面表現穩健",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f39d4820154"
-    },
-    {
-      "id": "eb3ae1b626e961",
-      "title": "堤維西交通工業股份有限公司(堤維西，公司代號：1522)發行之甲種特別股(堤維西甲特，股票代號：1522A)將於115年10月8日終止上市",
-      "titleZh": "堤維西交通工業股份有限公司(堤維西，公司代號：1522)發行之甲種特別股(堤維西甲特，股票代號：1522A)將於115年10月8日終止上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a00f259c7f0150"
     },
     {
       "id": "99ec08dcf9f72e",
