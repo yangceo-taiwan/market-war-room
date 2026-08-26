@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T15:55:44.967Z",
+  "updatedAt": "2026-08-26T01:55:32.545Z",
   "status": "ok",
   "items": [
+    {
+      "id": "bd71477dc4cc1a",
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-08-25T18:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
+    },
+    {
+      "id": "d03fd3072e3550",
+      "title": "凌巨科技股份有限公司上市有價證券自115年8月27日起恢復買賣",
+      "titleZh": "凌巨科技股份有限公司上市有價證券自115年8月27日起恢復買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03877623c004b"
+    },
+    {
+      "id": "2efab69b2a1d33",
+      "title": "臺灣證券交易所攜手四家半導體創新企業參展「SEMICON Taiwan 2026」",
+      "titleZh": "臺灣證券交易所攜手四家半導體創新企業參展「SEMICON Taiwan 2026」",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a037ea14480020"
+    },
+    {
+      "id": "6c3bff89df56c8",
+      "title": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+      "titleZh": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a037d828f9001c"
+    },
+    {
+      "id": "00580aeb48e6b1",
+      "title": "證交所攜手富邦證券於9月3日「SEMICON Taiwan」辦理主題式業績發表會及產業講座，7家上市公司與產業專家接力開講!",
+      "titleZh": "證交所攜手富邦證券於9月3日「SEMICON Taiwan」辦理主題式業績發表會及產業講座，7家上市公司與產業專家接力開講!",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03788dd0e0018"
+    },
     {
       "id": "ac4d5f356d4fc9",
       "title": "怡華實業股份有限公司等17家公司預計於115年9月份假證交所場地自行舉辦法人說明會",
@@ -58,15 +103,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0235fb3e40184"
     },
     {
-      "id": "def266840b89c3",
-      "title": "115年第2季財務報告資料符合暫停及恢復融資融券交易之上市股票名單",
-      "titleZh": "115年第2季財務報告資料符合暫停及恢復融資融券交易之上市股票名單",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-21T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a02356b8040180"
-    },
-    {
       "id": "76883b84117f3b",
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -92,33 +128,6 @@
       "publishedAt": "2026-08-20T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm"
-    },
-    {
-      "id": "a699cc259a0887",
-      "title": "盤中零股交易新制12月7日上路，上午9時與整股交易同步開盤",
-      "titleZh": "盤中零股交易新制12月7日上路，上午9時與整股交易同步開盤",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a01eac65070178"
-    },
-    {
-      "id": "6acbc484cb32f9",
-      "title": "證交所攜手凱基證券 共同舉辦推動優質企業啓航資本市場交流會",
-      "titleZh": "證交所攜手凱基證券 共同舉辦推動優質企業啓航資本市場交流會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a01e92be7f0174"
-    },
-    {
-      "id": "52e2d08ebef093",
-      "title": "證交所赴日參與國發會SIT臺日新創高峰會及SparkLabs交流會 深化臺灣創新板(tib-創)與日本新創鏈結",
-      "titleZh": "證交所赴日參與國發會SIT臺日新創高峰會及SparkLabs交流會 深化臺灣創新板(tib-創)與日本新創鏈結",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a01e871d280170"
     },
     {
       "id": "b5566fcaa719f1",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-13T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm"
-    },
-    {
-      "id": "9d7fdfe4714cf9",
-      "title": "  SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-10T18:00:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
     }
   ]
 }
