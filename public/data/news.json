@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T16:32:50.909Z",
+  "updatedAt": "2026-08-27T09:36:07.985Z",
   "status": "ok",
   "items": [
+    {
+      "id": "75916160ebfc4b",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過兆捷科技國際股份有限公司初次申請股票創新板上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過兆捷科技國際股份有限公司初次申請股票創新板上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03d7f162f005c"
+    },
+    {
+      "id": "8ca3ae4663f485",
+      "title": "全體證券商115年7月稅後淨利109.61億元，累計稅後淨利1,550.51億元",
+      "titleZh": "全體證券商115年7月稅後淨利109.61億元，累計稅後淨利1,550.51億元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03d24da730058"
+    },
+    {
+      "id": "f4151d72385b09",
+      "title": "臺灣證券交易所訂於8月28日召開有價證券上市審議委員會第892次會議，將審議耐特科技材料(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於8月28日召開有價證券上市審議委員會第892次會議，將審議耐特科技材料(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03cd7d4880054"
+    },
+    {
+      "id": "1129cb92a6e6be",
+      "title": "證交所持續推動2026年「地球特攻隊」永續宣導「居家整聊室」學習人生整理術 打造清爽生活新習慣",
+      "titleZh": "證交所持續推動2026年「地球特攻隊」永續宣導「居家整聊室」學習人生整理術 打造清爽生活新習慣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03bf8e4bc004f"
+    },
+    {
+      "id": "749dc7d974ecc1",
+      "title": "證交所創新板 X 文總《創新辦桌》EP3勸世三姊妹 挺在地文化創新IP，將在地文化唱進紐約外百老匯",
+      "titleZh": "證交所創新板 X 文總《創新辦桌》EP3勸世三姊妹 挺在地文化創新IP，將在地文化唱進紐約外百老匯",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0326bd62c0009"
+    },
     {
       "id": "bd71477dc4cc1a",
       "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
@@ -56,51 +101,6 @@
       "publishedAt": "2026-08-24T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03346d9350014"
-    },
-    {
-      "id": "b46fbbba4ed4a1",
-      "title": "臺灣證券交易所訂於8月26日召開有價證券上市審議委員會第891次會議，將審議兆捷科技國際(股)公司之申請股票創新板上市案",
-      "titleZh": "臺灣證券交易所訂於8月26日召開有價證券上市審議委員會第891次會議，將審議兆捷科技國際(股)公司之申請股票創新板上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0333ec0040010"
-    },
-    {
-      "id": "97a7aea170cd2c",
-      "title": "上週外資在集中市場買超274.45億元，買超陽明16.12萬張最多，另賣超力積電18.78萬張最多",
-      "titleZh": "上週外資在集中市場買超274.45億元，買超陽明16.12萬張最多，另賣超力積電18.78萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03260875d0005"
-    },
-    {
-      "id": "e7b8e5234d22e7",
-      "title": "本週發行量加權股價指數跌幅約為1.28%，上市股票總市值達147.84兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為1.28%，上市股票總市值達147.84兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-21T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a023e5afff0001"
-    },
-    {
-      "id": "27d17cedc7de6a",
-      "title": "證交所「公布注意暨處置專區」正式上線，便利投資人一站式查詢",
-      "titleZh": "證交所「公布注意暨處置專區」正式上線，便利投資人一站式查詢",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-21T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0239fdd01a023a877360001"
-    },
-    {
-      "id": "93a65a5c88a13f",
-      "title": "臺灣創新板（tib-創）鏈結精準健康 助攻生醫資本化",
-      "titleZh": "臺灣創新板（tib-創）鏈結精準健康 助攻生醫資本化",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-21T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69fc76da001a0235fb3e40184"
     },
     {
       "id": "76883b84117f3b",
