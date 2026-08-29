@@ -1,12 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T16:34:48.189Z",
+  "updatedAt": "2026-08-29T06:59:46.057Z",
   "status": "ok",
   "items": [
     {
+      "id": "bf20045f8a85c6",
+      "title": "    SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-28T17:33:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
+    },
+    {
+      "id": "2120e940622f63",
+      "title": "本週發行量加權股價指數漲幅約為2.45%，上市股票總市值達151.45兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為2.45%，上市股票總市值達151.45兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-28T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a047b2ac870075"
+    },
+    {
+      "id": "424b23d0219ad9",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過耐特科技材料股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過耐特科技材料股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-28T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0477bd59d0071"
+    },
+    {
       "id": "3adca12d561196",
-      "title": "    SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors\n",
+      "title": "  SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-08-27T21:30:00.000Z",
       "category": "法規",
@@ -103,24 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03877623c004b"
     },
     {
-      "id": "2efab69b2a1d33",
-      "title": "臺灣證券交易所攜手四家半導體創新企業參展「SEMICON Taiwan 2026」",
-      "titleZh": "臺灣證券交易所攜手四家半導體創新企業參展「SEMICON Taiwan 2026」",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-25T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a037ea14480020"
-    },
-    {
-      "id": "6c3bff89df56c8",
-      "title": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
-      "titleZh": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-25T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a037d828f9001c"
-    },
-    {
       "id": "76883b84117f3b",
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-18T17:15:48.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
-    },
-    {
-      "id": "99ec08dcf9f72e",
-      "title": "  SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-14T20:16:34.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
     }
   ]
 }
