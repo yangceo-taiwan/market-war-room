@@ -1,12 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T05:26:02.897Z",
+  "updatedAt": "2026-08-31T20:48:03.059Z",
   "status": "ok",
   "items": [
     {
+      "id": "a0c8d6fac6b8c8",
+      "title": "    SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-08-31T18:24:32.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+    },
+    {
       "id": "bf20045f8a85c6",
-      "title": "    SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
+      "title": "  SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-08-28T17:33:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-18T19:55:10.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor"
-    },
-    {
-      "id": "9faf3525a072ef",
-      "title": "  SEC Proposes New Regulation Crypto Assets\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes New Regulation Crypto Assets\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-18T17:15:48.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
     }
   ]
 }
