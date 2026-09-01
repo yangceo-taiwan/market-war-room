@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T20:48:03.059Z",
+  "updatedAt": "2026-09-01T05:00:06.585Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,69 @@
       "publishedAt": "2026-08-31T18:24:32.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+    },
+    {
+      "id": "9b752a2a731492",
+      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)半導體、汽車工業、通信網路及其他電子產業之洞察報告",
+      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)半導體、汽車工業、通信網路及其他電子產業之洞察報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a05763b31000ae"
+    },
+    {
+      "id": "f9d60551ed081d",
+      "title": "第一上市公司除永冠-KY外，均已申報115年第2季財務報告",
+      "titleZh": "第一上市公司除永冠-KY外，均已申報115年第2季財務報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a057622d1c00aa"
+    },
+    {
+      "id": "96f0bf47b9dc64",
+      "title": "復華投信募集發行之「復華全球未來50主動式ETF」、玉山投信募集發行之「玉山未來全球算力ETF」及中國信託投信募集發行之「中國信託台日韓PCB ETF」，自115年9月2日起掛牌上市，並得辦理融資融券",
+      "titleZh": "復華投信募集發行之「復華全球未來50主動式ETF」、玉山投信募集發行之「玉山未來全球算力ETF」及中國信託投信募集發行之「中國信託台日韓PCB ETF」，自115年9月2日起掛牌上市，並得辦理融資融券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0574c928600a6"
+    },
+    {
+      "id": "9b6a04d513b73c",
+      "title": "臺灣證券交易所訂於9月2日召開有價證券上市審議委員會第893次會議，將審議英柏得科技(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於9月2日召開有價證券上市審議委員會第893次會議，將審議英柏得科技(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a05746f67a00a2"
+    },
+    {
+      "id": "3e1667797b3068",
+      "title": "上市金融保險業公司115年第2季財務報告均已完成申報作業",
+      "titleZh": "上市金融保險業公司115年第2季財務報告均已完成申報作業",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0574188c3009d"
+    },
+    {
+      "id": "ab51a7114be012",
+      "title": "「今天想學什麼？」TWSE投資知識小幫手上線　陪你輕鬆學投資、建立正確投資觀念",
+      "titleZh": "「今天想學什麼？」TWSE投資知識小幫手上線　陪你輕鬆學投資、建立正確投資觀念",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a056796b370099"
+    },
+    {
+      "id": "66075db12db1f3",
+      "title": "上週外資在集中市場買超1,109.39億元，買超第一金9.32萬張最多，另賣超台泥2.80萬張最多",
+      "titleZh": "上週外資在集中市場買超1,109.39億元，買超第一金9.32萬張最多，另賣超台泥2.80萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0566aa7490095"
     },
     {
       "id": "bf20045f8a85c6",
@@ -67,60 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0428e57e9006a"
     },
     {
-      "id": "eccdefd882909f",
-      "title": "現在開始學習正好！證交所啟動「證好學 TWSE Academy」投資人教育平台",
-      "titleZh": "現在開始學習正好！證交所啟動「證好學 TWSE Academy」投資人教育平台",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a04267a6860064"
-    },
-    {
-      "id": "75916160ebfc4b",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過兆捷科技國際股份有限公司初次申請股票創新板上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過兆捷科技國際股份有限公司初次申請股票創新板上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03d7f162f005c"
-    },
-    {
-      "id": "8ca3ae4663f485",
-      "title": "全體證券商115年7月稅後淨利109.61億元，累計稅後淨利1,550.51億元",
-      "titleZh": "全體證券商115年7月稅後淨利109.61億元，累計稅後淨利1,550.51億元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03d24da730058"
-    },
-    {
-      "id": "f4151d72385b09",
-      "title": "臺灣證券交易所訂於8月28日召開有價證券上市審議委員會第892次會議，將審議耐特科技材料(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於8月28日召開有價證券上市審議委員會第892次會議，將審議耐特科技材料(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03cd7d4880054"
-    },
-    {
-      "id": "1129cb92a6e6be",
-      "title": "證交所持續推動2026年「地球特攻隊」永續宣導「居家整聊室」學習人生整理術 打造清爽生活新習慣",
-      "titleZh": "證交所持續推動2026年「地球特攻隊」永續宣導「居家整聊室」學習人生整理術 打造清爽生活新習慣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03bf8e4bc004f"
-    },
-    {
-      "id": "749dc7d974ecc1",
-      "title": "證交所創新板 X 文總《創新辦桌》EP3勸世三姊妹 挺在地文化創新IP，將在地文化唱進紐約外百老匯",
-      "titleZh": "證交所創新板 X 文總《創新辦桌》EP3勸世三姊妹 挺在地文化創新IP，將在地文化唱進紐約外百老匯",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0326bd62c0009"
-    },
-    {
       "id": "bd71477dc4cc1a",
       "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
       "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
@@ -128,15 +137,6 @@
       "publishedAt": "2026-08-25T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
-    },
-    {
-      "id": "d03fd3072e3550",
-      "title": "凌巨科技股份有限公司上市有價證券自115年8月27日起恢復買賣",
-      "titleZh": "凌巨科技股份有限公司上市有價證券自115年8月27日起恢復買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-25T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a03877623c004b"
     },
     {
       "id": "76883b84117f3b",
