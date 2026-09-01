@@ -1,12 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-01T05:00:06.585Z",
+  "updatedAt": "2026-09-01T18:26:27.380Z",
   "status": "ok",
   "items": [
     {
+      "id": "f9be450feabbfa",
+      "title": "    SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-01T14:57:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
+    },
+    {
       "id": "a0c8d6fac6b8c8",
-      "title": "    SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
+      "title": "  SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-08-31T18:24:32.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-19T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
-    },
-    {
-      "id": "32f74f9449752b",
-      "title": "  SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-18T19:55:10.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor"
     }
   ]
 }
