@@ -1,16 +1,70 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-01T18:26:27.380Z",
+  "updatedAt": "2026-09-02T04:23:19.472Z",
   "status": "ok",
   "items": [
     {
+      "id": "a7714577ca86ed",
+      "title": "    SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-01T19:17:39.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading"
+    },
+    {
+      "id": "67678b154835d4",
+      "title": "  SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-01T17:52:32.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme"
+    },
+    {
       "id": "f9be450feabbfa",
-      "title": "    SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
+      "title": "  SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-01T14:57:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
+    },
+    {
+      "id": "30cb05d2a39d71",
+      "title": "第一上市公司115年第2季財務報告形式審閱結果處置情形",
+      "titleZh": "第一上市公司115年第2季財務報告形式審閱結果處置情形",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-01T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05cb166090011"
+    },
+    {
+      "id": "06b2537f077645",
+      "title": "第一上市公司115年上半年度營收成長4.87%、獲利成長20.80%",
+      "titleZh": "第一上市公司115年上半年度營收成長4.87%、獲利成長20.80%",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-01T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05c1acc1c0007"
+    },
+    {
+      "id": "3439845fd585f6",
+      "title": "臺日資產管理業者與證券商齊聚，「臺日ETF交流論壇」以ETF連結兩地資本市場",
+      "titleZh": "臺日資產管理業者與證券商齊聚，「臺日ETF交流論壇」以ETF連結兩地資本市場",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-01T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05c1557a70005"
+    },
+    {
+      "id": "e46b808fa4ad32",
+      "title": "和亞智慧(證券代號：7825)採競價拍賣方式辦理承銷，於9月1日順利完成",
+      "titleZh": "和亞智慧(證券代號：7825)採競價拍賣方式辦理承銷，於9月1日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-01T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05befb8c90001"
     },
     {
       "id": "a0c8d6fac6b8c8",
@@ -76,15 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a056796b370099"
     },
     {
-      "id": "66075db12db1f3",
-      "title": "上週外資在集中市場買超1,109.39億元，買超第一金9.32萬張最多，另賣超台泥2.80萬張最多",
-      "titleZh": "上週外資在集中市場買超1,109.39億元，買超第一金9.32萬張最多，另賣超台泥2.80萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0566aa7490095"
-    },
-    {
       "id": "bf20045f8a85c6",
       "title": "  SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
@@ -92,24 +137,6 @@
       "publishedAt": "2026-08-28T17:33:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
-    },
-    {
-      "id": "2120e940622f63",
-      "title": "本週發行量加權股價指數漲幅約為2.45%，上市股票總市值達151.45兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為2.45%，上市股票總市值達151.45兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a047b2ac870075"
-    },
-    {
-      "id": "424b23d0219ad9",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過耐特科技材料股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過耐特科技材料股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0477bd59d0071"
     },
     {
       "id": "3adca12d561196",
@@ -128,15 +155,6 @@
       "publishedAt": "2026-08-27T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm"
-    },
-    {
-      "id": "f12c979acdad36",
-      "title": "大大寬頻(股)公司於115年8月27日送件申請股票上市",
-      "titleZh": "大大寬頻(股)公司於115年8月27日送件申請股票上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0428e57e9006a"
     },
     {
       "id": "bd71477dc4cc1a",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-08-20T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm"
-    },
-    {
-      "id": "3f4681685661b1",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-08-20T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm"
-    },
-    {
-      "id": "b5566fcaa719f1",
-      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-08-19T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
     }
   ]
 }
