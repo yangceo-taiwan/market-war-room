@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-02T18:38:04.607Z",
+  "updatedAt": "2026-09-03T04:17:07.216Z",
   "status": "ok",
   "items": [
+    {
+      "id": "9875903775a893",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過英柏得科技股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過英柏得科技股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a061c7a761002e"
+    },
+    {
+      "id": "329fd06a611ba3",
+      "title": "超秦企業(股)公司及仲恩生醫科技(股)公司於115年9月2日送件申請股票上市",
+      "titleZh": "超秦企業(股)公司及仲恩生醫科技(股)公司於115年9月2日送件申請股票上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a061ae7b6a0029"
+    },
+    {
+      "id": "27010715f8e60b",
+      "title": "臺灣證券交易所訂於9月4日召開有價證券上市審議委員會第894次會議，將審議饗賓餐旅事業(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於9月4日召開有價證券上市審議委員會第894次會議，將審議饗賓餐旅事業(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a060d89fc50016"
+    },
     {
       "id": "a7714577ca86ed",
       "title": "    SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
@@ -101,33 +128,6 @@
       "publishedAt": "2026-08-31T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0574c928600a6"
-    },
-    {
-      "id": "9b6a04d513b73c",
-      "title": "臺灣證券交易所訂於9月2日召開有價證券上市審議委員會第893次會議，將審議英柏得科技(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於9月2日召開有價證券上市審議委員會第893次會議，將審議英柏得科技(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a05746f67a00a2"
-    },
-    {
-      "id": "3e1667797b3068",
-      "title": "上市金融保險業公司115年第2季財務報告均已完成申報作業",
-      "titleZh": "上市金融保險業公司115年第2季財務報告均已完成申報作業",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0574188c3009d"
-    },
-    {
-      "id": "ab51a7114be012",
-      "title": "「今天想學什麼？」TWSE投資知識小幫手上線　陪你輕鬆學投資、建立正確投資觀念",
-      "titleZh": "「今天想學什麼？」TWSE投資知識小幫手上線　陪你輕鬆學投資、建立正確投資觀念",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a056796b370099"
     },
     {
       "id": "bf20045f8a85c6",
