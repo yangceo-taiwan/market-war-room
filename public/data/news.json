@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T04:17:07.216Z",
-  "status": "ok",
+  "updatedAt": "2026-09-03T18:34:50.417Z",
+  "status": "fallback",
   "items": [
+    {
+      "id": "f735e58712b338",
+      "title": "    SEC Investor Advisory Committee to Host Sept. 10 Meeting\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Investor Advisory Committee to Host Sept. 10 Meeting\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-03T14:27:49.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting"
+    },
     {
       "id": "9875903775a893",
       "title": "臺灣證券交易所有價證券上市審議委員會審議通過英柏得科技股份有限公司初次申請股票上市案",
@@ -32,8 +41,8 @@
     },
     {
       "id": "a7714577ca86ed",
-      "title": "    SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
+      "title": "  SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-01T19:17:39.000Z",
       "category": "法規",
@@ -137,15 +146,6 @@
       "publishedAt": "2026-08-28T17:33:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
-    },
-    {
-      "id": "3adca12d561196",
-      "title": "  SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-27T21:30:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors"
     },
     {
       "id": "9a8c879e297347",
