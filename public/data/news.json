@@ -1,16 +1,34 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T18:34:50.417Z",
-  "status": "fallback",
+  "updatedAt": "2026-09-04T04:23:51.812Z",
+  "status": "ok",
   "items": [
     {
+      "id": "fe23a8930492f5",
+      "title": "    SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-03T20:30:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
+    },
+    {
       "id": "f735e58712b338",
-      "title": "    SEC Investor Advisory Committee to Host Sept. 10 Meeting\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Investor Advisory Committee to Host Sept. 10 Meeting\n",
+      "title": "  SEC Investor Advisory Committee to Host Sept. 10 Meeting\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Investor Advisory Committee to Host Sept. 10 Meeting\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-03T14:27:49.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting"
+    },
+    {
+      "id": "6e83fe753ae399",
+      "title": "臺灣證券交易所攜手半導體四新銳 進駐SEMICON Taiwan 2026 臺灣創新板（tib-創）以「市值核心」制度接軌半導體生態系整合浪潮",
+      "titleZh": "臺灣證券交易所攜手半導體四新銳 進駐SEMICON Taiwan 2026 臺灣創新板（tib-創）以「市值核心」制度接軌半導體生態系整合浪潮",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a066a31aaa0006"
     },
     {
       "id": "9875903775a893",
@@ -128,24 +146,6 @@
       "publishedAt": "2026-08-31T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a057622d1c00aa"
-    },
-    {
-      "id": "96f0bf47b9dc64",
-      "title": "復華投信募集發行之「復華全球未來50主動式ETF」、玉山投信募集發行之「玉山未來全球算力ETF」及中國信託投信募集發行之「中國信託台日韓PCB ETF」，自115年9月2日起掛牌上市，並得辦理融資融券",
-      "titleZh": "復華投信募集發行之「復華全球未來50主動式ETF」、玉山投信募集發行之「玉山未來全球算力ETF」及中國信託投信募集發行之「中國信託台日韓PCB ETF」，自115年9月2日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a0574c928600a6"
-    },
-    {
-      "id": "bf20045f8a85c6",
-      "title": "  SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-28T17:33:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
     },
     {
       "id": "9a8c879e297347",
