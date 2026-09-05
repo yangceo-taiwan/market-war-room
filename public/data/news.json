@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T18:20:51.325Z",
+  "updatedAt": "2026-09-05T04:19:20.534Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,51 @@
       "publishedAt": "2026-09-04T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "id": "a125a9eb2054fb",
+      "title": "證交所攜手兆豐證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "titleZh": "證交所攜手兆豐證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bf8fe4b0021"
+    },
+    {
+      "id": "4b7b792a627f2f",
+      "title": "臺灣證券交易所對揚智科技股份有限公司（代號:3041）違反重大訊息規定，處以新台幣5萬元違約金",
+      "titleZh": "臺灣證券交易所對揚智科技股份有限公司（代號:3041）違反重大訊息規定，處以新台幣5萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bf0132d001d"
+    },
+    {
+      "id": "9203a8b6d15ef1",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過饗賓餐旅事業股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過饗賓餐旅事業股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bbcf4170019"
+    },
+    {
+      "id": "ff12cba5ffa3da",
+      "title": "本週發行量加權股價指數漲幅約為0.47%，上市股票總市值達152.20兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為0.47%，上市股票總市值達152.20兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bb76c860015"
+    },
+    {
+      "id": "a2c1da678c1e43",
+      "title": "證交所前進倫敦推廣亞資中心 深化全球資金鏈結",
+      "titleZh": "證交所前進倫敦推廣亞資中心 深化全球資金鏈結",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06b375fd9000e"
     },
     {
       "id": "fe23a8930492f5",
@@ -103,33 +148,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05cb166090011"
     },
     {
-      "id": "06b2537f077645",
-      "title": "第一上市公司115年上半年度營收成長4.87%、獲利成長20.80%",
-      "titleZh": "第一上市公司115年上半年度營收成長4.87%、獲利成長20.80%",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-01T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05c1acc1c0007"
-    },
-    {
-      "id": "3439845fd585f6",
-      "title": "臺日資產管理業者與證券商齊聚，「臺日ETF交流論壇」以ETF連結兩地資本市場",
-      "titleZh": "臺日資產管理業者與證券商齊聚，「臺日ETF交流論壇」以ETF連結兩地資本市場",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-01T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05c1557a70005"
-    },
-    {
-      "id": "e46b808fa4ad32",
-      "title": "和亞智慧(證券代號：7825)採競價拍賣方式辦理承銷，於9月1日順利完成",
-      "titleZh": "和亞智慧(證券代號：7825)採競價拍賣方式辦理承銷，於9月1日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-01T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05befb8c90001"
-    },
-    {
       "id": "a0c8d6fac6b8c8",
       "title": "  SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
@@ -137,24 +155,6 @@
       "publishedAt": "2026-08-31T18:24:32.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
-    },
-    {
-      "id": "9b752a2a731492",
-      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)半導體、汽車工業、通信網路及其他電子產業之洞察報告",
-      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)半導體、汽車工業、通信網路及其他電子產業之洞察報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a05763b31000ae"
-    },
-    {
-      "id": "f9d60551ed081d",
-      "title": "第一上市公司除永冠-KY外，均已申報115年第2季財務報告",
-      "titleZh": "第一上市公司除永冠-KY外，均已申報115年第2季財務報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-08-31T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a023cc7101a057622d1c00aa"
     },
     {
       "id": "9a8c879e297347",
