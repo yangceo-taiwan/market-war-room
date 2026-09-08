@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T19:07:28.638Z",
+  "updatedAt": "2026-09-08T04:27:54.609Z",
   "status": "ok",
   "items": [
+    {
+      "id": "27b0c3d0090b2b",
+      "title": "2026年8月集中市場相關數據",
+      "titleZh": "2026年8月集中市場相關數據",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07b4ef65c0064"
+    },
+    {
+      "id": "b46cddbd543aed",
+      "title": "證交所強化ETF折溢價資訊揭露，呼籲投資人建立正確投資觀念",
+      "titleZh": "證交所強化ETF折溢價資訊揭露，呼籲投資人建立正確投資觀念",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07a8e2a9f0059"
+    },
+    {
+      "id": "962b90308be8c1",
+      "title": "床的世界 (證券代號：2938)採競價拍賣方式辦理承銷，於9月7日順利完成",
+      "titleZh": "床的世界 (證券代號：2938)採競價拍賣方式辦理承銷，於9月7日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07a7b5e5c0050"
+    },
+    {
+      "id": "76aca1d7f18f91",
+      "title": "上週外資在集中市場賣超709.72億元，賣超南亞科6.42萬張最多，另買超第一金8.32萬張最多",
+      "titleZh": "上週外資在集中市場賣超709.72億元，賣超南亞科6.42萬張最多，另買超第一金8.32萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07a055d1a004c"
+    },
     {
       "id": "5e363534c5134c",
       "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -85,33 +121,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a066a31aaa0006"
     },
     {
-      "id": "9875903775a893",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過英柏得科技股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過英柏得科技股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a061c7a761002e"
-    },
-    {
-      "id": "329fd06a611ba3",
-      "title": "超秦企業(股)公司及仲恩生醫科技(股)公司於115年9月2日送件申請股票上市",
-      "titleZh": "超秦企業(股)公司及仲恩生醫科技(股)公司於115年9月2日送件申請股票上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a061ae7b6a0029"
-    },
-    {
-      "id": "27010715f8e60b",
-      "title": "臺灣證券交易所訂於9月4日召開有價證券上市審議委員會第894次會議，將審議饗賓餐旅事業(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於9月4日召開有價證券上市審議委員會第894次會議，將審議饗賓餐旅事業(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a060d89fc50016"
-    },
-    {
       "id": "a7714577ca86ed",
       "title": "  SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading\n",
@@ -137,15 +146,6 @@
       "publishedAt": "2026-09-01T14:57:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
-    },
-    {
-      "id": "30cb05d2a39d71",
-      "title": "第一上市公司115年第2季財務報告形式審閱結果處置情形",
-      "titleZh": "第一上市公司115年第2季財務報告形式審閱結果處置情形",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-01T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a05b1e6901a05cb166090011"
     },
     {
       "id": "a0c8d6fac6b8c8",
