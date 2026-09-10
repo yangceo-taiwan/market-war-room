@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T18:31:57.938Z",
+  "updatedAt": "2026-09-10T04:33:51.189Z",
   "status": "ok",
   "items": [
+    {
+      "id": "dfa74d5c8de80f",
+      "title": "臺灣證券交易所對南寶樹脂化學工廠股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
+      "titleZh": "臺灣證券交易所對南寶樹脂化學工廠股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0859f757a0083"
+    },
+    {
+      "id": "2a6c28cc51c481",
+      "title": "Modernity Financial Holdings, Ltd. (英屬開曼群島商現代財富控股有限公司)於115年9月9日送件申請股票創新板第一上市",
+      "titleZh": "Modernity Financial Holdings, Ltd. (英屬開曼群島商現代財富控股有限公司)於115年9月9日送件申請股票創新板第一上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0856c4c75007f"
+    },
+    {
+      "id": "1d1179a484b4c2",
+      "title": "臺灣證券交易所訂於9月11日召開有價證券上市審議委員會第895次會議，將審議貝爾威勒電子(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於9月11日召開有價證券上市審議委員會第895次會議，將審議貝爾威勒電子(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a084f07542007a"
+    },
     {
       "id": "efd1ec1809b5d8",
       "title": "SEMICON Taiwan聚焦半導體供應鏈新動能　7家關鍵供應鏈及創新板企業展現產業多元實力",
@@ -74,33 +101,6 @@
       "publishedAt": "2026-09-04T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bf8fe4b0021"
-    },
-    {
-      "id": "4b7b792a627f2f",
-      "title": "臺灣證券交易所對揚智科技股份有限公司（代號:3041）違反重大訊息規定，處以新台幣5萬元違約金",
-      "titleZh": "臺灣證券交易所對揚智科技股份有限公司（代號:3041）違反重大訊息規定，處以新台幣5萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bf0132d001d"
-    },
-    {
-      "id": "9203a8b6d15ef1",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過饗賓餐旅事業股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過饗賓餐旅事業股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bbcf4170019"
-    },
-    {
-      "id": "ff12cba5ffa3da",
-      "title": "本週發行量加權股價指數漲幅約為0.47%，上市股票總市值達152.20兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為0.47%，上市股票總市值達152.20兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bb76c860015"
     },
     {
       "id": "fe23a8930492f5",
