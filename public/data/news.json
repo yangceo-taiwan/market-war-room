@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T18:22:59.093Z",
+  "updatedAt": "2026-09-11T04:31:34.680Z",
   "status": "ok",
   "items": [
+    {
+      "id": "73487937d14254",
+      "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "titleZh": "【央行｜英文原題待人工校訂】Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-10T20:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
+    },
+    {
+      "id": "e6f766cce731ec",
+      "title": "    SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-10T17:45:22.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
+    },
     {
       "id": "dfa74d5c8de80f",
       "title": "臺灣證券交易所對南寶樹脂化學工廠股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
@@ -104,8 +122,8 @@
     },
     {
       "id": "fe23a8930492f5",
-      "title": "    SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
+      "title": "  SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-03T20:30:00.000Z",
       "category": "法規",
@@ -148,15 +166,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
     },
     {
-      "id": "a0c8d6fac6b8c8",
-      "title": "  SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-08-31T18:24:32.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
-    },
-    {
       "id": "9a8c879e297347",
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-25T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
-    },
-    {
-      "id": "76883b84117f3b",
-      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-08-20T20:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm"
     }
   ]
 }
