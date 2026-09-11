@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T04:31:34.680Z",
+  "updatedAt": "2026-09-11T18:26:15.633Z",
   "status": "ok",
   "items": [
+    {
+      "id": "823f6ba997d689",
+      "title": "    Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution"
+    },
+    {
+      "id": "543e9b537df577",
+      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "titleZh": "【央行｜英文原題待人工校訂】Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-11T14:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
+    },
     {
       "id": "73487937d14254",
       "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
@@ -14,8 +32,8 @@
     },
     {
       "id": "e6f766cce731ec",
-      "title": "    SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
+      "title": "  SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-10T17:45:22.000Z",
       "category": "法規",
@@ -157,15 +175,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme"
     },
     {
-      "id": "f9be450feabbfa",
-      "title": "  SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes to Modernize Rules for Registered Transfer Agents\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-01T14:57:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
-    },
-    {
       "id": "9a8c879e297347",
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-08-27T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm"
-    },
-    {
-      "id": "bd71477dc4cc1a",
-      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-08-25T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
     }
   ]
 }
