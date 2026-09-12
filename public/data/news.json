@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T18:26:15.633Z",
+  "updatedAt": "2026-09-12T04:27:58.565Z",
   "status": "ok",
   "items": [
     {
@@ -20,6 +20,51 @@
       "publishedAt": "2026-09-11T14:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
+    },
+    {
+      "id": "73d66347c09142",
+      "title": "本週發行量加權股價指數跌幅約為0.79%，上市股票總市值達151.02兆元",
+      "titleZh": "本週發行量加權股價指數跌幅約為0.79%，上市股票總市值達151.02兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08ff5eac5009d"
+    },
+    {
+      "id": "e9027070eb5c1e",
+      "title": "漢測(證券代號：7856)採競價拍賣方式辦理承銷，於9月11日順利完成",
+      "titleZh": "漢測(證券代號：7856)採競價拍賣方式辦理承銷，於9月11日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08fcdf1d80099"
+    },
+    {
+      "id": "a3156b8f6ae0d8",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過貝爾威勒電子股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過貝爾威勒電子股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08fc4def40095"
+    },
+    {
+      "id": "037ef8a0acc1e5",
+      "title": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年8月份當月營收較114年同期成長54.20％，累計營業收入較115年同期成長37.01％",
+      "titleZh": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年8月份當月營收較114年同期成長54.20％，累計營業收入較115年同期成長37.01％",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08f972bf10091"
+    },
+    {
+      "id": "cb9e536fc83fd9",
+      "title": "國際投資人高度關注臺灣 證交所倫敦行深化引資與亞資合作",
+      "titleZh": "國際投資人高度關注臺灣 證交所倫敦行深化引資與亞資合作",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08a4235bb0087"
     },
     {
       "id": "73487937d14254",
@@ -85,42 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0800d1db9006d"
     },
     {
-      "id": "27b0c3d0090b2b",
-      "title": "2026年8月集中市場相關數據",
-      "titleZh": "2026年8月集中市場相關數據",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07b4ef65c0064"
-    },
-    {
-      "id": "b46cddbd543aed",
-      "title": "證交所強化ETF折溢價資訊揭露，呼籲投資人建立正確投資觀念",
-      "titleZh": "證交所強化ETF折溢價資訊揭露，呼籲投資人建立正確投資觀念",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07a8e2a9f0059"
-    },
-    {
-      "id": "962b90308be8c1",
-      "title": "床的世界 (證券代號：2938)採競價拍賣方式辦理承銷，於9月7日順利完成",
-      "titleZh": "床的世界 (證券代號：2938)採競價拍賣方式辦理承銷，於9月7日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07a7b5e5c0050"
-    },
-    {
-      "id": "76aca1d7f18f91",
-      "title": "上週外資在集中市場賣超709.72億元，賣超南亞科6.42萬張最多，另買超第一金8.32萬張最多",
-      "titleZh": "上週外資在集中市場賣超709.72億元，賣超南亞科6.42萬張最多，另買超第一金8.32萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-07T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a07a055d1a004c"
-    },
-    {
       "id": "5e363534c5134c",
       "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -128,15 +137,6 @@
       "publishedAt": "2026-09-04T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
-    },
-    {
-      "id": "a125a9eb2054fb",
-      "title": "證交所攜手兆豐證券 共同舉辦推動優質企業啓航資本市場交流會",
-      "titleZh": "證交所攜手兆豐證券 共同舉辦推動優質企業啓航資本市場交流會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a06bf8fe4b0021"
     },
     {
       "id": "fe23a8930492f5",
