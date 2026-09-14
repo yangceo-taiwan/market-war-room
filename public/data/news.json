@@ -1,12 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T04:48:38.767Z",
+  "updatedAt": "2026-09-14T19:49:37.214Z",
   "status": "ok",
   "items": [
     {
+      "id": "8262875fc329bb",
+      "title": "    SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-14T16:47:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements"
+    },
+    {
       "id": "823f6ba997d689",
-      "title": "    Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution\n",
+      "title": "  Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-11T15:00:00.000Z",
       "category": "法規",
@@ -164,15 +173,6 @@
       "publishedAt": "2026-09-01T19:17:39.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading"
-    },
-    {
-      "id": "67678b154835d4",
-      "title": "  SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-01T17:52:32.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme"
     },
     {
       "id": "9a8c879e297347",
