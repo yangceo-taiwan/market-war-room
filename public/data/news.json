@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T19:49:37.214Z",
+  "updatedAt": "2026-09-15T04:47:52.926Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,24 @@
       "publishedAt": "2026-09-14T16:47:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements"
+    },
+    {
+      "id": "e363f35c70996b",
+      "title": "證交所規劃「臺股儀表板」 強化風險教育協助投資人穩健理財",
+      "titleZh": "證交所規劃「臺股儀表板」 強化風險教育協助投資人穩健理財",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a09f897cc100d5"
+    },
+    {
+      "id": "88d36781ebc58c",
+      "title": "上週外資在集中市場賣超51.04億元，賣超仁寶9.82萬張最多，另買超友達22.36萬張最多",
+      "titleZh": "上週外資在集中市場賣超51.04億元，賣超仁寶9.82萬張最多，另買超友達22.36萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a09e8b9eb000a8"
     },
     {
       "id": "823f6ba997d689",
@@ -119,24 +137,6 @@
       "publishedAt": "2026-09-09T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a084f07542007a"
-    },
-    {
-      "id": "efd1ec1809b5d8",
-      "title": "SEMICON Taiwan聚焦半導體供應鏈新動能　7家關鍵供應鏈及創新板企業展現產業多元實力",
-      "titleZh": "SEMICON Taiwan聚焦半導體供應鏈新動能　7家關鍵供應鏈及創新板企業展現產業多元實力",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0802b90c60071"
-    },
-    {
-      "id": "525d1efc6099aa",
-      "title": "瑞宇國際(股)公司於115年9月8日送件申請股票創新板上市",
-      "titleZh": "瑞宇國際(股)公司於115年9月8日送件申請股票創新板上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0800d1db9006d"
     },
     {
       "id": "5e363534c5134c",
