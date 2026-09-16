@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T18:56:38.662Z",
+  "updatedAt": "2026-09-16T04:43:33.284Z",
   "status": "ok",
   "items": [
+    {
+      "id": "62ff1f7e76430e",
+      "title": "臺灣證券交易所對揚智科技股份有限公司（代號3041）違反重大訊息規定，處以新台幣5萬元違約金",
+      "titleZh": "臺灣證券交易所對揚智科技股份有限公司（代號3041）違反重大訊息規定，處以新台幣5萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-15T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a44fc80200ea"
+    },
+    {
+      "id": "bac1de8c6ffcdd",
+      "title": "115年9月16日除息影響加權股價指數",
+      "titleZh": "115年9月16日除息影響加權股價指數",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-15T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a449b4df00e6"
+    },
+    {
+      "id": "c7c53225aec23a",
+      "title": "臺灣證券交易所推出「tibit全能應援貼圖」限時登場 以賽場拚搏呼應創新精神　讓「tib-創」走進大眾日常",
+      "titleZh": "臺灣證券交易所推出「tibit全能應援貼圖」限時登場 以賽場拚搏呼應創新精神　讓「tib-創」走進大眾日常",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-15T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a2f1cb5700db"
+    },
     {
       "id": "8262875fc329bb",
       "title": "    SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
@@ -110,33 +137,6 @@
       "publishedAt": "2026-09-10T17:45:22.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
-    },
-    {
-      "id": "dfa74d5c8de80f",
-      "title": "臺灣證券交易所對南寶樹脂化學工廠股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
-      "titleZh": "臺灣證券交易所對南寶樹脂化學工廠股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0859f757a0083"
-    },
-    {
-      "id": "2a6c28cc51c481",
-      "title": "Modernity Financial Holdings, Ltd. (英屬開曼群島商現代財富控股有限公司)於115年9月9日送件申請股票創新板第一上市",
-      "titleZh": "Modernity Financial Holdings, Ltd. (英屬開曼群島商現代財富控股有限公司)於115年9月9日送件申請股票創新板第一上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0856c4c75007f"
-    },
-    {
-      "id": "1d1179a484b4c2",
-      "title": "臺灣證券交易所訂於9月11日召開有價證券上市審議委員會第895次會議，將審議貝爾威勒電子(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於9月11日召開有價證券上市審議委員會第895次會議，將審議貝爾威勒電子(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a084f07542007a"
     },
     {
       "id": "5e363534c5134c",
