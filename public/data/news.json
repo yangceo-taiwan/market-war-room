@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T18:51:43.025Z",
+  "updatedAt": "2026-09-17T04:46:57.805Z",
   "status": "ok",
   "items": [
     {
@@ -29,6 +29,33 @@
       "publishedAt": "2026-09-16T14:00:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+    },
+    {
+      "id": "682b301b066a50",
+      "title": "富邦NASDAQ ETF(00662)將進行分割作業，115年11月17日為新受益憑證上市買賣日",
+      "titleZh": "富邦NASDAQ ETF(00662)將進行分割作業，115年11月17日為新受益憑證上市買賣日",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-16T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a97449a70107"
+    },
+    {
+      "id": "e2127e49f7a934",
+      "title": "臺灣全球金融中心排名兩年躍升31名 亞資政策國際能見度大幅提升",
+      "titleZh": "臺灣全球金融中心排名兩年躍升31名 亞資政策國際能見度大幅提升",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-16T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a8e012790103"
+    },
+    {
+      "id": "02f4345f4253ba",
+      "title": "臺巴資本市場交流再深化：臺灣證券交易所與巴拉圭亞松森證券交易所簽署合作備忘錄",
+      "titleZh": "臺巴資本市場交流再深化：臺灣證券交易所與巴拉圭亞松森證券交易所簽署合作備忘錄",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-16T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a7f37b2e00f7"
     },
     {
       "id": "62ff1f7e76430e",
@@ -119,33 +146,6 @@
       "publishedAt": "2026-09-11T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08fcdf1d80099"
-    },
-    {
-      "id": "a3156b8f6ae0d8",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過貝爾威勒電子股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過貝爾威勒電子股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08fc4def40095"
-    },
-    {
-      "id": "037ef8a0acc1e5",
-      "title": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年8月份當月營收較114年同期成長54.20％，累計營業收入較115年同期成長37.01％",
-      "titleZh": "全體上市公司(不含金融保險業及三商投資控股股份有限公司)115年8月份當月營收較114年同期成長54.20％，累計營業收入較115年同期成長37.01％",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08f972bf10091"
-    },
-    {
-      "id": "cb9e536fc83fd9",
-      "title": "國際投資人高度關注臺灣 證交所倫敦行深化引資與亞資合作",
-      "titleZh": "國際投資人高度關注臺灣 證交所倫敦行深化引資與亞資合作",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08a4235bb0087"
     },
     {
       "id": "73487937d14254",
