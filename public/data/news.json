@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T04:46:57.805Z",
+  "updatedAt": "2026-09-17T18:59:14.728Z",
   "status": "ok",
   "items": [
+    {
+      "id": "116e57d3b40999",
+      "title": "    SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-17T12:55:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+    },
     {
       "id": "fe283a4d738a52",
       "title": "Federal Reserve issues FOMC statement",
@@ -23,8 +32,8 @@
     },
     {
       "id": "36870ebdb3ab84",
-      "title": "    SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process\n",
+      "title": "  SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-16T14:00:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-04T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
-    },
-    {
-      "id": "fe23a8930492f5",
-      "title": "  SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Rescission of Political Contribution Rule for Investment Advisers\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-03T20:30:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
     }
   ]
 }
