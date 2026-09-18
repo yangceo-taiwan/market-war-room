@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T04:36:13.231Z",
+  "updatedAt": "2026-09-18T18:23:03.948Z",
   "status": "ok",
   "items": [
+    {
+      "id": "205b5c19274ab1",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm"
+    },
+    {
+      "id": "2d9f2c4328e910",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
+    },
     {
       "id": "116e57d3b40999",
       "title": "    SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-09-10T20:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
-    },
-    {
-      "id": "e6f766cce731ec",
-      "title": "  SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-10T17:45:22.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
-    },
-    {
-      "id": "5e363534c5134c",
-      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-04T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
     }
   ]
 }
