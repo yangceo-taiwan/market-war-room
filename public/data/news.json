@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T18:59:14.728Z",
+  "updatedAt": "2026-09-18T04:36:13.231Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,24 @@
       "publishedAt": "2026-09-17T12:55:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+    },
+    {
+      "id": "503623f3e7aaae",
+      "title": "臺灣證券交易所針對世界健身股份有限公司（世界健身-KY，證券代號: 2762）違反重大訊息規定，處以新臺幣5萬元之違約金",
+      "titleZh": "臺灣證券交易所針對世界健身股份有限公司（世界健身-KY，證券代號: 2762）違反重大訊息規定，處以新臺幣5萬元之違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0aee99ab40111"
+    },
+    {
+      "id": "14f5b066414ee0",
+      "title": "2026臺灣週「TiBOOST創新大步計畫」熱烈徵件中，500萬元總獎金，掌握與資本、產業對接機會",
+      "titleZh": "2026臺灣週「TiBOOST創新大步計畫」熱烈徵件中，500萬元總獎金，掌握與資本、產業對接機會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0aee22e34010d"
     },
     {
       "id": "fe283a4d738a52",
@@ -137,24 +155,6 @@
       "publishedAt": "2026-09-11T14:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
-    },
-    {
-      "id": "73d66347c09142",
-      "title": "本週發行量加權股價指數跌幅約為0.79%，上市股票總市值達151.02兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為0.79%，上市股票總市值達151.02兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08ff5eac5009d"
-    },
-    {
-      "id": "e9027070eb5c1e",
-      "title": "漢測(證券代號：7856)採競價拍賣方式辦理承銷，於9月11日順利完成",
-      "titleZh": "漢測(證券代號：7856)採競價拍賣方式辦理承銷，於9月11日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a08fcdf1d80099"
     },
     {
       "id": "73487937d14254",
