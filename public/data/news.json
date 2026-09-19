@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T18:23:03.948Z",
+  "updatedAt": "2026-09-19T04:31:48.632Z",
   "status": "ok",
   "items": [
     {
@@ -20,6 +20,33 @@
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
+    },
+    {
+      "id": "59d14586c4aceb",
+      "title": "深化臺美資本市場鏈結　北美洲台灣商會聯合總會來訪證交所　攜手臺商回臺上市",
+      "titleZh": "深化臺美資本市場鏈結　北美洲台灣商會聯合總會來訪證交所　攜手臺商回臺上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b412d8cd0129"
+    },
+    {
+      "id": "e29503bf211e35",
+      "title": "稜研科技股份有限公司股票自115年9月22日於臺灣創新板(tib-創)上市開始買賣",
+      "titleZh": "稜研科技股份有限公司股票自115年9月22日於臺灣創新板(tib-創)上市開始買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b3e56aae0125"
+    },
+    {
+      "id": "b9a7a0ec2dc195",
+      "title": "本週發行量加權股價指數漲幅約為2.16%，上市股票總市值達154.32兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為2.16%，上市股票總市值達154.32兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b3e196650121"
     },
     {
       "id": "116e57d3b40999",
@@ -121,15 +148,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a449b4df00e6"
     },
     {
-      "id": "c7c53225aec23a",
-      "title": "臺灣證券交易所推出「tibit全能應援貼圖」限時登場 以賽場拚搏呼應創新精神　讓「tib-創」走進大眾日常",
-      "titleZh": "臺灣證券交易所推出「tibit全能應援貼圖」限時登場 以賽場拚搏呼應創新精神　讓「tib-創」走進大眾日常",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-15T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a2f1cb5700db"
-    },
-    {
       "id": "8262875fc329bb",
       "title": "  SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
@@ -137,24 +155,6 @@
       "publishedAt": "2026-09-14T16:47:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements"
-    },
-    {
-      "id": "e363f35c70996b",
-      "title": "證交所規劃「臺股儀表板」 強化風險教育協助投資人穩健理財",
-      "titleZh": "證交所規劃「臺股儀表板」 強化風險教育協助投資人穩健理財",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a09f897cc100d5"
-    },
-    {
-      "id": "88d36781ebc58c",
-      "title": "上週外資在集中市場賣超51.04億元，賣超仁寶9.82萬張最多，另買超友達22.36萬張最多",
-      "titleZh": "上週外資在集中市場賣超51.04億元，賣超仁寶9.82萬張最多，另買超友達22.36萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a09e8b9eb000a8"
     },
     {
       "id": "823f6ba997d689",
