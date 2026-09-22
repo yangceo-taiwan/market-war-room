@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T04:47:28.610Z",
+  "updatedAt": "2026-09-22T18:49:38.897Z",
   "status": "ok",
   "items": [
+    {
+      "id": "f28625e4314925",
+      "title": "    SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-22T16:41:11.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
+    },
     {
       "id": "6eb06e985d0621",
       "title": "證交所攜手富邦證券 共同舉辦推動優質企業啓航資本市場交流會",
@@ -68,8 +77,8 @@
     },
     {
       "id": "116e57d3b40999",
-      "title": "    SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
+      "title": "  SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-17T12:55:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-11T14:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
-    },
-    {
-      "id": "73487937d14254",
-      "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-      "titleZh": "【央行｜英文原題待人工校訂】Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-10T20:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
     }
   ]
 }
