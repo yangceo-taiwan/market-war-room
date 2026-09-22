@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T19:57:42.766Z",
+  "updatedAt": "2026-09-22T04:47:28.610Z",
   "status": "ok",
   "items": [
+    {
+      "id": "6eb06e985d0621",
+      "title": "證交所攜手富邦證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "titleZh": "證交所攜手富邦證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-21T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c3840ac9000d"
+    },
+    {
+      "id": "68773abb241095",
+      "title": "上週外資在集中市場賣超184.63億元，賣超友達7.23萬張最多，另買超力積電8.82萬張最多",
+      "titleZh": "上週外資在集中市場賣超184.63億元，賣超友達7.23萬張最多，另買超力積電8.82萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-21T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c1d914240009"
+    },
     {
       "id": "205b5c19274ab1",
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -128,24 +146,6 @@
       "publishedAt": "2026-09-16T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a7f37b2e00f7"
-    },
-    {
-      "id": "62ff1f7e76430e",
-      "title": "臺灣證券交易所對揚智科技股份有限公司（代號3041）違反重大訊息規定，處以新台幣5萬元違約金",
-      "titleZh": "臺灣證券交易所對揚智科技股份有限公司（代號3041）違反重大訊息規定，處以新台幣5萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-15T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a44fc80200ea"
-    },
-    {
-      "id": "bac1de8c6ffcdd",
-      "title": "115年9月16日除息影響加權股價指數",
-      "titleZh": "115年9月16日除息影響加權股價指數",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-15T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a449b4df00e6"
     },
     {
       "id": "8262875fc329bb",
