@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T18:49:38.897Z",
+  "updatedAt": "2026-09-23T04:39:20.565Z",
   "status": "ok",
   "items": [
+    {
+      "id": "bb3326ddb25c56",
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-22T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm"
+    },
     {
       "id": "f28625e4314925",
       "title": "    SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI\n",
@@ -11,6 +20,33 @@
       "publishedAt": "2026-09-22T16:41:11.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
+    },
+    {
+      "id": "9a53161f22b022",
+      "title": "Elixiron Immunotherapeutics (Cayman) Limited（安立璽榮醫藥(股)公司）於115年9月22日送件申請股票於臺灣創新板(tib-創)第一上市",
+      "titleZh": "Elixiron Immunotherapeutics (Cayman) Limited（安立璽榮醫藥(股)公司）於115年9月22日送件申請股票於臺灣創新板(tib-創)第一上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c882a3240048"
+    },
+    {
+      "id": "611bb29af72bf1",
+      "title": "讓數據說話！證交所「臺股儀表板」9月23日正式上線",
+      "titleZh": "讓數據說話！證交所「臺股儀表板」9月23日正式上線",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c84d814a0020"
+    },
+    {
+      "id": "e7940c8df50a3d",
+      "title": "全體證券商115年8月稅後淨利274.22億元，累計稅後淨利1,824.73億元",
+      "titleZh": "全體證券商115年8月稅後淨利274.22億元，累計稅後淨利1,824.73億元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c8131eaa0018"
     },
     {
       "id": "6eb06e985d0621",
@@ -130,33 +166,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
     },
     {
-      "id": "682b301b066a50",
-      "title": "富邦NASDAQ ETF(00662)將進行分割作業，115年11月17日為新受益憑證上市買賣日",
-      "titleZh": "富邦NASDAQ ETF(00662)將進行分割作業，115年11月17日為新受益憑證上市買賣日",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a97449a70107"
-    },
-    {
-      "id": "e2127e49f7a934",
-      "title": "臺灣全球金融中心排名兩年躍升31名 亞資政策國際能見度大幅提升",
-      "titleZh": "臺灣全球金融中心排名兩年躍升31名 亞資政策國際能見度大幅提升",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a8e012790103"
-    },
-    {
-      "id": "02f4345f4253ba",
-      "title": "臺巴資本市場交流再深化：臺灣證券交易所與巴拉圭亞松森證券交易所簽署合作備忘錄",
-      "titleZh": "臺巴資本市場交流再深化：臺灣證券交易所與巴拉圭亞松森證券交易所簽署合作備忘錄",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0a7f37b2e00f7"
-    },
-    {
       "id": "8262875fc329bb",
       "title": "  SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-11T15:00:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution"
-    },
-    {
-      "id": "543e9b537df577",
-      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-      "titleZh": "【央行｜英文原題待人工校訂】Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-11T14:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
     }
   ]
 }
