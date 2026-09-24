@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T19:01:22.404Z",
+  "updatedAt": "2026-09-24T04:39:56.243Z",
   "status": "ok",
   "items": [
     {
@@ -20,6 +20,33 @@
       "publishedAt": "2026-09-23T16:00:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
+    },
+    {
+      "id": "f83f9037ab9aca",
+      "title": "儒億(證券代號：6604)採競價拍賣方式辦理承銷，於9月23日順利完成",
+      "titleZh": "儒億(證券代號：6604)採競價拍賣方式辦理承銷，於9月23日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0cd9d28730059"
+    },
+    {
+      "id": "d88b71ad5df0d9",
+      "title": "大台北區瓦斯股份有限公司等8家公司預計於115年10月份假證交所場地自行舉辦法人說明會",
+      "titleZh": "大台北區瓦斯股份有限公司等8家公司預計於115年10月份假證交所場地自行舉辦法人說明會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0cd0c00d70050"
+    },
+    {
+      "id": "ee443177d4fc39",
+      "title": "證交所「創新板」與文總攜手推出《創新辦桌》第四集 光影交織掌中乾坤 「新勝景掌中劇團」跨界硬實力 讓臺灣傳統技藝驚豔國際",
+      "titleZh": "證交所「創新板」與文總攜手推出《創新辦桌》第四集 光影交織掌中乾坤 「新勝景掌中劇團」跨界硬實力 讓臺灣傳統技藝驚豔國際",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c853cac60034"
     },
     {
       "id": "bb3326ddb25c56",
@@ -121,15 +148,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b3e56aae0125"
     },
     {
-      "id": "b9a7a0ec2dc195",
-      "title": "本週發行量加權股價指數漲幅約為2.16%，上市股票總市值達154.32兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為2.16%，上市股票總市值達154.32兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b3e196650121"
-    },
-    {
       "id": "116e57d3b40999",
       "title": "  SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
@@ -137,24 +155,6 @@
       "publishedAt": "2026-09-17T12:55:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
-    },
-    {
-      "id": "503623f3e7aaae",
-      "title": "臺灣證券交易所針對世界健身股份有限公司（世界健身-KY，證券代號: 2762）違反重大訊息規定，處以新臺幣5萬元之違約金",
-      "titleZh": "臺灣證券交易所針對世界健身股份有限公司（世界健身-KY，證券代號: 2762）違反重大訊息規定，處以新臺幣5萬元之違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0aee99ab40111"
-    },
-    {
-      "id": "14f5b066414ee0",
-      "title": "2026臺灣週「TiBOOST創新大步計畫」熱烈徵件中，500萬元總獎金，掌握與資本、產業對接機會",
-      "titleZh": "2026臺灣週「TiBOOST創新大步計畫」熱烈徵件中，500萬元總獎金，掌握與資本、產業對接機會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0aee22e34010d"
     },
     {
       "id": "fe283a4d738a52",
