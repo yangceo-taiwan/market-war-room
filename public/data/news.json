@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T04:39:56.243Z",
+  "updatedAt": "2026-09-24T19:05:28.313Z",
   "status": "ok",
   "items": [
+    {
+      "id": "a09909ffdb688f",
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-24T18:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
+    },
+    {
+      "id": "4369d45eef224b",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm"
+    },
     {
       "id": "39a27e3d1e762f",
       "title": "    SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-09-16T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
-    },
-    {
-      "id": "96bceaa064dff2",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-16T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
-    },
-    {
-      "id": "36870ebdb3ab84",
-      "title": "  SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-16T14:00:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
     }
   ]
 }
