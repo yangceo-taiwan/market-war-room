@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T19:05:28.313Z",
+  "updatedAt": "2026-09-25T04:50:03.626Z",
   "status": "ok",
   "items": [
     {
@@ -20,6 +20,33 @@
       "publishedAt": "2026-09-24T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm"
+    },
+    {
+      "id": "d4c3ddf008e274",
+      "title": "本週發行量加權股價指數漲幅約為1.79%，上市股票總市值達157.08兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為1.79%，上市股票總市值達157.08兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d2b9f344006b"
+    },
+    {
+      "id": "e9e184131021fa",
+      "title": "臺灣證券交易所針對正瀚生技股份有限公司違反重大訊息規定，處以新臺幣三萬元之違約金",
+      "titleZh": "臺灣證券交易所針對正瀚生技股份有限公司違反重大訊息規定，處以新臺幣三萬元之違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d29b8a220064"
+    },
+    {
+      "id": "ef4597c482ccbc",
+      "title": "臺灣證券交易所訂於9月30日召開有價證券上市審議委員會第896次會議，將審議英屬開曼群島商科絡達股份有限公司之申請股票創新板上市案",
+      "titleZh": "臺灣證券交易所訂於9月30日召開有價證券上市審議委員會第896次會議，將審議英屬開曼群島商科絡達股份有限公司之申請股票創新板上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d20f2289005d"
     },
     {
       "id": "39a27e3d1e762f",
@@ -121,15 +148,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c3840ac9000d"
     },
     {
-      "id": "68773abb241095",
-      "title": "上週外資在集中市場賣超184.63億元，賣超友達7.23萬張最多，另買超力積電8.82萬張最多",
-      "titleZh": "上週外資在集中市場賣超184.63億元，賣超友達7.23萬張最多，另買超力積電8.82萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-21T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c1d914240009"
-    },
-    {
       "id": "205b5c19274ab1",
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -146,24 +164,6 @@
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
-    },
-    {
-      "id": "59d14586c4aceb",
-      "title": "深化臺美資本市場鏈結　北美洲台灣商會聯合總會來訪證交所　攜手臺商回臺上市",
-      "titleZh": "深化臺美資本市場鏈結　北美洲台灣商會聯合總會來訪證交所　攜手臺商回臺上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b412d8cd0129"
-    },
-    {
-      "id": "e29503bf211e35",
-      "title": "稜研科技股份有限公司股票自115年9月22日於臺灣創新板(tib-創)上市開始買賣",
-      "titleZh": "稜研科技股份有限公司股票自115年9月22日於臺灣創新板(tib-創)上市開始買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a066696301a0b3e56aae0125"
     },
     {
       "id": "116e57d3b40999",
