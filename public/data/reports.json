@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T05:12:39.391Z",
+  "updatedAt": "2026-09-27T18:58:11.841Z",
   "reports": [
+    {
+      "date": "2026-09-27",
+      "session": "morning",
+      "generatedAt": "2026-09-27T18:58:11.841Z",
+      "temperature": {
+        "score": 73,
+        "label": "風險偏好",
+        "lamp": "green"
+      },
+      "dailyTrend": "bull",
+      "conclusion": "風險偏好較佳，但仍應等待價格確認。",
+      "verification": null
+    },
     {
       "date": "2026-09-27",
       "session": "noon",
