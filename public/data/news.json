@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T05:16:13.522Z",
+  "updatedAt": "2026-09-28T21:12:35.645Z",
   "status": "ok",
   "items": [
+    {
+      "id": "dce9afeee83bf1",
+      "title": "    SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-28T17:46:30.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
+    },
     {
       "id": "5a0ccfacc36b1e",
       "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
@@ -59,8 +68,8 @@
     },
     {
       "id": "39a27e3d1e762f",
-      "title": "    SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
+      "title": "  SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-23T18:27:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
-    },
-    {
-      "id": "116e57d3b40999",
-      "title": "  SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-17T12:55:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
     }
   ]
 }
