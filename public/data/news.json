@@ -1,12 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T05:37:44.098Z",
+  "updatedAt": "2026-09-29T19:57:25.439Z",
   "status": "ok",
   "items": [
     {
+      "id": "5ded3c9f80aef4",
+      "title": "    SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-29T13:55:53.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
+    },
+    {
       "id": "dce9afeee83bf1",
-      "title": "    SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
+      "title": "  SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-28T17:46:30.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm"
-    },
-    {
-      "id": "2d9f2c4328e910",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
     }
   ]
 }
