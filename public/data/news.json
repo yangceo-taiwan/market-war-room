@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T05:26:03.731Z",
+  "updatedAt": "2026-09-30T19:58:35.401Z",
   "status": "ok",
   "items": [
+    {
+      "id": "3c8d6705c72853",
+      "title": "    SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-30T18:30:01.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
+    },
+    {
+      "id": "dc67e39ba3cdf2",
+      "title": "  SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-30T16:42:15.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
+    },
+    {
+      "id": "c0d0f7cfe841bf",
+      "title": "  SEC Proposes Amendments to Expand Responsible Retailization of Private Markets\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Amendments to Expand Responsible Retailization of Private Markets\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-09-30T15:45:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets"
+    },
+    {
+      "id": "975ec4f2519a98",
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-09-30T13:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm"
+    },
     {
       "id": "1478a167163759",
       "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
@@ -14,8 +50,8 @@
     },
     {
       "id": "5ded3c9f80aef4",
-      "title": "    SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
+      "title": "  SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-29T13:55:53.000Z",
       "category": "法規",
@@ -130,15 +166,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
     },
     {
-      "id": "35a0137163837f",
-      "title": "  SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
-    },
-    {
       "id": "f83f9037ab9aca",
       "title": "儒億(證券代號：6604)採競價拍賣方式辦理承銷，於9月23日順利完成",
       "titleZh": "儒億(證券代號：6604)採競價拍賣方式辦理承銷，於9月23日順利完成",
@@ -155,33 +182,6 @@
       "publishedAt": "2026-09-23T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0cd0c00d70050"
-    },
-    {
-      "id": "ee443177d4fc39",
-      "title": "證交所「創新板」與文總攜手推出《創新辦桌》第四集 光影交織掌中乾坤 「新勝景掌中劇團」跨界硬實力 讓臺灣傳統技藝驚豔國際",
-      "titleZh": "證交所「創新板」與文總攜手推出《創新辦桌》第四集 光影交織掌中乾坤 「新勝景掌中劇團」跨界硬實力 讓臺灣傳統技藝驚豔國際",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0c853cac60034"
-    },
-    {
-      "id": "bb3326ddb25c56",
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-22T20:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm"
-    },
-    {
-      "id": "f28625e4314925",
-      "title": "  SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-22T16:41:11.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
     }
   ]
 }
