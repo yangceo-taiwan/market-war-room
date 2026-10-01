@@ -1,12 +1,30 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T05:44:25.070Z",
+  "updatedAt": "2026-10-01T20:19:26.570Z",
   "status": "ok",
   "items": [
     {
+      "id": "5803ba4c511b2d",
+      "title": "    SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-01T16:16:07.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal"
+    },
+    {
+      "id": "3f074b908634f9",
+      "title": "  SEC’s Division of Examinations Announces New Exam Handbook\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC’s Division of Examinations Announces New Exam Handbook\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-01T15:03:35.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"
+    },
+    {
       "id": "3c8d6705c72853",
-      "title": "    SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+      "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-09-30T18:30:01.000Z",
       "category": "法規",
@@ -139,15 +157,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0ebc5221c008c"
     },
     {
-      "id": "dce9afeee83bf1",
-      "title": "  SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-28T17:46:30.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
-    },
-    {
       "id": "5a0ccfacc36b1e",
       "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-24T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm"
-    },
-    {
-      "id": "d4c3ddf008e274",
-      "title": "本週發行量加權股價指數漲幅約為1.79%，上市股票總市值達157.08兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為1.79%，上市股票總市值達157.08兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d2b9f344006b"
     }
   ]
 }
