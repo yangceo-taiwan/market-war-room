@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T19:58:35.401Z",
+  "updatedAt": "2026-10-01T05:44:25.070Z",
   "status": "ok",
   "items": [
     {
@@ -38,6 +38,51 @@
       "publishedAt": "2026-09-30T13:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm"
+    },
+    {
+      "id": "0a034dcb002943",
+      "title": "證交所攜手AAMA舉辦主題分享會　助新創企業掌握創新板上市契機",
+      "titleZh": "證交所攜手AAMA舉辦主題分享會　助新創企業掌握創新板上市契機",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f21e22bf00b3"
+    },
+    {
+      "id": "e0cdc2f254752e",
+      "title": "115年第4季得為上市認購（售）權證（含牛熊證）之標的證券",
+      "titleZh": "115年第4季得為上市認購（售）權證（含牛熊證）之標的證券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f210070f00af"
+    },
+    {
+      "id": "453e0d51ad9f09",
+      "title": "證交所建置上市公司財務報告或年度自結財務資訊之董事會預計召開日期專區，以便利投資人查詢",
+      "titleZh": "證交所建置上市公司財務報告或年度自結財務資訊之董事會預計召開日期專區，以便利投資人查詢",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f1de0b3200ab"
+    },
+    {
+      "id": "03e44fe33fae97",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商科絡達股份有限公司初次申請股票於臺灣創新板(tib-創)第一上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商科絡達股份有限公司初次申請股票於臺灣創新板(tib-創)第一上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f1d94c2500a7"
+    },
+    {
+      "id": "01125bda765984",
+      "title": "跳脫配息數字迷思：看懂「收益平準金」，回歸ETF實質收益",
+      "titleZh": "跳脫配息數字迷思：看懂「收益平準金」，回歸ETF實質收益",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-09-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f1bc052600a1"
     },
     {
       "id": "1478a167163759",
@@ -137,51 +182,6 @@
       "publishedAt": "2026-09-24T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d2b9f344006b"
-    },
-    {
-      "id": "e9e184131021fa",
-      "title": "臺灣證券交易所針對正瀚生技股份有限公司違反重大訊息規定，處以新臺幣三萬元之違約金",
-      "titleZh": "臺灣證券交易所針對正瀚生技股份有限公司違反重大訊息規定，處以新臺幣三萬元之違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d29b8a220064"
-    },
-    {
-      "id": "ef4597c482ccbc",
-      "title": "臺灣證券交易所訂於9月30日召開有價證券上市審議委員會第896次會議，將審議英屬開曼群島商科絡達股份有限公司之申請股票創新板上市案",
-      "titleZh": "臺灣證券交易所訂於9月30日召開有價證券上市審議委員會第896次會議，將審議英屬開曼群島商科絡達股份有限公司之申請股票創新板上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-24T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0d20f2289005d"
-    },
-    {
-      "id": "39a27e3d1e762f",
-      "title": "  SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-23T18:27:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
-    },
-    {
-      "id": "f83f9037ab9aca",
-      "title": "儒億(證券代號：6604)採競價拍賣方式辦理承銷，於9月23日順利完成",
-      "titleZh": "儒億(證券代號：6604)採競價拍賣方式辦理承銷，於9月23日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0cd9d28730059"
-    },
-    {
-      "id": "d88b71ad5df0d9",
-      "title": "大台北區瓦斯股份有限公司等8家公司預計於115年10月份假證交所場地自行舉辦法人說明會",
-      "titleZh": "大台北區瓦斯股份有限公司等8家公司預計於115年10月份假證交所場地自行舉辦法人說明會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0cd0c00d70050"
     }
   ]
 }
