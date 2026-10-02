@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T05:28:18.938Z",
+  "updatedAt": "2026-10-02T19:55:10.512Z",
   "status": "ok",
   "items": [
+    {
+      "id": "59322cafa4d9f7",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm"
+    },
     {
       "id": "5803ba4c511b2d",
       "title": "    SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-09-25T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm"
-    },
-    {
-      "id": "a09909ffdb688f",
-      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-24T18:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
     }
   ]
 }
