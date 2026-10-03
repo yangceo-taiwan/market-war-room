@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T19:55:10.512Z",
+  "updatedAt": "2026-10-03T05:11:13.227Z",
   "status": "ok",
   "items": [
+    {
+      "id": "cadde35138dce9",
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-02T20:45:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
+    },
+    {
+      "id": "fe551cc7e923e4",
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-02T20:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm"
+    },
     {
       "id": "59322cafa4d9f7",
       "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
@@ -11,6 +29,24 @@
       "publishedAt": "2026-10-02T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm"
+    },
+    {
+      "id": "59d08002a59e52",
+      "title": "本週發行量加權股價指數漲幅約為0.94%，上市股票總市值達158.56兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為0.94%，上市股票總市值達158.56兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a0fc0564af003b"
+    },
+    {
+      "id": "1b15db9f5d7828",
+      "title": "臺灣證券交易所訂於10月6日召開有價證券上市審議委員會第897次會議，將審議大大寬頻(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於10月6日召開有價證券上市審議委員會第897次會議，將審議大大寬頻(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a0fb985dbd002b"
     },
     {
       "id": "5803ba4c511b2d",
@@ -146,42 +182,6 @@
       "publishedAt": "2026-09-29T13:55:53.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
-    },
-    {
-      "id": "9e6266cc4fa05e",
-      "title": "TiBOOST創新大步計畫徵件延長至10月5日  重量級產業與創投評審陣容同步揭曉",
-      "titleZh": "TiBOOST創新大步計畫徵件延長至10月5日  重量級產業與創投評審陣容同步揭曉",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0ec877a6b009f"
-    },
-    {
-      "id": "f8488ca47ff48b",
-      "title": "訊聯細胞智藥(股)公司於115年9月29日送件申請股票於臺灣創新板(tib-創)上市",
-      "titleZh": "訊聯細胞智藥(股)公司於115年9月29日送件申請股票於臺灣創新板(tib-創)上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0ec5a996c0098"
-    },
-    {
-      "id": "b898e23dad1f94",
-      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)半導體及數位雲端產業之洞察報告",
-      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創)半導體及數位雲端產業之洞察報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0ebd1549a0090"
-    },
-    {
-      "id": "5a0ccfacc36b1e",
-      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-25T20:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm"
     }
   ]
 }
