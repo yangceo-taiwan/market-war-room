@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T05:29:18.271Z",
+  "updatedAt": "2026-10-05T21:58:28.871Z",
   "status": "ok",
   "items": [
+    {
+      "id": "a284ee3bb75500",
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-05T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm"
+    },
+    {
+      "id": "535f8b037613e6",
+      "title": "    SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-05T12:47:36.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
+    },
+    {
+      "id": "8c6ce427d421d9",
+      "title": "精華生醫 (證券代號：7806)採競價拍賣方式辦理承銷，於10月5日順利完成",
+      "titleZh": "精華生醫 (證券代號：7806)採競價拍賣方式辦理承銷，於10月5日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10af81ef8004d"
+    },
+    {
+      "id": "e2ed7afc0e73fa",
+      "title": "權證新制上路：證交所推動權證精進優化措施，並開放創新板股票得為權證標的",
+      "titleZh": "權證新制上路：證交所推動權證精進優化措施，並開放創新板股票得為權證標的",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10aee6ffd0049"
+    },
+    {
+      "id": "cd86febb032c6d",
+      "title": "上週外資在集中市場賣超71.67億元，賣超台新新光金5.33萬張最多，另買超友達12.86萬張最多",
+      "titleZh": "上週外資在集中市場賣超71.67億元，賣超台新新光金5.33萬張最多，另買超友達12.86萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10a50006f0045"
+    },
     {
       "id": "cadde35138dce9",
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -50,8 +95,8 @@
     },
     {
       "id": "5803ba4c511b2d",
-      "title": "    SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
+      "title": "  SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-01T16:16:07.000Z",
       "category": "法規",
@@ -137,51 +182,6 @@
       "publishedAt": "2026-09-30T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f210070f00af"
-    },
-    {
-      "id": "453e0d51ad9f09",
-      "title": "證交所建置上市公司財務報告或年度自結財務資訊之董事會預計召開日期專區，以便利投資人查詢",
-      "titleZh": "證交所建置上市公司財務報告或年度自結財務資訊之董事會預計召開日期專區，以便利投資人查詢",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f1de0b3200ab"
-    },
-    {
-      "id": "03e44fe33fae97",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商科絡達股份有限公司初次申請股票於臺灣創新板(tib-創)第一上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過英屬開曼群島商科絡達股份有限公司初次申請股票於臺灣創新板(tib-創)第一上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f1d94c2500a7"
-    },
-    {
-      "id": "01125bda765984",
-      "title": "跳脫配息數字迷思：看懂「收益平準金」，回歸ETF實質收益",
-      "titleZh": "跳脫配息數字迷思：看懂「收益平準金」，回歸ETF實質收益",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f1bc052600a1"
-    },
-    {
-      "id": "1478a167163759",
-      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-      "titleZh": "【央行｜英文原題待人工校訂】Agencies publish resolution plan feedback letters for 15 banking organizations",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-29T20:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm"
-    },
-    {
-      "id": "5ded3c9f80aef4",
-      "title": "  SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-29T13:55:53.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
     }
   ]
 }
