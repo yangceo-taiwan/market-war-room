@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T06:13:02.771Z",
+  "updatedAt": "2026-10-06T20:13:14.614Z",
   "status": "ok",
   "items": [
+    {
+      "id": "694b408b0e82f5",
+      "title": "    SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-06T14:37:55.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers"
+    },
     {
       "id": "a284ee3bb75500",
       "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
@@ -14,8 +23,8 @@
     },
     {
       "id": "535f8b037613e6",
-      "title": "    SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
+      "title": "  SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-05T12:47:36.000Z",
       "category": "法規",
@@ -146,15 +155,6 @@
       "publishedAt": "2026-09-30T16:42:15.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
-    },
-    {
-      "id": "c0d0f7cfe841bf",
-      "title": "  SEC Proposes Amendments to Expand Responsible Retailization of Private Markets\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Amendments to Expand Responsible Retailization of Private Markets\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-30T15:45:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets"
     },
     {
       "id": "975ec4f2519a98",
