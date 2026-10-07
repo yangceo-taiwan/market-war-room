@@ -1,16 +1,97 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T20:13:14.614Z",
+  "updatedAt": "2026-10-07T05:49:50.551Z",
   "status": "ok",
   "items": [
     {
+      "id": "9f4b4633fbb9aa",
+      "title": "    SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-06T20:30:24.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case"
+    },
+    {
       "id": "694b408b0e82f5",
-      "title": "    SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
+      "title": "  SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-06T14:37:55.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers"
+    },
+    {
+      "id": "2eb05d1a2fc891",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過大大寬頻股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過大大寬頻股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a110bed5240081"
+    },
+    {
+      "id": "6695fd028962c6",
+      "title": "鈺祥企業(股)公司於115年10月6日送件申請股票上市",
+      "titleZh": "鈺祥企業(股)公司於115年10月6日送件申請股票上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a110ba10a7007d"
+    },
+    {
+      "id": "e7f3bc02614f24",
+      "title": "元大加權N（證券代號：020039）指數投資證券自115年10月16日起終止上市",
+      "titleZh": "元大加權N（證券代號：020039）指數投資證券自115年10月16日起終止上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a110b537d70079"
+    },
+    {
+      "id": "2173438986700d",
+      "title": "倍利科技股份有限公司上市股票自本（115）年10月7日起得為融資融券交易",
+      "titleZh": "倍利科技股份有限公司上市股票自本（115）年10月7日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1107ea6c10075"
+    },
+    {
+      "id": "b4022b5e95f5fe",
+      "title": "展逸國際企業(股)公司於115年10月6日送件申請股票於臺灣創新板 (tib-創)上市",
+      "titleZh": "展逸國際企業(股)公司於115年10月6日送件申請股票於臺灣創新板 (tib-創)上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11078a03f0071"
+    },
+    {
+      "id": "c77723a172e2ca",
+      "title": "未來就在下一站！臺灣創新板「創未來列車」駛進北捷板南線 證交所攜創新企業走入通勤日常，邀全民「現在，投資未來」",
+      "titleZh": "未來就在下一站！臺灣創新板「創未來列車」駛進北捷板南線 證交所攜創新企業走入通勤日常，邀全民「現在，投資未來」",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a110291c5e0069"
+    },
+    {
+      "id": "bec6e74d95fc46",
+      "title": "臺灣證券交易所「投資資訊中心(Investment InfoHub)」升級，新增「璞玉」專區",
+      "titleZh": "臺灣證券交易所「投資資訊中心(Investment InfoHub)」升級，新增「璞玉」專區",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11012ba550062"
+    },
+    {
+      "id": "487b83f0ff183a",
+      "title": "證交所徵才「職得你來」 攜手定義市場新未來",
+      "titleZh": "證交所徵才「職得你來」 攜手定義市場新未來",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-06T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10fe364b50056"
     },
     {
       "id": "a284ee3bb75500",
@@ -49,15 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10aee6ffd0049"
     },
     {
-      "id": "cd86febb032c6d",
-      "title": "上週外資在集中市場賣超71.67億元，賣超台新新光金5.33萬張最多，另買超友達12.86萬張最多",
-      "titleZh": "上週外資在集中市場賣超71.67億元，賣超台新新光金5.33萬張最多，另買超友達12.86萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10a50006f0045"
-    },
-    {
       "id": "cadde35138dce9",
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -85,24 +157,6 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm"
     },
     {
-      "id": "59d08002a59e52",
-      "title": "本週發行量加權股價指數漲幅約為0.94%，上市股票總市值達158.56兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為0.94%，上市股票總市值達158.56兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a0fc0564af003b"
-    },
-    {
-      "id": "1b15db9f5d7828",
-      "title": "臺灣證券交易所訂於10月6日召開有價證券上市審議委員會第897次會議，將審議大大寬頻(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於10月6日召開有價證券上市審議委員會第897次會議，將審議大大寬頻(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a0fb985dbd002b"
-    },
-    {
       "id": "5803ba4c511b2d",
       "title": "  SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
@@ -121,24 +175,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"
     },
     {
-      "id": "7d7ac4d30b6170",
-      "title": "上市公司執行買回庫藏股情形",
-      "titleZh": "上市公司執行買回庫藏股情形",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-01T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f6db3b1f00bd"
-    },
-    {
-      "id": "60576fd1bc9f48",
-      "title": "臺灣證券交易所對盛達電業股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
-      "titleZh": "臺灣證券交易所對盛達電業股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-01T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f6c04ad000b9"
-    },
-    {
       "id": "3c8d6705c72853",
       "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
@@ -146,42 +182,6 @@
       "publishedAt": "2026-09-30T18:30:01.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
-    },
-    {
-      "id": "dc67e39ba3cdf2",
-      "title": "  SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-30T16:42:15.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
-    },
-    {
-      "id": "975ec4f2519a98",
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-09-30T13:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm"
-    },
-    {
-      "id": "0a034dcb002943",
-      "title": "證交所攜手AAMA舉辦主題分享會　助新創企業掌握創新板上市契機",
-      "titleZh": "證交所攜手AAMA舉辦主題分享會　助新創企業掌握創新板上市契機",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f21e22bf00b3"
-    },
-    {
-      "id": "e0cdc2f254752e",
-      "title": "115年第4季得為上市認購（售）權證（含牛熊證）之標的證券",
-      "titleZh": "115年第4季得為上市認購（售）權證（含牛熊證）之標的證券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-09-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0bdcc0001a0f210070f00af"
     }
   ]
 }
