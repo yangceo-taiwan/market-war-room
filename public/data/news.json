@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T05:49:50.551Z",
+  "updatedAt": "2026-10-07T20:34:44.630Z",
   "status": "ok",
   "items": [
+    {
+      "id": "eeb8f6b78f0190",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-07T18:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+    },
     {
       "id": "9f4b4633fbb9aa",
       "title": "    SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-01T15:03:35.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"
-    },
-    {
-      "id": "3c8d6705c72853",
-      "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-09-30T18:30:01.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
     }
   ]
 }

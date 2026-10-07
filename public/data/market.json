@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-10-07T05:49:50.551Z",
+  "updatedAt": "2026-10-07T20:34:44.630Z",
   "timezone": "Asia/Taipei",
-  "session": "noon",
+  "session": "morning",
   "dailyTrend": "bull",
   "hourlyTrend": "mixed",
   "temperature": {
@@ -81,12 +81,12 @@
       "id": "vix",
       "name": "波動率指數",
       "symbol": "VIX",
-      "value": 15.52,
-      "change": 0.20999999999999908,
-      "changePercent": 1.3716525146962708,
+      "value": 15.01,
+      "change": -0.5099999999999998,
+      "changePercent": -3.2860824742268027,
       "unit": "點",
-      "direction": "bull",
-      "asOf": "2026-10-05T22:00:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-10-06T22:00:00.000Z",
       "sourceId": "fred",
       "status": "ok"
     },
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-10-07T05:49:50.551Z",
+      "asOf": "2026-10-07T20:34:44.630Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -120,12 +120,12 @@
       "id": "us2y",
       "name": "美債 2 年",
       "symbol": "US2Y",
-      "value": 4.84,
-      "change": 0.009999999999999787,
-      "changePercent": 0.20703933747411568,
+      "value": 4.79,
+      "change": -0.04999999999999982,
+      "changePercent": -1.0330578512396658,
       "unit": "%",
-      "direction": "bull",
-      "asOf": "2026-10-05T22:00:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-10-06T22:00:00.000Z",
       "sourceId": "fred",
       "status": "ok"
     },
@@ -133,12 +133,12 @@
       "id": "us10y",
       "name": "美債 10 年",
       "symbol": "US10Y",
-      "value": 5.31,
-      "change": 0.02999999999999936,
-      "changePercent": 0.568181818181806,
+      "value": 5.27,
+      "change": -0.040000000000000036,
+      "changePercent": -0.7532956685499066,
       "unit": "%",
-      "direction": "bull",
-      "asOf": "2026-10-05T22:00:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-10-06T22:00:00.000Z",
       "sourceId": "fred",
       "status": "ok"
     }
@@ -148,18 +148,18 @@
       "id": "yahoo",
       "name": "Yahoo Finance 公開圖表端點",
       "url": "https://finance.yahoo.com/",
-      "status": "ok",
+      "status": "fallback",
       "asOf": "2026-10-07T05:49:49.000Z",
-      "lastAttempt": "2026-10-07T05:49:50.551Z",
-      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
+      "lastAttempt": "2026-10-07T20:34:44.630Z",
+      "message": "0/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
       "id": "fred",
       "name": "FRED（聖路易聯邦準備銀行）",
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
-      "asOf": "2026-10-05T22:00:00.000Z",
-      "lastAttempt": "2026-10-07T05:49:50.551Z",
+      "asOf": "2026-10-06T22:00:00.000Z",
+      "lastAttempt": "2026-10-07T20:34:44.630Z",
       "message": "3/3 個系列更新成功"
     },
     {
@@ -168,23 +168,23 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-10-06T05:30:00.000Z",
-      "lastAttempt": "2026-10-07T05:49:50.551Z"
+      "lastAttempt": "2026-10-07T20:34:44.630Z"
     },
     {
       "id": "cboe",
       "name": "Cboe Daily Market Statistics",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
       "status": "ok",
-      "asOf": "2026-10-07T05:49:50.551Z",
-      "lastAttempt": "2026-10-07T05:49:50.551Z"
+      "asOf": "2026-10-07T20:34:44.630Z",
+      "lastAttempt": "2026-10-07T20:34:44.630Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-10-07T05:49:50.551Z",
-      "lastAttempt": "2026-10-07T05:49:50.551Z",
+      "asOf": "2026-10-07T20:34:44.630Z",
+      "lastAttempt": "2026-10-07T20:34:44.630Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
