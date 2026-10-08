@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T20:34:44.630Z",
+  "updatedAt": "2026-10-08T05:54:56.442Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,33 @@
       "publishedAt": "2026-10-07T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+    },
+    {
+      "id": "fc61c54e787a9b",
+      "title": "證交所攜手勤業眾信舉辦創新板交流會，共創優質企業登板契機",
+      "titleZh": "證交所攜手勤業眾信舉辦創新板交流會，共創優質企業登板契機",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a115a8f47400c2"
+    },
+    {
+      "id": "8e84115a801c94",
+      "title": "臺灣證券交易所訂於10月12日召開有價證券上市審議委員會第898次會議，將審議旭東機械工業(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於10月12日召開有價證券上市審議委員會第898次會議，將審議旭東機械工業(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11525b23400b5"
+    },
+    {
+      "id": "c00b478bbf1a4f",
+      "title": "證交所持續推動2026年「地球特攻隊」永續行動 「潮汐守護日」淨灘行動 攜手守護海岸環境",
+      "titleZh": "證交所持續推動2026年「地球特攻隊」永續行動 「潮汐守護日」淨灘行動 攜手守護海岸環境",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-07T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a110508862006d"
     },
     {
       "id": "9f4b4633fbb9aa",
@@ -94,15 +121,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11012ba550062"
     },
     {
-      "id": "487b83f0ff183a",
-      "title": "證交所徵才「職得你來」 攜手定義市場新未來",
-      "titleZh": "證交所徵才「職得你來」 攜手定義市場新未來",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-06T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10fe364b50056"
-    },
-    {
       "id": "a284ee3bb75500",
       "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Isabella Bank Corporation",
@@ -119,24 +137,6 @@
       "publishedAt": "2026-10-05T12:47:36.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
-    },
-    {
-      "id": "8c6ce427d421d9",
-      "title": "精華生醫 (證券代號：7806)採競價拍賣方式辦理承銷，於10月5日順利完成",
-      "titleZh": "精華生醫 (證券代號：7806)採競價拍賣方式辦理承銷，於10月5日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10af81ef8004d"
-    },
-    {
-      "id": "e2ed7afc0e73fa",
-      "title": "權證新制上路：證交所推動權證精進優化措施，並開放創新板股票得為權證標的",
-      "titleZh": "權證新制上路：證交所推動權證精進優化措施，並開放創新板股票得為權證標的",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a10aee6ffd0049"
     },
     {
       "id": "cadde35138dce9",
