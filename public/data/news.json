@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T05:54:56.442Z",
+  "updatedAt": "2026-10-08T20:40:14.452Z",
   "status": "ok",
   "items": [
+    {
+      "id": "e95750d1b74189",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-08T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
+    },
     {
       "id": "eeb8f6b78f0190",
       "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-01T16:16:07.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal"
-    },
-    {
-      "id": "3f074b908634f9",
-      "title": "  SEC’s Division of Examinations Announces New Exam Handbook\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC’s Division of Examinations Announces New Exam Handbook\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-01T15:03:35.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"
     }
   ]
 }
