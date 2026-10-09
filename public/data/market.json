@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-10-08T20:40:14.452Z",
+  "updatedAt": "2026-10-09T06:01:16.340Z",
   "timezone": "Asia/Taipei",
-  "session": "morning",
+  "session": "noon",
   "dailyTrend": "bear",
   "hourlyTrend": "mixed",
   "temperature": {
@@ -16,12 +16,12 @@
       "id": "taiex",
       "name": "台灣加權",
       "symbol": "TAIEX",
-      "value": 49806.37,
-      "change": -16.18000000000029,
-      "changePercent": -0.032475254678855835,
+      "value": 49313.44,
+      "change": -492.9300000000003,
+      "changePercent": -0.9896926838876238,
       "unit": "點",
-      "direction": "mixed",
-      "asOf": "2026-10-07T05:30:00.000Z",
+      "direction": "bear",
+      "asOf": "2026-10-08T05:30:00.000Z",
       "sourceId": "twse",
       "status": "ok"
     },
@@ -68,9 +68,9 @@
       "id": "sox",
       "name": "費城半導體",
       "symbol": "SOX",
-      "value": 12623.71484375,
-      "change": -442.435546875,
-      "changePercent": -3.386120116851316,
+      "value": 12623.7099609375,
+      "change": -442.4404296875,
+      "changePercent": -3.3861574867908475,
       "unit": "點",
       "direction": "bear",
       "asOf": "2026-10-08T13:30:00.000Z",
@@ -94,12 +94,12 @@
       "id": "putcall",
       "name": "Put / Call",
       "symbol": "TOTAL",
-      "value": 0.87,
+      "value": 0.89,
       "change": null,
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-10-08T20:40:14.452Z",
+      "asOf": "2026-10-09T06:01:16.340Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -107,12 +107,12 @@
       "id": "usdtwd",
       "name": "美元／台幣",
       "symbol": "USD/TWD",
-      "value": 31.937000274658203,
-      "change": 0.0886993408203125,
-      "changePercent": 0.27850572312971345,
+      "value": 31.91200065612793,
+      "change": 0.06369972229003906,
+      "changePercent": 0.2000097977671392,
       "unit": "匯率",
       "direction": "bull",
-      "asOf": "2026-10-08T20:40:13.000Z",
+      "asOf": "2026-10-09T02:02:32.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -145,46 +145,46 @@
   ],
   "sources": [
     {
+      "id": "yahoo",
+      "name": "Yahoo Finance 公開圖表端點",
+      "url": "https://finance.yahoo.com/",
+      "status": "ok",
+      "asOf": "2026-10-09T02:02:32.000Z",
+      "lastAttempt": "2026-10-09T06:01:16.340Z",
+      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
+    },
+    {
       "id": "fred",
       "name": "FRED（聖路易聯邦準備銀行）",
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
       "asOf": "2026-10-07T22:00:00.000Z",
-      "lastAttempt": "2026-10-08T20:40:14.452Z",
+      "lastAttempt": "2026-10-09T06:01:16.340Z",
       "message": "3/3 個系列更新成功"
-    },
-    {
-      "id": "yahoo",
-      "name": "Yahoo Finance 公開圖表端點",
-      "url": "https://finance.yahoo.com/",
-      "status": "ok",
-      "asOf": "2026-10-08T20:40:13.000Z",
-      "lastAttempt": "2026-10-08T20:40:14.452Z",
-      "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
       "id": "twse",
       "name": "臺灣證券交易所 OpenAPI",
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
-      "asOf": "2026-10-07T05:30:00.000Z",
-      "lastAttempt": "2026-10-08T20:40:14.452Z"
+      "asOf": "2026-10-08T05:30:00.000Z",
+      "lastAttempt": "2026-10-09T06:01:16.340Z"
     },
     {
       "id": "cboe",
       "name": "Cboe Daily Market Statistics",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
       "status": "ok",
-      "asOf": "2026-10-08T20:40:14.452Z",
-      "lastAttempt": "2026-10-08T20:40:14.452Z"
+      "asOf": "2026-10-09T06:01:16.340Z",
+      "lastAttempt": "2026-10-09T06:01:16.340Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-10-08T20:40:14.452Z",
-      "lastAttempt": "2026-10-08T20:40:14.452Z",
+      "asOf": "2026-10-09T06:01:16.340Z",
+      "lastAttempt": "2026-10-09T06:01:16.340Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
