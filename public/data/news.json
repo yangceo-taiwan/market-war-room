@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T06:01:16.340Z",
+  "updatedAt": "2026-10-09T20:05:02.374Z",
   "status": "ok",
   "items": [
+    {
+      "id": "215622ff975df9",
+      "title": "    SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-09T14:59:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds"
+    },
+    {
+      "id": "15b4b4b5fa4c87",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm"
+    },
     {
       "id": "e95750d1b74189",
       "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
@@ -113,8 +131,8 @@
     },
     {
       "id": "9f4b4633fbb9aa",
-      "title": "    SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
+      "title": "  SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-06T20:30:24.000Z",
       "category": "法規",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-10-02T20:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm"
-    },
-    {
-      "id": "59322cafa4d9f7",
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm"
-    },
-    {
-      "id": "5803ba4c511b2d",
-      "title": "  SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-01T16:16:07.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal"
     }
   ]
 }
