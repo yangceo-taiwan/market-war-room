@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T06:42:44.723Z",
+  "updatedAt": "2026-10-13T20:37:58.203Z",
   "status": "ok",
   "items": [
+    {
+      "id": "d85e5d3609348b",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+    },
     {
       "id": "d4e5f685082b24",
       "title": "自115年10月14日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-02T20:45:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
-    },
-    {
-      "id": "fe551cc7e923e4",
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-02T20:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm"
     }
   ]
 }
