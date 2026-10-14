@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T04:46:11.663Z",
+  "updatedAt": "2026-10-14T19:18:47.080Z",
   "status": "ok",
   "items": [
+    {
+      "id": "f3e86de4961ecc",
+      "title": "    SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-14T14:30:47.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
+    },
     {
       "id": "d85e5d3609348b",
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -77,8 +86,8 @@
     },
     {
       "id": "215622ff975df9",
-      "title": "    SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
+      "title": "  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-09T14:59:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-05T12:47:36.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
-    },
-    {
-      "id": "cadde35138dce9",
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-02T20:45:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
     }
   ]
 }
