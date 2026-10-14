@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T20:37:58.203Z",
+  "updatedAt": "2026-10-14T04:46:11.663Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,33 @@
       "publishedAt": "2026-10-13T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+    },
+    {
+      "id": "21f1a47f80419a",
+      "title": "證交所攜手元大證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "titleZh": "證交所攜手元大證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a134e65d7c012e"
+    },
+    {
+      "id": "bedd99f38a0ea9",
+      "title": "湧盛 (證券代號：2249)採競價拍賣方式辦理承銷，於10月13日順利完成",
+      "titleZh": "湧盛 (證券代號：2249)採競價拍賣方式辦理承銷，於10月13日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a134b2d271012a"
+    },
+    {
+      "id": "4545e5320ed2a9",
+      "title": "全體上市公司(不含金融保險業)115年9月份當月營收較114年同期成長47.28％，累計營業收入較115年同期成長38.3％",
+      "titleZh": "全體上市公司(不含金融保險業)115年9月份當月營收較114年同期成長47.28％，累計營業收入較115年同期成長38.3％",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a134115693011e"
     },
     {
       "id": "d4e5f685082b24",
@@ -101,33 +128,6 @@
       "publishedAt": "2026-10-08T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11ad20a5800e0"
-    },
-    {
-      "id": "99590c9cf35dea",
-      "title": "本週發行量加權股價指數漲幅約為1.73%，上市股票總市值達161.36兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為1.73%，上市股票總市值達161.36兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11ac9ea8d00db"
-    },
-    {
-      "id": "f1f1c73f7724dd",
-      "title": "泰合 (證券代號：6467)採競價拍賣方式辦理承銷，於今10月8日順利完成",
-      "titleZh": "泰合 (證券代號：6467)採競價拍賣方式辦理承銷，於今10月8日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11a5f607c00d3"
-    },
-    {
-      "id": "da1b336e5d7596",
-      "title": "證交所溫室氣體盤查實作工作坊圓滿落幕　持續深化企業碳管理實務能力",
-      "titleZh": "證交所溫室氣體盤查實作工作坊圓滿落幕　持續深化企業碳管理實務能力",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11a293fb200ce"
     },
     {
       "id": "eeb8f6b78f0190",
