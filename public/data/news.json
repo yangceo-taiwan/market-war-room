@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T19:18:47.080Z",
+  "updatedAt": "2026-10-15T04:29:01.500Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,42 @@
       "publishedAt": "2026-10-14T14:30:47.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
+    },
+    {
+      "id": "747496675a6dcc",
+      "title": "欣雄天然氣股份有限公司股票自115年10月16日開始上市買賣",
+      "titleZh": "欣雄天然氣股份有限公司股票自115年10月16日開始上市買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a139d42245014e"
+    },
+    {
+      "id": "5d6eeb3496785b",
+      "title": "2026年9月集中市場相關數據",
+      "titleZh": "2026年9月集中市場相關數據",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1392b6aaf013a"
+    },
+    {
+      "id": "aec54408017b22",
+      "title": "藍新資訊 (證券代號：6938)採競價拍賣方式辦理承銷，於10月14日順利完成",
+      "titleZh": "藍新資訊 (證券代號：6938)採競價拍賣方式辦理承銷，於10月14日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1399440170146"
+    },
+    {
+      "id": "5b51528a55a502",
+      "title": "程曦資訊 (證券代號：6898)採競價拍賣方式辦理承銷，於10月14日順利完成",
+      "titleZh": "程曦資訊 (證券代號：6898)採競價拍賣方式辦理承銷，於10月14日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-14T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1399143170142"
     },
     {
       "id": "d85e5d3609348b",
@@ -76,15 +112,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a12f2224bb010c"
     },
     {
-      "id": "29e40ec9349da1",
-      "title": "上週外資在集中市場賣超236.57億元，賣超友達43.48萬張最多，另買超台塑5.65萬張最多",
-      "titleZh": "上週外資在集中市場賣超236.57億元，賣超友達43.48萬張最多，另買超台塑5.65萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a12ee237930100"
-    },
-    {
       "id": "215622ff975df9",
       "title": "  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
@@ -110,33 +137,6 @@
       "publishedAt": "2026-10-08T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
-    },
-    {
-      "id": "0a7029a57f9f9e",
-      "title": "安聯投信募集發行之主動安聯亞半導體ETF，自115年10月13日起掛牌上市，並得辦理融資融券",
-      "titleZh": "安聯投信募集發行之主動安聯亞半導體ETF，自115年10月13日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11adf5b1900e8"
-    },
-    {
-      "id": "96590efe6778c1",
-      "title": "IFRS永續揭露準則第三階段接軌啟動 導入計畫宣導會自10月21日登場",
-      "titleZh": "IFRS永續揭露準則第三階段接軌啟動 導入計畫宣導會自10月21日登場",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11ad6d94e00e4"
-    },
-    {
-      "id": "ef062605e1b182",
-      "title": "永冠能源科技集團有限公司（永冠-KY，公司代號：1589）有價證券將於115年11月18日終止上市暨停止公開發行",
-      "titleZh": "永冠能源科技集團有限公司（永冠-KY，公司代號：1589）有價證券將於115年11月18日終止上市暨停止公開發行",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-08T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a11ad20a5800e0"
     },
     {
       "id": "eeb8f6b78f0190",
