@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T04:23:54.031Z",
+  "updatedAt": "2026-10-16T18:46:12.134Z",
   "status": "ok",
   "items": [
+    {
+      "id": "70363c9b200b07",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+    },
     {
       "id": "be9303abe6f0eb",
       "title": "東擎科技 (證券代號：7710)採競價拍賣方式辦理承銷，於今10月15日順利完成",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-05T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm"
-    },
-    {
-      "id": "535f8b037613e6",
-      "title": "  SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-05T12:47:36.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
     }
   ]
 }
