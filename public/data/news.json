@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T19:05:07.750Z",
+  "updatedAt": "2026-10-16T04:23:54.031Z",
   "status": "ok",
   "items": [
+    {
+      "id": "be9303abe6f0eb",
+      "title": "東擎科技 (證券代號：7710)採競價拍賣方式辦理承銷，於今10月15日順利完成",
+      "titleZh": "東擎科技 (證券代號：7710)採競價拍賣方式辦理承銷，於今10月15日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-15T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13edec7a80161"
+    },
+    {
+      "id": "b9deaecf740ff7",
+      "title": "世紀能源設備股份有限公司上市股票自本（115）年10月16日起得為融資融券交易",
+      "titleZh": "世紀能源設備股份有限公司上市股票自本（115）年10月16日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-15T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13e4b84030159"
+    },
+    {
+      "id": "589f0500bc2fab",
+      "title": "證交所招募倒數計時！「職得你來」探索多元未來",
+      "titleZh": "證交所招募倒數計時！「職得你來」探索多元未來",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-15T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13e3d90590155"
+    },
     {
       "id": "f3e86de4961ecc",
       "title": "    SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
@@ -83,33 +110,6 @@
       "publishedAt": "2026-10-13T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a134115693011e"
-    },
-    {
-      "id": "d4e5f685082b24",
-      "title": "自115年10月14日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
-      "titleZh": "自115年10月14日起，永冠能源科技集團有限公司（永冠-KY，公司代號：1589）上市有價證券併案列為變更交易方法且停止買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a12f97b69f0115"
-    },
-    {
-      "id": "47782946c53635",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過旭東機械工業股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過旭東機械工業股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a12f74cbdf0111"
-    },
-    {
-      "id": "b6f9fe2890faee",
-      "title": "證交所林修銘董事長接受《日經》專訪：深化臺日金融合作，發揮產業優勢連結全球資金，建構「世界科技島」",
-      "titleZh": "證交所林修銘董事長接受《日經》專訪：深化臺日金融合作，發揮產業優勢連結全球資金，建構「世界科技島」",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a12f2224bb010c"
     },
     {
       "id": "215622ff975df9",
