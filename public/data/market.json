@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "updatedAt": "2026-10-18T04:22:42.101Z",
+  "updatedAt": "2026-10-18T18:03:11.430Z",
   "timezone": "Asia/Taipei",
-  "session": "noon",
+  "session": "morning",
   "dailyTrend": "bear",
   "hourlyTrend": "mixed",
   "temperature": {
@@ -99,7 +99,7 @@
       "changePercent": null,
       "unit": "比率",
       "direction": "mixed",
-      "asOf": "2026-10-18T04:22:42.101Z",
+      "asOf": "2026-10-18T18:03:11.430Z",
       "sourceId": "cboe",
       "status": "ok"
     },
@@ -112,7 +112,7 @@
       "changePercent": 0.31274548479090253,
       "unit": "匯率",
       "direction": "bull",
-      "asOf": "2026-10-16T21:00:38.000Z",
+      "asOf": "2026-10-18T15:47:35.000Z",
       "sourceId": "yahoo",
       "status": "ok"
     },
@@ -149,8 +149,8 @@
       "name": "Yahoo Finance 公開圖表端點",
       "url": "https://finance.yahoo.com/",
       "status": "ok",
-      "asOf": "2026-10-16T21:00:38.000Z",
-      "lastAttempt": "2026-10-18T04:22:42.101Z",
+      "asOf": "2026-10-18T15:47:35.000Z",
+      "lastAttempt": "2026-10-18T18:03:11.430Z",
       "message": "5/5 個市場系列更新成功；非官方 API、無 SLA"
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://fred.stlouisfed.org/",
       "status": "ok",
       "asOf": "2026-10-15T22:00:00.000Z",
-      "lastAttempt": "2026-10-18T04:22:42.101Z",
+      "lastAttempt": "2026-10-18T18:03:11.430Z",
       "message": "3/3 個系列更新成功"
     },
     {
@@ -168,23 +168,23 @@
       "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
       "status": "ok",
       "asOf": "2026-10-16T05:30:00.000Z",
-      "lastAttempt": "2026-10-18T04:22:42.101Z"
+      "lastAttempt": "2026-10-18T18:03:11.430Z"
     },
     {
       "id": "cboe",
       "name": "Cboe Daily Market Statistics",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
       "status": "ok",
-      "asOf": "2026-10-18T04:22:42.101Z",
-      "lastAttempt": "2026-10-18T04:22:42.101Z"
+      "asOf": "2026-10-18T18:03:11.430Z",
+      "lastAttempt": "2026-10-18T18:03:11.430Z"
     },
     {
       "id": "feeds",
       "name": "官方新聞 RSS / OpenAPI",
       "url": "https://www.sec.gov/newsroom/press-releases",
       "status": "ok",
-      "asOf": "2026-10-18T04:22:42.101Z",
-      "lastAttempt": "2026-10-18T04:22:42.101Z",
+      "asOf": "2026-10-18T18:03:11.430Z",
+      "lastAttempt": "2026-10-18T18:03:11.430Z",
       "message": "20 則新聞；來源更新正常"
     }
   ]
