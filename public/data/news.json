@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T04:32:04.768Z",
+  "updatedAt": "2026-10-19T20:33:17.258Z",
   "status": "ok",
   "items": [
+    {
+      "id": "52af5a23bbe6a8",
+      "title": "    SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-19T17:19:43.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence"
+    },
     {
       "id": "70363c9b200b07",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
@@ -77,8 +86,8 @@
     },
     {
       "id": "f3e86de4961ecc",
-      "title": "    SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
+      "title": "  SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-14T14:30:47.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-06T14:37:55.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers"
-    },
-    {
-      "id": "a284ee3bb75500",
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm"
     }
   ]
 }
