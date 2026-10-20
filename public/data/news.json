@@ -1,12 +1,30 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T04:41:35.521Z",
+  "updatedAt": "2026-10-20T19:10:43.666Z",
   "status": "ok",
   "items": [
     {
+      "id": "d6c1715c06b06b",
+      "title": "    SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-20T13:25:16.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service"
+    },
+    {
+      "id": "f5907297fdebef",
+      "title": "  SEC, FSA Hold Autumn Financial Regulatory Dialogue\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC, FSA Hold Autumn Financial Regulatory Dialogue\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-20T12:51:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue"
+    },
+    {
       "id": "52af5a23bbe6a8",
-      "title": "    SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
+      "title": "  SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-19T17:19:43.000Z",
       "category": "法規",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-10-07T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
-    },
-    {
-      "id": "9f4b4633fbb9aa",
-      "title": "  SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-06T20:30:24.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case"
-    },
-    {
-      "id": "694b408b0e82f5",
-      "title": "  SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-06T14:37:55.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers"
     }
   ]
 }
