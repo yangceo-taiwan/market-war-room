@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T20:33:17.258Z",
+  "updatedAt": "2026-10-20T04:41:35.521Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,42 @@
       "publishedAt": "2026-10-19T17:19:43.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence"
+    },
+    {
+      "id": "9fa5b771dd3c7a",
+      "title": "泰合生技藥品股份有限公司股票自115年10月20日開始上市買賣",
+      "titleZh": "泰合生技藥品股份有限公司股票自115年10月20日開始上市買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a15371acef01b0"
+    },
+    {
+      "id": "679d944517b33f",
+      "title": "和暢科技(證券代號：6825)採競價拍賣方式辦理承銷，於10月19日順利完成",
+      "titleZh": "和暢科技(證券代號：6825)採競價拍賣方式辦理承銷，於10月19日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a153152e5701ac"
+    },
+    {
+      "id": "c4cbe3ca296475",
+      "title": "上週外資在集中市場賣超5,862.28億元，賣超力積電19.12萬張最多，另買超中鋼16.77萬張最多",
+      "titleZh": "上週外資在集中市場賣超5,862.28億元，賣超力積電19.12萬張最多，另買超中鋼16.77萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a152f36d2b01a4"
+    },
+    {
+      "id": "869cfb700605b1",
+      "title": "國際雙認證！證交所奪 Euromoney 亞洲散戶參與創新獎、「證好學」登 WFE Focus頭版",
+      "titleZh": "國際雙認證！證交所奪 Euromoney 亞洲散戶參與創新獎、「證好學」登 WFE Focus頭版",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a15241784d01a0"
     },
     {
       "id": "70363c9b200b07",
@@ -76,15 +112,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13e4b84030159"
     },
     {
-      "id": "589f0500bc2fab",
-      "title": "證交所招募倒數計時！「職得你來」探索多元未來",
-      "titleZh": "證交所招募倒數計時！「職得你來」探索多元未來",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-15T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13e3d90590155"
-    },
-    {
       "id": "f3e86de4961ecc",
       "title": "  SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding\n",
@@ -92,33 +119,6 @@
       "publishedAt": "2026-10-14T14:30:47.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
-    },
-    {
-      "id": "747496675a6dcc",
-      "title": "欣雄天然氣股份有限公司股票自115年10月16日開始上市買賣",
-      "titleZh": "欣雄天然氣股份有限公司股票自115年10月16日開始上市買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a139d42245014e"
-    },
-    {
-      "id": "5d6eeb3496785b",
-      "title": "2026年9月集中市場相關數據",
-      "titleZh": "2026年9月集中市場相關數據",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1392b6aaf013a"
-    },
-    {
-      "id": "aec54408017b22",
-      "title": "藍新資訊 (證券代號：6938)採競價拍賣方式辦理承銷，於10月14日順利完成",
-      "titleZh": "藍新資訊 (證券代號：6938)採競價拍賣方式辦理承銷，於10月14日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-14T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1399440170146"
     },
     {
       "id": "d85e5d3609348b",
