@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T19:10:43.666Z",
+  "updatedAt": "2026-10-21T04:36:37.744Z",
   "status": "ok",
   "items": [
     {
@@ -20,6 +20,33 @@
       "publishedAt": "2026-10-20T12:51:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue"
+    },
+    {
+      "id": "7b6d1bbd2b25b8",
+      "title": "臺灣證券交易所訂於10月22日召開有價證券上市審議委員會第900次會議，將審議超秦企業(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於10月22日召開有價證券上市審議委員會第900次會議，將審議超秦企業(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a158cb1aa401de"
+    },
+    {
+      "id": "5a06b8494f5501",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過瑞宇國際股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過瑞宇國際股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a158bd803401da"
+    },
+    {
+      "id": "42bfe2072dffcc",
+      "title": "Power Up Plan 2.0上路  讓企業價值被世界看見 助攻企業國際競爭力！",
+      "titleZh": "Power Up Plan 2.0上路  讓企業價值被世界看見 助攻企業國際競爭力！",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a157d5ad7801d0"
     },
     {
       "id": "52af5a23bbe6a8",
@@ -101,33 +128,6 @@
       "publishedAt": "2026-10-16T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1441cd8f40191"
-    },
-    {
-      "id": "41e72856d39b5d",
-      "title": "本週發行量加權股價指數跌幅約為4.47%，上市股票總市值達154.18兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為4.47%，上市股票總市值達154.18兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a144180a2a018d"
-    },
-    {
-      "id": "be9303abe6f0eb",
-      "title": "東擎科技 (證券代號：7710)採競價拍賣方式辦理承銷，於今10月15日順利完成",
-      "titleZh": "東擎科技 (證券代號：7710)採競價拍賣方式辦理承銷，於今10月15日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-15T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13edec7a80161"
-    },
-    {
-      "id": "b9deaecf740ff7",
-      "title": "世紀能源設備股份有限公司上市股票自本（115）年10月16日起得為融資融券交易",
-      "titleZh": "世紀能源設備股份有限公司上市股票自本（115）年10月16日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-15T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a13e4b84030159"
     },
     {
       "id": "f3e86de4961ecc",
