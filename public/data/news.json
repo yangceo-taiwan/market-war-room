@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T19:11:41.020Z",
+  "updatedAt": "2026-10-23T04:40:14.639Z",
   "status": "ok",
   "items": [
+    {
+      "id": "95e2db98ca3bd9",
+      "title": "東擎科技股份有限公司股票自115年10月27日開始上市買賣",
+      "titleZh": "東擎科技股份有限公司股票自115年10月27日開始上市買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a16390e31d0207"
+    },
+    {
+      "id": "296a626c38e615",
+      "title": "臺灣證券交易所集中交易市場115年10月23日休市一天",
+      "titleZh": "臺灣證券交易所集中交易市場115年10月23日休市一天",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1638507a10203"
+    },
+    {
+      "id": "130c8c22f62113",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過超秦企業股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過超秦企業股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1631face801fc"
+    },
+    {
+      "id": "7b3cde78a10321",
+      "title": "全體證券商115年9月稅後淨利187.81億元，累計稅後淨利2,012.54億元",
+      "titleZh": "全體證券商115年9月稅後淨利187.81億元，累計稅後淨利2,012.54億元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a16316f74001f7"
+    },
+    {
+      "id": "61080e5dc49357",
+      "title": "臺灣創新板號召企業與投資人「現在，投資未來」 制度全面接軌一般板 打造資本良性循環",
+      "titleZh": "臺灣創新板號召企業與投資人「現在，投資未來」 制度全面接軌一般板 打造資本良性循環",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a16233b8e501ef"
+    },
     {
       "id": "d6c1715c06b06b",
       "title": "    SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
@@ -76,24 +121,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a153152e5701ac"
     },
     {
-      "id": "c4cbe3ca296475",
-      "title": "上週外資在集中市場賣超5,862.28億元，賣超力積電19.12萬張最多，另買超中鋼16.77萬張最多",
-      "titleZh": "上週外資在集中市場賣超5,862.28億元，賣超力積電19.12萬張最多，另買超中鋼16.77萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-19T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a152f36d2b01a4"
-    },
-    {
-      "id": "869cfb700605b1",
-      "title": "國際雙認證！證交所奪 Euromoney 亞洲散戶參與創新獎、「證好學」登 WFE Focus頭版",
-      "titleZh": "國際雙認證！證交所奪 Euromoney 亞洲散戶參與創新獎、「證好學」登 WFE Focus頭版",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-19T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a15241784d01a0"
-    },
-    {
       "id": "70363c9b200b07",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
@@ -101,33 +128,6 @@
       "publishedAt": "2026-10-16T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
-    },
-    {
-      "id": "8d3bd5573dfa20",
-      "title": "群益投信募集發行之主動群益核心50ETF，自115年10月20日起掛牌上市，並得辦理融資融券",
-      "titleZh": "群益投信募集發行之主動群益核心50ETF，自115年10月20日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1442e8b5d0199"
-    },
-    {
-      "id": "c3d528558dc3ed",
-      "title": "泰宗生物科技股份有限公司上市股票自本(115)年10月19日起得為融資融券交易",
-      "titleZh": "泰宗生物科技股份有限公司上市股票自本(115)年10月19日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a14427322e0195"
-    },
-    {
-      "id": "aeeb0cefd49ccd",
-      "title": "臺灣證券交易所訂於10月20日召開有價證券上市審議委員會第899次會議，將審議瑞宇國際(股)公司之申請股票創新板上市案",
-      "titleZh": "臺灣證券交易所訂於10月20日召開有價證券上市審議委員會第899次會議，將審議瑞宇國際(股)公司之申請股票創新板上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-16T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1441cd8f40191"
     },
     {
       "id": "f3e86de4961ecc",
