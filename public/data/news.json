@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T04:40:14.639Z",
+  "updatedAt": "2026-10-23T19:08:24.499Z",
   "status": "ok",
   "items": [
+    {
+      "id": "b74f7652e7222a",
+      "title": "    SEC Announces Fiscal Year 2027 Examination Priorities\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Fiscal Year 2027 Examination Priorities\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-23T14:10:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
+    },
     {
       "id": "95e2db98ca3bd9",
       "title": "東擎科技股份有限公司股票自115年10月27日開始上市買賣",
@@ -50,8 +59,8 @@
     },
     {
       "id": "d6c1715c06b06b",
-      "title": "    SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
+      "title": "  SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-20T13:25:16.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-08T20:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
-    },
-    {
-      "id": "eeb8f6b78f0190",
-      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-07T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
     }
   ]
 }
