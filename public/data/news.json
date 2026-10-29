@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T05:39:17.633Z",
+  "updatedAt": "2026-10-29T20:14:43.198Z",
   "status": "ok",
   "items": [
+    {
+      "id": "63ade08e1b4d90",
+      "title": "    Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-10-29T16:42:37.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
+    },
     {
       "id": "847a7abc272692",
       "title": "Federal Reserve issues FOMC statement",
@@ -104,8 +113,8 @@
     },
     {
       "id": "b74f7652e7222a",
-      "title": "    SEC Announces Fiscal Year 2027 Examination Priorities\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Fiscal Year 2027 Examination Priorities\n",
+      "title": "  SEC Announces Fiscal Year 2027 Examination Priorities\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Fiscal Year 2027 Examination Priorities\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-23T14:10:00.000Z",
       "category": "法規",
@@ -164,15 +173,6 @@
       "publishedAt": "2026-10-13T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
-    },
-    {
-      "id": "215622ff975df9",
-      "title": "  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-09T14:59:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds"
     },
     {
       "id": "15b4b4b5fa4c87",
