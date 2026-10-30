@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T20:14:43.198Z",
+  "updatedAt": "2026-10-30T05:38:39.808Z",
   "status": "ok",
   "items": [
+    {
+      "id": "d5f01f9dd738c0",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-10-29T20:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm"
+    },
     {
       "id": "63ade08e1b4d90",
       "title": "    Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence\n",
@@ -11,6 +20,51 @@
       "publishedAt": "2026-10-29T16:42:37.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
+    },
+    {
+      "id": "a092c134a47ad2",
+      "title": "資本市場服務團攜手KPMG 推動優質企業邁向資本市場座談會圓滿落",
+      "titleZh": "資本市場服務團攜手KPMG 推動優質企業邁向資本市場座談會圓滿落",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1873f0d0502b9"
+    },
+    {
+      "id": "2fa0045caa0744",
+      "title": "特力屋股份有限公司股票自115年10月30日開始上市買賣",
+      "titleZh": "特力屋股份有限公司股票自115年10月30日開始上市買賣",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18728628802b5"
+    },
+    {
+      "id": "7ddeb2ecdd2603",
+      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創) 通信網路、其他電子、綠能環保及生技醫療產業之洞察報告",
+      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創) 通信網路、其他電子、綠能環保及生技醫療產業之洞察報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a187213e5602b1"
+    },
+    {
+      "id": "1e94020b1e9631",
+      "title": "承銷有價證券競價拍賣系統上線屆滿十年，系統優化功能將於自115年11月2日起上線實施",
+      "titleZh": "承銷有價證券競價拍賣系統上線屆滿十年，系統優化功能將於自115年11月2日起上線實施",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18703d28602ad"
+    },
+    {
+      "id": "b4a282b5f16aeb",
+      "title": "偉全實業股份有限公司等22家公司預計於115年11月份假證交所場地自行舉辦法人說明會",
+      "titleZh": "偉全實業股份有限公司等22家公司預計於115年11月份假證交所場地自行舉辦法人說明會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-29T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a186ee367e02a9"
     },
     {
       "id": "847a7abc272692",
@@ -65,51 +119,6 @@
       "publishedAt": "2026-10-27T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17cee408a022e"
-    },
-    {
-      "id": "7fcdaa1e9c9d40",
-      "title": "「TiBOOST創新大步計畫」鏈結396家全球AI新創　12強出爐　助攻臺灣從科技島邁向資本島",
-      "titleZh": "「TiBOOST創新大步計畫」鏈結396家全球AI新創　12強出爐　助攻臺灣從科技島邁向資本島",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17cd2bd9e022a"
-    },
-    {
-      "id": "24d73288d4431b",
-      "title": "富蘭克林華美投信募集發行之「富蘭克林華美核心AI電力算力ETF」及兆豐國際投信募集發行之「兆豐美國黃金礦業ETF」，自115年10月29日起掛牌上市，並得辦理融資融券",
-      "titleZh": "富蘭克林華美投信募集發行之「富蘭克林華美核心AI電力算力ETF」及兆豐國際投信募集發行之「兆豐美國黃金礦業ETF」，自115年10月29日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17cc412020226"
-    },
-    {
-      "id": "b80a6565e980e5",
-      "title": "證交所攜手SIT前進新加坡SWITCH 2026，深化國際新創鏈結，拓展臺灣創新板(tib-創)上市契機",
-      "titleZh": "證交所攜手SIT前進新加坡SWITCH 2026，深化國際新創鏈結，拓展臺灣創新板(tib-創)上市契機",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17cbe03480222"
-    },
-    {
-      "id": "29de40b46de417",
-      "title": "上週發行量加權股價指數跌幅約為2.27%，上市股票總市值達150.72兆元",
-      "titleZh": "上週發行量加權股價指數跌幅約為2.27%，上市股票總市值達150.72兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17c2da57e0219"
-    },
-    {
-      "id": "1d37cc680b1617",
-      "title": "臺灣證券交易所訂於10月28日召開有價證券上市審議委員會第901次會議，將審議仲恩生醫科技(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於10月28日召開有價證券上市審議委員會第901次會議，將審議仲恩生醫科技(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17c09d1f20211"
     },
     {
       "id": "b74f7652e7222a",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-13T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
-    },
-    {
-      "id": "15b4b4b5fa4c87",
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm"
     }
   ]
 }
