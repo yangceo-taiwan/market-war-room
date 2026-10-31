@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T19:54:42.986Z",
+  "updatedAt": "2026-10-31T05:29:21.068Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,42 @@
       "publishedAt": "2026-10-30T19:30:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
+    },
+    {
+      "id": "1a2f9722eb42a5",
+      "title": "台新投信募集發行之主動台新臺灣中小ETF，自115年11月3日起掛牌上市，並得辦理融資融券",
+      "titleZh": "台新投信募集發行之主動台新臺灣中小ETF，自115年11月3日起掛牌上市，並得辦理融資融券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c4176ee02e8"
+    },
+    {
+      "id": "81c13720133de2",
+      "title": "本週發行量加權股價指數跌幅約為1.80%，上市股票總市值達148.03兆元",
+      "titleZh": "本週發行量加權股價指數跌幅約為1.80%，上市股票總市值達148.03兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c3b219302e4"
+    },
+    {
+      "id": "281046f08a6087",
+      "title": "十年成長逾25倍 AAM論壇聚焦臺灣ETF市場成長 證交所深化商品創新與國際合作",
+      "titleZh": "十年成長逾25倍 AAM論壇聚焦臺灣ETF市場成長 證交所深化商品創新與國際合作",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c0b340602e0"
+    },
+    {
+      "id": "804840a8c39860",
+      "title": "證交所發布116年度（第二屆）ESG評鑑指標",
+      "titleZh": "證交所發布116年度（第二屆）ESG評鑑指標",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-10-30T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18b67ad4f02cd"
     },
     {
       "id": "d5f01f9dd738c0",
@@ -92,42 +128,6 @@
       "publishedAt": "2026-10-28T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a181e36011029d"
-    },
-    {
-      "id": "58f6f16c64aec7",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過仲恩生醫科技股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過仲恩生醫科技股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a181dd71c90299"
-    },
-    {
-      "id": "7a59c373e74a07",
-      "title": "「2026臺灣週：資安韌性與戰略」訂於11月4日舉行，聚焦金融資安韌性發展及新型態AI威脅",
-      "titleZh": "「2026臺灣週：資安韌性與戰略」訂於11月4日舉行，聚焦金融資安韌性發展及新型態AI威脅",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1815cf18a027d"
-    },
-    {
-      "id": "ed3f72b367f7b0",
-      "title": "證交所參與彭博日本週論壇，分享ETF發展",
-      "titleZh": "證交所參與彭博日本週論壇，分享ETF發展",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18060525d0243"
-    },
-    {
-      "id": "9fd686e4d3ebc4",
-      "title": "深化臺美資本市場交流　北美華人會計師協會來訪證交所　攜手拓展企業來臺上市契機",
-      "titleZh": "深化臺美資本市場交流　北美華人會計師協會來訪證交所　攜手拓展企業來臺上市契機",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-27T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a17cee408a022e"
     },
     {
       "id": "b74f7652e7222a",
