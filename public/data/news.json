@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T05:54:11.208Z",
+  "updatedAt": "2026-11-02T23:05:08.693Z",
   "status": "ok",
   "items": [
+    {
+      "id": "6591e5c943a52d",
+      "title": "上市公司115年第3季財務報告公告申報期限及注意事項",
+      "titleZh": "上市公司115年第3季財務報告公告申報期限及注意事項",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a19ba971f80329"
+    },
+    {
+      "id": "f2ddc89df18c89",
+      "title": "從資金匯聚到產業發展  臺灣週高雄亞資中心論壇聚焦政策成果與國際布局",
+      "titleZh": "從資金匯聚到產業發展  臺灣週高雄亞資中心論壇聚焦政策成果與國際布局",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a19a41e87f02f4"
+    },
+    {
+      "id": "2a3f6d278b0fa7",
+      "title": "上週外資在集中市場賣超1,733.65億元，賣超聯電10.95萬張最多，另買超華邦電5.90萬張最多",
+      "titleZh": "上週外資在集中市場賣超1,733.65億元，賣超聯電10.95萬張最多，另買超華邦電5.90萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-02T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a19a472f2602f8"
+    },
     {
       "id": "64d7e687de2f74",
       "title": "    SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
@@ -94,24 +121,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a187213e5602b1"
     },
     {
-      "id": "1e94020b1e9631",
-      "title": "承銷有價證券競價拍賣系統上線屆滿十年，系統優化功能將於自115年11月2日起上線實施",
-      "titleZh": "承銷有價證券競價拍賣系統上線屆滿十年，系統優化功能將於自115年11月2日起上線實施",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18703d28602ad"
-    },
-    {
-      "id": "b4a282b5f16aeb",
-      "title": "偉全實業股份有限公司等22家公司預計於115年11月份假證交所場地自行舉辦法人說明會",
-      "titleZh": "偉全實業股份有限公司等22家公司預計於115年11月份假證交所場地自行舉辦法人說明會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a186ee367e02a9"
-    },
-    {
       "id": "847a7abc272692",
       "title": "Federal Reserve issues FOMC statement",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve issues FOMC statement",
@@ -119,15 +128,6 @@
       "publishedAt": "2026-10-28T18:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
-    },
-    {
-      "id": "f9a815803c54c3",
-      "title": "證交所舉辦「證券商後量子密碼學(PQC)遷移作業研討會」",
-      "titleZh": "證交所舉辦「證券商後量子密碼學(PQC)遷移作業研討會」",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-28T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a181e36011029d"
     },
     {
       "id": "b74f7652e7222a",
