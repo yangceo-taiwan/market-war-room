@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T06:06:15.152Z",
+  "updatedAt": "2026-11-04T21:16:11.317Z",
   "status": "ok",
   "items": [
+    {
+      "id": "fbf83c3d91598e",
+      "title": "    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-04T16:28:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
+    },
     {
       "id": "e41f643adb08dc",
       "title": "紐約證券交易所(NYSE)來訪證交所 深化臺美資本市場合作契機",
@@ -68,8 +77,8 @@
     },
     {
       "id": "64d7e687de2f74",
-      "title": "    SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
+      "title": "  SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-10-30T19:30:00.000Z",
       "category": "法規",
@@ -155,15 +164,6 @@
       "publishedAt": "2026-10-20T12:51:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue"
-    },
-    {
-      "id": "52af5a23bbe6a8",
-      "title": "  SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-19T17:19:43.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence"
     },
     {
       "id": "70363c9b200b07",
