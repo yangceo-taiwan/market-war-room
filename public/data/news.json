@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T20:56:48.098Z",
+  "updatedAt": "2026-11-04T06:06:15.152Z",
   "status": "ok",
   "items": [
+    {
+      "id": "e41f643adb08dc",
+      "title": "紐約證券交易所(NYSE)來訪證交所 深化臺美資本市場合作契機",
+      "titleZh": "紐約證券交易所(NYSE)來訪證交所 深化臺美資本市場合作契機",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a0cf0c7b0344"
+    },
+    {
+      "id": "7078bacf64d397",
+      "title": "「2026臺灣週」盛大開幕　賴總統：「推動金融市場國際化、提升資本市場創新活力、建立長期信賴的投資市場」",
+      "titleZh": "「2026臺灣週」盛大開幕　賴總統：「推動金融市場國際化、提升資本市場創新活力、建立長期信賴的投資市場」",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a0c80caf0340"
+    },
+    {
+      "id": "8d2148fa52a129",
+      "title": "TiBOOST創新大步計畫11月10日登場 串聯全球AI創新與臺灣資本市場",
+      "titleZh": "TiBOOST創新大步計畫11月10日登場 串聯全球AI創新與臺灣資本市場",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a0b20f71033c"
+    },
+    {
+      "id": "96b87b8db890d1",
+      "title": "神達數位股份有限公司上市股票自本（115）年11月4日起得為融資融券交易",
+      "titleZh": "神達數位股份有限公司上市股票自本（115）年11月4日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-03T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a053733c0335"
+    },
     {
       "id": "6591e5c943a52d",
       "title": "上市公司115年第3季財務報告公告申報期限及注意事項",
@@ -67,15 +103,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c0b340602e0"
     },
     {
-      "id": "804840a8c39860",
-      "title": "證交所發布116年度（第二屆）ESG評鑑指標",
-      "titleZh": "證交所發布116年度（第二屆）ESG評鑑指標",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18b67ad4f02cd"
-    },
-    {
       "id": "d5f01f9dd738c0",
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -92,33 +119,6 @@
       "publishedAt": "2026-10-29T16:42:37.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
-    },
-    {
-      "id": "a092c134a47ad2",
-      "title": "資本市場服務團攜手KPMG 推動優質企業邁向資本市場座談會圓滿落",
-      "titleZh": "資本市場服務團攜手KPMG 推動優質企業邁向資本市場座談會圓滿落",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a1873f0d0502b9"
-    },
-    {
-      "id": "2fa0045caa0744",
-      "title": "特力屋股份有限公司股票自115年10月30日開始上市買賣",
-      "titleZh": "特力屋股份有限公司股票自115年10月30日開始上市買賣",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18728628802b5"
-    },
-    {
-      "id": "7ddeb2ecdd2603",
-      "title": "證交所攜手台經院與資策會推出臺灣創新板(tib-創) 通信網路、其他電子、綠能環保及生技醫療產業之洞察報告",
-      "titleZh": "證交所攜手台經院與資策會推出臺灣創新板(tib-創) 通信網路、其他電子、綠能環保及生技醫療產業之洞察報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-29T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a187213e5602b1"
     },
     {
       "id": "847a7abc272692",
