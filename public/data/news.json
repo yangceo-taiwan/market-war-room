@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T21:16:11.317Z",
+  "updatedAt": "2026-11-05T06:35:52.674Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,42 @@
       "publishedAt": "2026-11-04T16:28:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
+    },
+    {
+      "id": "495fda8fa68501",
+      "title": "臺灣證券交易所針對Grand Ocean Retail Group Limited（大洋-KY，證券代號：5907）違反重大訊息規定，處以新臺幣3萬元違約金",
+      "titleZh": "臺灣證券交易所針對Grand Ocean Retail Group Limited（大洋-KY，證券代號：5907）違反重大訊息規定，處以新臺幣3萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a621d7b90366"
+    },
+    {
+      "id": "457da9daa46966",
+      "title": "「2026臺灣週：資安韌性與戰略」圓滿落幕，逾200位金融高階主管聚焦探討資安韌性與AI威脅",
+      "titleZh": "「2026臺灣週：資安韌性與戰略」圓滿落幕，逾200位金融高階主管聚焦探討資安韌性與AI威脅",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a600d9a10362"
+    },
+    {
+      "id": "b84b6b2e79b9c7",
+      "title": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，證券代號：1589）違反重大訊息規定，處以新台幣3萬元違約金",
+      "titleZh": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，證券代號：1589）違反重大訊息規定，處以新台幣3萬元違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a5ffcc42035e"
+    },
+    {
+      "id": "f390178b37da0c",
+      "title": "臺灣證券交易所與彭博簽署合作備忘錄 攜手深化國際資本市場連結",
+      "titleZh": "臺灣證券交易所與彭博簽署合作備忘錄 攜手深化國際資本市場連結",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-04T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a590cc5d035a"
     },
     {
       "id": "e41f643adb08dc",
@@ -67,15 +103,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a19a41e87f02f4"
     },
     {
-      "id": "2a3f6d278b0fa7",
-      "title": "上週外資在集中市場賣超1,733.65億元，賣超聯電10.95萬張最多，另買超華邦電5.90萬張最多",
-      "titleZh": "上週外資在集中市場賣超1,733.65億元，賣超聯電10.95萬張最多，另買超華邦電5.90萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a19a472f2602f8"
-    },
-    {
       "id": "64d7e687de2f74",
       "title": "  SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
@@ -83,33 +110,6 @@
       "publishedAt": "2026-10-30T19:30:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
-    },
-    {
-      "id": "1a2f9722eb42a5",
-      "title": "台新投信募集發行之主動台新臺灣中小ETF，自115年11月3日起掛牌上市，並得辦理融資融券",
-      "titleZh": "台新投信募集發行之主動台新臺灣中小ETF，自115年11月3日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c4176ee02e8"
-    },
-    {
-      "id": "81c13720133de2",
-      "title": "本週發行量加權股價指數跌幅約為1.80%，上市股票總市值達148.03兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為1.80%，上市股票總市值達148.03兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c3b219302e4"
-    },
-    {
-      "id": "281046f08a6087",
-      "title": "十年成長逾25倍 AAM論壇聚焦臺灣ETF市場成長 證交所深化商品創新與國際合作",
-      "titleZh": "十年成長逾25倍 AAM論壇聚焦臺灣ETF市場成長 證交所深化商品創新與國際合作",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-10-30T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a18c0b340602e0"
     },
     {
       "id": "d5f01f9dd738c0",
