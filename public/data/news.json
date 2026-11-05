@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T06:35:52.674Z",
+  "updatedAt": "2026-11-05T21:27:09.599Z",
   "status": "ok",
   "items": [
+    {
+      "id": "0224349908e0b1",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
+    },
     {
       "id": "fbf83c3d91598e",
       "title": "    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-16T15:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
-    },
-    {
-      "id": "d85e5d3609348b",
-      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-13T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
     }
   ]
 }
