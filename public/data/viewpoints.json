@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T06:30:34.585Z",
+  "updatedAt": "2026-11-06T20:50:53.938Z",
   "marketFacts": [
-    "市場溫度 52/100，規則判定為中性偏穩。",
-    "主要指數日線結構：偏空；小時線因免費穩定來源不足，暫列 mixed。",
-    "VIX：16.61；Total Put/Call：0.8。",
+    "市場溫度 47/100，規則判定為偏保守。",
+    "主要指數日線結構：震盪；小時線因免費穩定來源不足，暫列 mixed。",
+    "VIX：28.18；Total Put/Call：1.06。",
     "美債 10Y–2Y 利差：0.32 個百分點。",
     "主要資料來源本次更新正常。"
   ],
   "knifeGod": null,
   "bulls": [],
   "bears": [],
-  "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
+  "conclusion": "訊號轉弱，優先控制曝險與事件風險。",
   "scenarios": {
     "oneWeek": "以區間與事件風險為主，等待主要指數與市場寬度同向。",
     "oneMonth": "觀察主要指數能否維持趨勢、企業消息是否支撐，以及殖利率是否造成估值壓力。",
@@ -28,15 +28,15 @@
     {
       "id": "vix",
       "name": "波動率",
-      "lamp": "green",
-      "value": "16.61",
+      "lamp": "orange",
+      "value": "28.18",
       "reason": "VIX 高於 25 轉橘"
     },
     {
       "id": "putcall",
       "name": "Put/Call",
       "lamp": "yellow",
-      "value": "0.80",
+      "value": "1.06",
       "reason": "情緒是否進入極端"
     },
     {
@@ -50,7 +50,7 @@
       "id": "trend",
       "name": "趨勢一致",
       "lamp": "yellow",
-      "value": "bear",
+      "value": "mixed",
       "reason": "日線與小時線是否同向"
     }
   ],

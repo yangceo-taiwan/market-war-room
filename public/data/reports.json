@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T06:30:34.585Z",
+  "updatedAt": "2026-11-06T20:50:53.938Z",
   "reports": [
+    {
+      "date": "2026-11-06",
+      "session": "morning",
+      "generatedAt": "2026-11-06T20:50:53.938Z",
+      "temperature": {
+        "score": 47,
+        "label": "偏保守",
+        "lamp": "orange"
+      },
+      "dailyTrend": "mixed",
+      "conclusion": "訊號轉弱，優先控制曝險與事件風險。",
+      "verification": null
+    },
     {
       "date": "2026-11-06",
       "session": "noon",
