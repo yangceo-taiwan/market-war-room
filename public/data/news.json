@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T21:27:09.599Z",
+  "updatedAt": "2026-11-06T06:30:34.585Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,42 @@
       "publishedAt": "2026-11-05T16:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
+    },
+    {
+      "id": "fcbd140fd223fb",
+      "title": "元大科技市值ETF(0053)將進行分割作業，115年12月8日為新受益憑證上市買賣日",
+      "titleZh": "元大科技市值ETF(0053)將進行分割作業，115年12月8日為新受益憑證上市買賣日",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ab25716b038c"
+    },
+    {
+      "id": "0895d49d6639f3",
+      "title": "臺灣證券交易所訂於11月9日召開有價證券上市審議委員會第902次會議，將審議訊聯細胞智藥(股)公司之申請股票創新板上市案",
+      "titleZh": "臺灣證券交易所訂於11月9日召開有價證券上市審議委員會第902次會議，將審議訊聯細胞智藥(股)公司之申請股票創新板上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ab069d4a0388"
+    },
+    {
+      "id": "23d9509ce86c27",
+      "title": "騏億鑫(證券代號：7848)採競價拍賣方式辦理承銷，於11月5日順利完成",
+      "titleZh": "騏億鑫(證券代號：7848)採競價拍賣方式辦理承銷，於11月5日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1aaaa169b037a"
+    },
+    {
+      "id": "ab5cb90e3a99b4",
+      "title": "臺股展現穩健韌性 經濟及企業基本面強化市場信心",
+      "titleZh": "臺股展現穩健韌性 經濟及企業基本面強化市場信心",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-05T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1aaa5de3d0373"
     },
     {
       "id": "fbf83c3d91598e",
@@ -74,42 +110,6 @@
       "publishedAt": "2026-11-03T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a0c80caf0340"
-    },
-    {
-      "id": "8d2148fa52a129",
-      "title": "TiBOOST創新大步計畫11月10日登場 串聯全球AI創新與臺灣資本市場",
-      "titleZh": "TiBOOST創新大步計畫11月10日登場 串聯全球AI創新與臺灣資本市場",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-03T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a0b20f71033c"
-    },
-    {
-      "id": "96b87b8db890d1",
-      "title": "神達數位股份有限公司上市股票自本（115）年11月4日起得為融資融券交易",
-      "titleZh": "神達數位股份有限公司上市股票自本（115）年11月4日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-03T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a053733c0335"
-    },
-    {
-      "id": "6591e5c943a52d",
-      "title": "上市公司115年第3季財務報告公告申報期限及注意事項",
-      "titleZh": "上市公司115年第3季財務報告公告申報期限及注意事項",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a19ba971f80329"
-    },
-    {
-      "id": "f2ddc89df18c89",
-      "title": "從資金匯聚到產業發展  臺灣週高雄亞資中心論壇聚焦政策成果與國際布局",
-      "titleZh": "從資金匯聚到產業發展  臺灣週高雄亞資中心論壇聚焦政策成果與國際布局",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-02T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a0fa351b01a19a41e87f02f4"
     },
     {
       "id": "64d7e687de2f74",
