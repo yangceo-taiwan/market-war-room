@@ -1,34 +1,106 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T06:12:39.318Z",
+  "updatedAt": "2026-11-09T23:45:24.915Z",
   "status": "ok",
   "items": [
     {
-      "id": "f14878a950f7d8",
-      "title": "本週發行量加權股價指數跌幅約為12.19%，上市股票總市值達130.08兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為12.19%，上市股票總市值達130.08兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1b04caa9103c6"
+      "id": "6e4cb5ab08bc01",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-09T21:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
     },
     {
-      "id": "84ef95f5a69406",
+      "id": "1c59da717c03c3",
+      "title": "宏偉(代號：4565)初上櫃採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
+      "titleZh": "宏偉(代號：4565)初上櫃採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfdbf2360406"
+    },
+    {
+      "id": "7fd86d844c1dc1",
+      "title": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月10日起暫停交易",
+      "titleZh": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月10日起暫停交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfce36a40402"
+    },
+    {
+      "id": "d1567a687776bb",
+      "title": "耐特(代號：8058)初上市採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
+      "titleZh": "耐特(代號：8058)初上市採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfbfd1fc03fe"
+    },
+    {
+      "id": "fa68829a8af423",
+      "title": "亞洲資產管理中心推動辦公室參展「2026高雄國際金融博覽會」",
+      "titleZh": "亞洲資產管理中心推動辦公室參展「2026高雄國際金融博覽會」",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfb4b8f403fa"
+    },
+    {
+      "id": "1c2be92cdb031c",
+      "title": "2026年10月集中市場相關數據",
+      "titleZh": "2026年10月集中市場相關數據",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfabb41f03f6"
+    },
+    {
+      "id": "1f6bf730282aa6",
+      "title": "玉山投信募集發行之「主動玉山關鍵科技ETF」及復華投信募集發行之「主動復華台灣新星ETF」，自115年11月11日起掛牌上市，並得辦理融資融券",
+      "titleZh": "玉山投信募集發行之「主動玉山關鍵科技ETF」及復華投信募集發行之「主動復華台灣新星ETF」，自115年11月11日起掛牌上市，並得辦理融資融券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfa009d003f2"
+    },
+    {
+      "id": "aa689a53377c7f",
+      "title": "證交所舉辦「迎向 IFRS 18：企業財務治理與績效衡量新視角」論壇， 助力上市公司掌握財報準則變革",
+      "titleZh": "證交所舉辦「迎向 IFRS 18：企業財務治理與績效衡量新視角」論壇， 助力上市公司掌握財報準則變革",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf96c7fd03ee"
+    },
+    {
+      "id": "03bf92011c82d8",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過訊聯細胞智藥股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過訊聯細胞智藥股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf7dc55d03ea"
+    },
+    {
+      "id": "b715bc521dbacf",
+      "title": "臺灣璞玉指數領航多元產業價值 9家跨領域企業共展深厚實力",
+      "titleZh": "臺灣璞玉指數領航多元產業價值 9家跨領域企業共展深厚實力",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf6d08f503e6"
+    },
+    {
+      "id": "98ce07cbf5a941",
       "title": "新加坡AngelCentral來訪證交所　深化東南亞創新投資交流　拓展企業來臺上市契機",
       "titleZh": "新加坡AngelCentral來訪證交所　深化東南亞創新投資交流　拓展企業來臺上市契機",
       "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-06T05:30:00.000Z",
+      "publishedAt": "2026-11-09T05:30:00.000Z",
       "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1b044a32f03c2"
-    },
-    {
-      "id": "115b4fef54d4c5",
-      "title": "金融資源成為產業成長動能　亞洲資產管理論壇聚焦創新與國際鏈結",
-      "titleZh": "金融資源成為產業成長動能　亞洲資產管理論壇聚焦創新與國際鏈結",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1affd7b9003be"
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf5b798003e2"
     },
     {
       "id": "0224349908e0b1",
@@ -40,42 +112,6 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
     },
     {
-      "id": "fcbd140fd223fb",
-      "title": "元大科技市值ETF(0053)將進行分割作業，115年12月8日為新受益憑證上市買賣日",
-      "titleZh": "元大科技市值ETF(0053)將進行分割作業，115年12月8日為新受益憑證上市買賣日",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ab25716b038c"
-    },
-    {
-      "id": "0895d49d6639f3",
-      "title": "臺灣證券交易所訂於11月9日召開有價證券上市審議委員會第902次會議，將審議訊聯細胞智藥(股)公司之申請股票創新板上市案",
-      "titleZh": "臺灣證券交易所訂於11月9日召開有價證券上市審議委員會第902次會議，將審議訊聯細胞智藥(股)公司之申請股票創新板上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ab069d4a0388"
-    },
-    {
-      "id": "23d9509ce86c27",
-      "title": "騏億鑫(證券代號：7848)採競價拍賣方式辦理承銷，於11月5日順利完成",
-      "titleZh": "騏億鑫(證券代號：7848)採競價拍賣方式辦理承銷，於11月5日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1aaaa169b037a"
-    },
-    {
-      "id": "ab5cb90e3a99b4",
-      "title": "臺股展現穩健韌性 經濟及企業基本面強化市場信心",
-      "titleZh": "臺股展現穩健韌性 經濟及企業基本面強化市場信心",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-05T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1aaa5de3d0373"
-    },
-    {
       "id": "fbf83c3d91598e",
       "title": "    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
       "titleZh": "【法規｜英文原題待人工校訂】    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
@@ -83,33 +119,6 @@
       "publishedAt": "2026-11-04T16:28:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
-    },
-    {
-      "id": "495fda8fa68501",
-      "title": "臺灣證券交易所針對Grand Ocean Retail Group Limited（大洋-KY，證券代號：5907）違反重大訊息規定，處以新臺幣3萬元違約金",
-      "titleZh": "臺灣證券交易所針對Grand Ocean Retail Group Limited（大洋-KY，證券代號：5907）違反重大訊息規定，處以新臺幣3萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a621d7b90366"
-    },
-    {
-      "id": "457da9daa46966",
-      "title": "「2026臺灣週：資安韌性與戰略」圓滿落幕，逾200位金融高階主管聚焦探討資安韌性與AI威脅",
-      "titleZh": "「2026臺灣週：資安韌性與戰略」圓滿落幕，逾200位金融高階主管聚焦探討資安韌性與AI威脅",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a600d9a10362"
-    },
-    {
-      "id": "b84b6b2e79b9c7",
-      "title": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，證券代號：1589）違反重大訊息規定，處以新台幣3萬元違約金",
-      "titleZh": "臺灣證券交易所對永冠能源科技集團有限公司（永冠-KY，證券代號：1589）違反重大訊息規定，處以新台幣3萬元違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-04T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1a5ffcc42035e"
     },
     {
       "id": "64d7e687de2f74",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-20T12:51:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue"
-    },
-    {
-      "id": "70363c9b200b07",
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-16T15:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
     }
   ]
 }
