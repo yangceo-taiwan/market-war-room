@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T07:08:50.442Z",
+  "updatedAt": "2026-11-10T21:16:10.332Z",
   "status": "ok",
   "items": [
+    {
+      "id": "0587802de2991f",
+      "title": "    SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-10T16:15:35.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+    },
     {
       "id": "6e4cb5ab08bc01",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
@@ -113,8 +122,8 @@
     },
     {
       "id": "fbf83c3d91598e",
-      "title": "    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
+      "title": "  SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-11-04T16:28:00.000Z",
       "category": "法規",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-20T13:25:16.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service"
-    },
-    {
-      "id": "f5907297fdebef",
-      "title": "  SEC, FSA Hold Autumn Financial Regulatory Dialogue\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC, FSA Hold Autumn Financial Regulatory Dialogue\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-20T12:51:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue"
     }
   ]
 }
