@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T21:16:10.332Z",
+  "updatedAt": "2026-11-11T06:01:56.850Z",
   "status": "ok",
   "items": [
     {
@@ -11,6 +11,42 @@
       "publishedAt": "2026-11-10T16:15:35.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+    },
+    {
+      "id": "47d6cd8e44354d",
+      "title": "台揚科技股份有限公司（台揚，公司代號：2314）有價證券將於115年12月21日終止上市",
+      "titleZh": "台揚科技股份有限公司（台揚，公司代號：2314）有價證券將於115年12月21日終止上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c51620830435"
+    },
+    {
+      "id": "a6b733db101d17",
+      "title": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月11日起恢復交易",
+      "titleZh": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月11日起恢復交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c4df1b000431"
+    },
+    {
+      "id": "e08e569dd60f54",
+      "title": "116年度ESG評鑑宣導會自本（115）年11月23日起跑",
+      "titleZh": "116年度ESG評鑑宣導會自本（115）年11月23日起跑",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c4a8d0280429"
+    },
+    {
+      "id": "4617cc5648eef2",
+      "title": "臺灣證券交易所訂於11月12日召開有價證券上市審議委員會第903次會議，將審議鈺祥企業(股)公司之申請股票上市案",
+      "titleZh": "臺灣證券交易所訂於11月12日召開有價證券上市審議委員會第903次會議，將審議鈺祥企業(股)公司之申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-10T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c499dfae0425"
     },
     {
       "id": "6e4cb5ab08bc01",
@@ -74,42 +110,6 @@
       "publishedAt": "2026-11-09T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfa009d003f2"
-    },
-    {
-      "id": "aa689a53377c7f",
-      "title": "證交所舉辦「迎向 IFRS 18：企業財務治理與績效衡量新視角」論壇， 助力上市公司掌握財報準則變革",
-      "titleZh": "證交所舉辦「迎向 IFRS 18：企業財務治理與績效衡量新視角」論壇， 助力上市公司掌握財報準則變革",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf96c7fd03ee"
-    },
-    {
-      "id": "03bf92011c82d8",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過訊聯細胞智藥股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過訊聯細胞智藥股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf7dc55d03ea"
-    },
-    {
-      "id": "b715bc521dbacf",
-      "title": "臺灣璞玉指數領航多元產業價值 9家跨領域企業共展深厚實力",
-      "titleZh": "臺灣璞玉指數領航多元產業價值 9家跨領域企業共展深厚實力",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf6d08f503e6"
-    },
-    {
-      "id": "98ce07cbf5a941",
-      "title": "新加坡AngelCentral來訪證交所　深化東南亞創新投資交流　拓展企業來臺上市契機",
-      "titleZh": "新加坡AngelCentral來訪證交所　深化東南亞創新投資交流　拓展企業來臺上市契機",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bf5b798003e2"
     },
     {
       "id": "0224349908e0b1",
