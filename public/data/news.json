@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T06:01:56.850Z",
+  "updatedAt": "2026-11-11T21:53:11.065Z",
   "status": "ok",
   "items": [
+    {
+      "id": "6c1cb75c9a0b53",
+      "title": "享溫馨企業股份有限公司上市股票自本（115）年11月12日起得為融資融券交易",
+      "titleZh": "享溫馨企業股份有限公司上市股票自本（115）年11月12日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c9cdf141045d"
+    },
+    {
+      "id": "e529cefa05eb31",
+      "title": "全體上市公司(不含金融保險業)115年10月份當月營收較114年同期成長52.40％，累計營業收入較114年同期成長39.87％",
+      "titleZh": "全體上市公司(不含金融保險業)115年10月份當月營收較114年同期成長52.40％，累計營業收入較114年同期成長39.87％",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c973e34c043f"
+    },
+    {
+      "id": "32849f9ab3c483",
+      "title": "TiBOOST創新大步計畫圓滿落幕，前三名團隊出爐 串聯全球AI創新與臺灣資本市場，500萬元獎金支持創新企業成長",
+      "titleZh": "TiBOOST創新大步計畫圓滿落幕，前三名團隊出爐 串聯全球AI創新與臺灣資本市場，500萬元獎金支持創新企業成長",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-11T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c8b5eade043d"
+    },
     {
       "id": "0587802de2991f",
       "title": "    SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
@@ -83,33 +110,6 @@
       "publishedAt": "2026-11-09T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfbfd1fc03fe"
-    },
-    {
-      "id": "fa68829a8af423",
-      "title": "亞洲資產管理中心推動辦公室參展「2026高雄國際金融博覽會」",
-      "titleZh": "亞洲資產管理中心推動辦公室參展「2026高雄國際金融博覽會」",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfb4b8f403fa"
-    },
-    {
-      "id": "1c2be92cdb031c",
-      "title": "2026年10月集中市場相關數據",
-      "titleZh": "2026年10月集中市場相關數據",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfabb41f03f6"
-    },
-    {
-      "id": "1f6bf730282aa6",
-      "title": "玉山投信募集發行之「主動玉山關鍵科技ETF」及復華投信募集發行之「主動復華台灣新星ETF」，自115年11月11日起掛牌上市，並得辦理融資融券",
-      "titleZh": "玉山投信募集發行之「主動玉山關鍵科技ETF」及復華投信募集發行之「主動復華台灣新星ETF」，自115年11月11日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfa009d003f2"
     },
     {
       "id": "0224349908e0b1",
