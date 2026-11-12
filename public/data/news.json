@@ -1,8 +1,80 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T07:02:16.115Z",
+  "updatedAt": "2026-11-12T21:49:37.162Z",
   "status": "ok",
   "items": [
+    {
+      "id": "82ba770a292c75",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-12T18:30:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+    },
+    {
+      "id": "b8182560b02548",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-12T17:45:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+    },
+    {
+      "id": "6baae670e70b34",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
+    },
+    {
+      "id": "368a0044d1e597",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過鈺祥企業股份有限公司初次申請股票上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過鈺祥企業股份有限公司初次申請股票上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cf40c5460482"
+    },
+    {
+      "id": "e6883f6905febd",
+      "title": "亞洲公司治理協會於台灣年會發布「CG Watch 2026」亞洲公司治理評鑑結果，臺灣蟬聯第三",
+      "titleZh": "亞洲公司治理協會於台灣年會發布「CG Watch 2026」亞洲公司治理評鑑結果，臺灣蟬聯第三",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cf197dab047d"
+    },
+    {
+      "id": "84d9381c9478b5",
+      "title": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號: 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+      "titleZh": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號: 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cf06cffe0479"
+    },
+    {
+      "id": "0a5c3a8f760e6a",
+      "title": "證交所攜手標普全球能源發布永續洞察報告",
+      "titleZh": "證交所攜手標普全球能源發布永續洞察報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cea0baf6046c"
+    },
+    {
+      "id": "a9fdcd11fd0ead",
+      "title": "2026年第4季MSCI指數臺股權重調整結果",
+      "titleZh": "2026年第4季MSCI指數臺股權重調整結果",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ce6f664c0468"
+    },
     {
       "id": "6c1cb75c9a0b53",
       "title": "享溫馨企業股份有限公司上市股票自本（115）年11月12日起得為融資融券交易",
@@ -58,24 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c4df1b000431"
     },
     {
-      "id": "e08e569dd60f54",
-      "title": "116年度ESG評鑑宣導會自本（115）年11月23日起跑",
-      "titleZh": "116年度ESG評鑑宣導會自本（115）年11月23日起跑",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c4a8d0280429"
-    },
-    {
-      "id": "4617cc5648eef2",
-      "title": "臺灣證券交易所訂於11月12日召開有價證券上市審議委員會第903次會議，將審議鈺祥企業(股)公司之申請股票上市案",
-      "titleZh": "臺灣證券交易所訂於11月12日召開有價證券上市審議委員會第903次會議，將審議鈺祥企業(股)公司之申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c499dfae0425"
-    },
-    {
       "id": "6e4cb5ab08bc01",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
@@ -83,33 +137,6 @@
       "publishedAt": "2026-11-09T21:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
-    },
-    {
-      "id": "1c59da717c03c3",
-      "title": "宏偉(代號：4565)初上櫃採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
-      "titleZh": "宏偉(代號：4565)初上櫃採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfdbf2360406"
-    },
-    {
-      "id": "7fd86d844c1dc1",
-      "title": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月10日起暫停交易",
-      "titleZh": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月10日起暫停交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfce36a40402"
-    },
-    {
-      "id": "d1567a687776bb",
-      "title": "耐特(代號：8058)初上市採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
-      "titleZh": "耐特(代號：8058)初上市採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所11月10日將不辦理開標及後續公開申購相關作業",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-09T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1bfbfd1fc03fe"
     },
     {
       "id": "0224349908e0b1",
@@ -155,33 +182,6 @@
       "publishedAt": "2026-10-29T16:42:37.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
-    },
-    {
-      "id": "847a7abc272692",
-      "title": "Federal Reserve issues FOMC statement",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve issues FOMC statement",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-28T18:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
-    },
-    {
-      "id": "b74f7652e7222a",
-      "title": "  SEC Announces Fiscal Year 2027 Examination Priorities\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Fiscal Year 2027 Examination Priorities\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-23T14:10:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
-    },
-    {
-      "id": "d6c1715c06b06b",
-      "title": "  SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-20T13:25:16.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service"
     }
   ]
 }
