@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T06:31:50.868Z",
+  "updatedAt": "2026-11-13T21:24:10.374Z",
   "status": "ok",
   "items": [
+    {
+      "id": "4532bcae0da246",
+      "title": "Agencies extend comment period for proposed third-party risk management guidance ",
+      "titleZh": "【央行｜英文原題待人工校訂】Agencies extend comment period for proposed third-party risk management guidance ",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-13T21:15:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm"
+    },
+    {
+      "id": "864d97a81cf5e7",
+      "title": "    SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-13T16:57:00.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
+    },
     {
       "id": "82ba770a292c75",
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
@@ -104,8 +122,8 @@
     },
     {
       "id": "0587802de2991f",
-      "title": "    SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
+      "title": "  SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-11-10T16:15:35.000Z",
       "category": "法規",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-10-30T19:30:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
-    },
-    {
-      "id": "d5f01f9dd738c0",
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-10-29T20:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm"
-    },
-    {
-      "id": "63ade08e1b4d90",
-      "title": "  Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-29T16:42:37.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
     }
   ]
 }
