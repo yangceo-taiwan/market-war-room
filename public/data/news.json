@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T21:24:10.374Z",
+  "updatedAt": "2026-11-14T06:10:13.673Z",
   "status": "ok",
   "items": [
     {
@@ -20,6 +20,24 @@
       "publishedAt": "2026-11-13T16:57:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
+    },
+    {
+      "id": "91de5e76109a58",
+      "title": "臺灣證券交易所訂於11月17日召開有價證券上市審議委員會第904次會議，將審議展逸國際企業(股)公司之申請股票創新板上市案",
+      "titleZh": "臺灣證券交易所訂於11月17日召開有價證券上市審議委員會第904次會議，將審議展逸國際企業(股)公司之申請股票創新板上市案",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1d4504b2304a5"
+    },
+    {
+      "id": "27b1d3092a626f",
+      "title": "本週發行量加權股價指數漲幅約為10.01%，上市股票總市值達143.07兆元",
+      "titleZh": "本週發行量加權股價指數漲幅約為10.01%，上市股票總市值達143.07兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-13T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1d44c484804a1"
     },
     {
       "id": "82ba770a292c75",
@@ -128,24 +146,6 @@
       "publishedAt": "2026-11-10T16:15:35.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
-    },
-    {
-      "id": "47d6cd8e44354d",
-      "title": "台揚科技股份有限公司（台揚，公司代號：2314）有價證券將於115年12月21日終止上市",
-      "titleZh": "台揚科技股份有限公司（台揚，公司代號：2314）有價證券將於115年12月21日終止上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c51620830435"
-    },
-    {
-      "id": "a6b733db101d17",
-      "title": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月11日起恢復交易",
-      "titleZh": "台揚科技股份有限公司(台揚，公司代號：2314)上市普通股自115年11月11日起恢復交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-10T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c4df1b000431"
     },
     {
       "id": "6e4cb5ab08bc01",
