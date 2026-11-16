@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T06:16:55.305Z",
+  "updatedAt": "2026-11-16T23:43:20.115Z",
   "status": "ok",
   "items": [
+    {
+      "id": "4c59bca60fbdf0",
+      "title": "本國及第一上市公司(不含金融控股公司)除永冠-KY外，均已申報115年第3季財務報告",
+      "titleZh": "本國及第一上市公司(不含金融控股公司)除永冠-KY外，均已申報115年第3季財務報告",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-16T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e40ae2a704c3"
+    },
+    {
+      "id": "06e20568b46bec",
+      "title": "國際AI投資前景正向 臺灣產業成長動能延續",
+      "titleZh": "國際AI投資前景正向 臺灣產業成長動能延續",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-16T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e382ac1f04b3"
+    },
+    {
+      "id": "89d049b1a8b6b8",
+      "title": "上週外資在集中市場賣超967.87億元，賣超中鋼6.17萬張最多，另買超台玻24.72萬張最多",
+      "titleZh": "上週外資在集中市場賣超967.87億元，賣超中鋼6.17萬張最多，另買超台玻24.72萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-16T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e2f6645404ab"
+    },
     {
       "id": "4532bcae0da246",
       "title": "Agencies extend comment period for proposed third-party risk management guidance ",
@@ -110,33 +137,6 @@
       "publishedAt": "2026-11-12T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ce6f664c0468"
-    },
-    {
-      "id": "6c1cb75c9a0b53",
-      "title": "享溫馨企業股份有限公司上市股票自本（115）年11月12日起得為融資融券交易",
-      "titleZh": "享溫馨企業股份有限公司上市股票自本（115）年11月12日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c9cdf141045d"
-    },
-    {
-      "id": "e529cefa05eb31",
-      "title": "全體上市公司(不含金融保險業)115年10月份當月營收較114年同期成長52.40％，累計營業收入較114年同期成長39.87％",
-      "titleZh": "全體上市公司(不含金融保險業)115年10月份當月營收較114年同期成長52.40％，累計營業收入較114年同期成長39.87％",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c973e34c043f"
-    },
-    {
-      "id": "32849f9ab3c483",
-      "title": "TiBOOST創新大步計畫圓滿落幕，前三名團隊出爐 串聯全球AI創新與臺灣資本市場，500萬元獎金支持創新企業成長",
-      "titleZh": "TiBOOST創新大步計畫圓滿落幕，前三名團隊出爐 串聯全球AI創新與臺灣資本市場，500萬元獎金支持創新企業成長",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-11T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1c8b5eade043d"
     },
     {
       "id": "0587802de2991f",
