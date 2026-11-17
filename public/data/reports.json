@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T23:43:20.115Z",
+  "updatedAt": "2026-11-17T07:47:37.699Z",
   "reports": [
+    {
+      "date": "2026-11-17",
+      "session": "noon",
+      "generatedAt": "2026-11-17T07:47:37.699Z",
+      "temperature": {
+        "score": 52,
+        "label": "中性偏穩",
+        "lamp": "yellow"
+      },
+      "dailyTrend": "bear",
+      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
+      "verification": null
+    },
     {
       "date": "2026-11-16",
       "session": "morning",
@@ -3497,19 +3510,6 @@
       },
       "dailyTrend": "mixed",
       "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
-      "verification": null
-    },
-    {
-      "date": "2026-07-23",
-      "session": "morning",
-      "generatedAt": "2026-07-23T02:36:27.096Z",
-      "temperature": {
-        "score": 60,
-        "label": "中性偏穩",
-        "lamp": "yellow"
-      },
-      "dailyTrend": "mixed",
-      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。 部分來源正在沿用舊值，結論信心需下調。",
       "verification": null
     }
   ]

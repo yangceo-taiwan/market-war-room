@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T23:43:20.115Z",
+  "updatedAt": "2026-11-17T07:47:37.699Z",
   "marketFacts": [
     "市場溫度 52/100，規則判定為中性偏穩。",
     "主要指數日線結構：偏空；小時線因免費穩定來源不足，暫列 mixed。",
-    "VIX：19.3；Total Put/Call：0.85。",
+    "VIX：19.3；Total Put/Call：0.95。",
     "美債 10Y–2Y 利差：0.27 個百分點。",
     "主要資料來源本次更新正常。"
   ],
@@ -36,7 +36,7 @@
       "id": "putcall",
       "name": "Put/Call",
       "lamp": "yellow",
-      "value": "0.85",
+      "value": "0.95",
       "reason": "情緒是否進入極端"
     },
     {
