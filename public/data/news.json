@@ -1,34 +1,97 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T07:47:37.699Z",
+  "updatedAt": "2026-11-17T22:51:09.238Z",
   "status": "ok",
   "items": [
     {
-      "id": "4c59bca60fbdf0",
-      "title": "本國及第一上市公司(不含金融控股公司)除永冠-KY外，均已申報115年第3季財務報告",
-      "titleZh": "本國及第一上市公司(不含金融控股公司)除永冠-KY外，均已申報115年第3季財務報告",
+      "id": "7597c4f59fcbd3",
+      "title": "國際機構肯定AI成長前景 全體上市公司前三季獲利亮眼、展現韌性",
+      "titleZh": "國際機構肯定AI成長前景 全體上市公司前三季獲利亮眼、展現韌性",
       "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-16T05:30:00.000Z",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
       "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e40ae2a704c3"
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e91ed1990505"
     },
     {
-      "id": "06e20568b46bec",
-      "title": "國際AI投資前景正向 臺灣產業成長動能延續",
-      "titleZh": "國際AI投資前景正向 臺灣產業成長動能延續",
+      "id": "435ab292b4ffbf",
+      "title": "臺灣證券交易所有價證券上市審議委員會審議通過展逸國際企業股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
+      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過展逸國際企業股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
       "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-16T05:30:00.000Z",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
       "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e382ac1f04b3"
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e91a33680501"
     },
     {
-      "id": "89d049b1a8b6b8",
-      "title": "上週外資在集中市場賣超967.87億元，賣超中鋼6.17萬張最多，另買超台玻24.72萬張最多",
-      "titleZh": "上週外資在集中市場賣超967.87億元，賣超中鋼6.17萬張最多，另買超台玻24.72萬張最多",
+      "id": "636d797ca7e8e4",
+      "title": "證交所攜手福邦證券 共同舉辦推動優質企業啓航資本市場交流會",
+      "titleZh": "證交所攜手福邦證券 共同舉辦推動優質企業啓航資本市場交流會",
       "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-16T05:30:00.000Z",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
       "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e2f6645404ab"
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e915831504fd"
+    },
+    {
+      "id": "9c655c13c236d6",
+      "title": "上市公司115年第3季財務報告形式審閱結果處置情形",
+      "titleZh": "上市公司115年第3季財務報告形式審閱結果處置情形",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e90d470a04f9"
+    },
+    {
+      "id": "2a30cea6a625cb",
+      "title": "宏于電機(證券代號：7869)採競價拍賣方式辦理承銷，於11月17日順利完成",
+      "titleZh": "宏于電機(證券代號：7869)採競價拍賣方式辦理承銷，於11月17日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8f0952104f5"
+    },
+    {
+      "id": "5fab695889c47c",
+      "title": "野村投信募集發行之野村亞洲傘型證券投資信託基金之亞洲科技主動式ETF及韓國科技30ETF，自115年11月19日起掛牌上市，並得辦理融資融券",
+      "titleZh": "野村投信募集發行之野村亞洲傘型證券投資信託基金之亞洲科技主動式ETF及韓國科技30ETF，自115年11月19日起掛牌上市，並得辦理融資融券",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8ec61a704f0"
+    },
+    {
+      "id": "c7fa1718359ad4",
+      "title": "頌勝科技材料股份有限公司上市股票自本（115）年11月18日起得為融資融券交易",
+      "titleZh": "頌勝科技材料股份有限公司上市股票自本（115）年11月18日起得為融資融券交易",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8eae20c04e8"
+    },
+    {
+      "id": "1546c8b2c48337",
+      "title": "證交所辦理「防範內線交易宣導會」，持續深化上市公司法令遵循觀念",
+      "titleZh": "證交所辦理「防範內線交易宣導會」，持續深化上市公司法令遵循觀念",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8d2146a04e4"
+    },
+    {
+      "id": "54764ca3d39f3d",
+      "title": "全體上市公司（不含金控業）115年前三季營收成長38.29%、獲利成長82.69%，基本面表現穩健",
+      "titleZh": "全體上市公司（不含金控業）115年前三季營收成長38.29%、獲利成長82.69%，基本面表現穩健",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8c331bb04e0"
+    },
+    {
+      "id": "629b622248000b",
+      "title": "證交所第6年參展Meet Taipei！攜手「tibit獨角獸」與創新板亮點企業，邀集各界「現在，投資未來」",
+      "titleZh": "證交所第6年參展Meet Taipei！攜手「tibit獨角獸」與創新板亮點企業，邀集各界「現在，投資未來」",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-17T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e864380404d7"
     },
     {
       "id": "4532bcae0da246",
@@ -47,24 +110,6 @@
       "publishedAt": "2026-11-13T16:57:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
-    },
-    {
-      "id": "91de5e76109a58",
-      "title": "臺灣證券交易所訂於11月17日召開有價證券上市審議委員會第904次會議，將審議展逸國際企業(股)公司之申請股票創新板上市案",
-      "titleZh": "臺灣證券交易所訂於11月17日召開有價證券上市審議委員會第904次會議，將審議展逸國際企業(股)公司之申請股票創新板上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-13T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1d4504b2304a5"
-    },
-    {
-      "id": "27b1d3092a626f",
-      "title": "本週發行量加權股價指數漲幅約為10.01%，上市股票總市值達143.07兆元",
-      "titleZh": "本週發行量加權股價指數漲幅約為10.01%，上市股票總市值達143.07兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-13T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1d44c484804a1"
     },
     {
       "id": "82ba770a292c75",
@@ -92,51 +137,6 @@
       "publishedAt": "2026-11-12T16:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
-    },
-    {
-      "id": "368a0044d1e597",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過鈺祥企業股份有限公司初次申請股票上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過鈺祥企業股份有限公司初次申請股票上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cf40c5460482"
-    },
-    {
-      "id": "e6883f6905febd",
-      "title": "亞洲公司治理協會於台灣年會發布「CG Watch 2026」亞洲公司治理評鑑結果，臺灣蟬聯第三",
-      "titleZh": "亞洲公司治理協會於台灣年會發布「CG Watch 2026」亞洲公司治理評鑑結果，臺灣蟬聯第三",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cf197dab047d"
-    },
-    {
-      "id": "84d9381c9478b5",
-      "title": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號: 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
-      "titleZh": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號: 6431）違反重大訊息規定，處以新臺幣伍萬元之違約金",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cf06cffe0479"
-    },
-    {
-      "id": "0a5c3a8f760e6a",
-      "title": "證交所攜手標普全球能源發布永續洞察報告",
-      "titleZh": "證交所攜手標普全球能源發布永續洞察報告",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1cea0baf6046c"
-    },
-    {
-      "id": "a9fdcd11fd0ead",
-      "title": "2026年第4季MSCI指數臺股權重調整結果",
-      "titleZh": "2026年第4季MSCI指數臺股權重調整結果",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-12T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ce6f664c0468"
     },
     {
       "id": "0587802de2991f",

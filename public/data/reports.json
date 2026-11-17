@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T07:47:37.699Z",
+  "updatedAt": "2026-11-17T22:51:09.238Z",
   "reports": [
+    {
+      "date": "2026-11-17",
+      "session": "morning",
+      "generatedAt": "2026-11-17T22:51:09.238Z",
+      "temperature": {
+        "score": 44,
+        "label": "偏保守",
+        "lamp": "orange"
+      },
+      "dailyTrend": "bear",
+      "conclusion": "訊號轉弱，優先控制曝險與事件風險。",
+      "verification": null
+    },
     {
       "date": "2026-11-17",
       "session": "noon",
@@ -3490,19 +3503,6 @@
       "date": "2026-07-23",
       "session": "morning",
       "generatedAt": "2026-07-23T02:45:31.864Z",
-      "temperature": {
-        "score": 60,
-        "label": "中性偏穩",
-        "lamp": "yellow"
-      },
-      "dailyTrend": "mixed",
-      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
-      "verification": null
-    },
-    {
-      "date": "2026-07-23",
-      "session": "morning",
-      "generatedAt": "2026-07-23T02:38:42.873Z",
       "temperature": {
         "score": 60,
         "label": "中性偏穩",
