@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T07:15:53.967Z",
+  "updatedAt": "2026-11-18T22:33:49.510Z",
   "status": "ok",
   "items": [
+    {
+      "id": "dbea10a75a8483",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+    },
+    {
+      "id": "b18f65aea0699a",
+      "title": "TLC BioSciences Corp.於115年11月18日送件申請股票第一上市",
+      "titleZh": "TLC BioSciences Corp.於115年11月18日送件申請股票第一上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ee394b290548"
+    },
+    {
+      "id": "0c5af11c14c211",
+      "title": "證交所舉辦「提升企業價值計畫線上實作工作坊」，助力上市公司掌握計畫編製實務重點",
+      "titleZh": "證交所舉辦「提升企業價值計畫線上實作工作坊」，助力上市公司掌握計畫編製實務重點",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ee1bdc350542"
+    },
+    {
+      "id": "0630c481c334da",
+      "title": "116年7月5日起，千元以上股票升降單位調整為1元、盤中零股撮合縮短至1秒",
+      "titleZh": "116年7月5日起，千元以上股票升降單位調整為1元、盤中零股撮合縮短至1秒",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1edd070d6053c"
+    },
+    {
+      "id": "2d23f75d04dc9c",
+      "title": "116年事前登記股東常會日期每日限額80家  證交所舉辦兩次模擬測試",
+      "titleZh": "116年事前登記股東常會日期每日限額80家  證交所舉辦兩次模擬測試",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-18T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1edc6c5af0538"
+    },
     {
       "id": "7597c4f59fcbd3",
       "title": "國際機構肯定AI成長前景 全體上市公司前三季獲利亮眼、展現韌性",
@@ -56,42 +101,6 @@
       "publishedAt": "2026-11-17T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8ec61a704f0"
-    },
-    {
-      "id": "c7fa1718359ad4",
-      "title": "頌勝科技材料股份有限公司上市股票自本（115）年11月18日起得為融資融券交易",
-      "titleZh": "頌勝科技材料股份有限公司上市股票自本（115）年11月18日起得為融資融券交易",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8eae20c04e8"
-    },
-    {
-      "id": "1546c8b2c48337",
-      "title": "證交所辦理「防範內線交易宣導會」，持續深化上市公司法令遵循觀念",
-      "titleZh": "證交所辦理「防範內線交易宣導會」，持續深化上市公司法令遵循觀念",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8d2146a04e4"
-    },
-    {
-      "id": "54764ca3d39f3d",
-      "title": "全體上市公司（不含金控業）115年前三季營收成長38.29%、獲利成長82.69%，基本面表現穩健",
-      "titleZh": "全體上市公司（不含金控業）115年前三季營收成長38.29%、獲利成長82.69%，基本面表現穩健",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8c331bb04e0"
-    },
-    {
-      "id": "629b622248000b",
-      "title": "證交所第6年參展Meet Taipei！攜手「tibit獨角獸」與創新板亮點企業，邀集各界「現在，投資未來」",
-      "titleZh": "證交所第6年參展Meet Taipei！攜手「tibit獨角獸」與創新板亮點企業，邀集各界「現在，投資未來」",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e864380404d7"
     },
     {
       "id": "4532bcae0da246",
@@ -155,15 +164,6 @@
       "publishedAt": "2026-11-09T21:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
-    },
-    {
-      "id": "0224349908e0b1",
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
     },
     {
       "id": "fbf83c3d91598e",
