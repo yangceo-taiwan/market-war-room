@@ -1,8 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T07:15:12.923Z",
+  "updatedAt": "2026-11-19T22:38:43.966Z",
   "status": "ok",
   "items": [
+    {
+      "id": "241d9c35f2a8e1",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm"
+    },
+    {
+      "id": "3a68823c8daed0",
+      "title": "    SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-19T14:39:02.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+    },
+    {
+      "id": "218a35fc0102f3",
+      "title": "2026臺灣週圓滿落幕！45場活動吸引近4萬人次參與　科技及資本領航，展現臺灣國際競爭力",
+      "titleZh": "2026臺灣週圓滿落幕！45場活動吸引近4萬人次參與　科技及資本領航，展現臺灣國際競爭力",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f29bbf190556"
+    },
+    {
+      "id": "dc5f86f038bd2c",
+      "title": "全體證券商115年10月稅後淨利75.2億元，累計稅後淨利2,087.74億元",
+      "titleZh": "全體證券商115年10月稅後淨利75.2億元，累計稅後淨利2,087.74億元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-19T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f2b60a7b0558"
+    },
     {
       "id": "dbea10a75a8483",
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -85,24 +121,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e90d470a04f9"
     },
     {
-      "id": "2a30cea6a625cb",
-      "title": "宏于電機(證券代號：7869)採競價拍賣方式辦理承銷，於11月17日順利完成",
-      "titleZh": "宏于電機(證券代號：7869)採競價拍賣方式辦理承銷，於11月17日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8f0952104f5"
-    },
-    {
-      "id": "5fab695889c47c",
-      "title": "野村投信募集發行之野村亞洲傘型證券投資信託基金之亞洲科技主動式ETF及韓國科技30ETF，自115年11月19日起掛牌上市，並得辦理融資融券",
-      "titleZh": "野村投信募集發行之野村亞洲傘型證券投資信託基金之亞洲科技主動式ETF及韓國科技30ETF，自115年11月19日起掛牌上市，並得辦理融資融券",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e8ec61a704f0"
-    },
-    {
       "id": "4532bcae0da246",
       "title": "Agencies extend comment period for proposed third-party risk management guidance ",
       "titleZh": "【央行｜英文原題待人工校訂】Agencies extend comment period for proposed third-party risk management guidance ",
@@ -113,8 +131,8 @@
     },
     {
       "id": "864d97a81cf5e7",
-      "title": "    SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
+      "title": "  SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-11-13T16:57:00.000Z",
       "category": "法規",
@@ -157,15 +175,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
     },
     {
-      "id": "6e4cb5ab08bc01",
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-09T21:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
-    },
-    {
       "id": "fbf83c3d91598e",
       "title": "  SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
       "titleZh": "【法規｜英文原題待人工校訂】  SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-11-04T16:28:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
-    },
-    {
-      "id": "64d7e687de2f74",
-      "title": "  SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-10-30T19:30:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
     }
   ]
 }
