@@ -1,8 +1,80 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T07:03:39.035Z",
+  "updatedAt": "2026-11-20T22:13:27.404Z",
   "status": "ok",
   "items": [
+    {
+      "id": "137217fbade893",
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve announces College Fed Challenge winners",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-20T21:15:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm"
+    },
+    {
+      "id": "31dfa678a4d112",
+      "title": "    SEC Issues Proposal to Restructure the Consolidated Audit Trail\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Issues Proposal to Restructure the Consolidated Audit Trail\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-20T18:03:24.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail"
+    },
+    {
+      "id": "62496b2db1339c",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-20T15:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+    },
+    {
+      "id": "8cf63b9f3cc161",
+      "title": "  SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-20T14:28:28.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering"
+    },
+    {
+      "id": "6bccfaf747815e",
+      "title": "本週發行量加權股價指數跌幅約為17.50%，上市股票總市值達118.10兆元",
+      "titleZh": "本週發行量加權股價指數跌幅約為17.50%，上市股票總市值達118.10兆元",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f8366829057a"
+    },
+    {
+      "id": "a817c3544c6a42",
+      "title": "短期市場波動不改產業基本面 證交所持續強化市場韌性",
+      "titleZh": "短期市場波動不改產業基本面 證交所持續強化市場韌性",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f8229e040578"
+    },
+    {
+      "id": "d9afe0f56eaf52",
+      "title": "騰勢(證券代號：7889)採競價拍賣方式辦理承銷，於11月20日順利完成",
+      "titleZh": "騰勢(證券代號：7889)採競價拍賣方式辦理承銷，於11月20日順利完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f81413930574"
+    },
+    {
+      "id": "b478fb0c00e42e",
+      "title": "證交所攜手碳交所響應WFE「氣候倡議敲鐘」活動，聚焦能源管理與循環經濟加速企業低碳轉型",
+      "titleZh": "證交所攜手碳交所響應WFE「氣候倡議敲鐘」活動，聚焦能源管理與循環經濟加速企業低碳轉型",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-20T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f7951f99056b"
+    },
     {
       "id": "241d9c35f2a8e1",
       "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
@@ -14,8 +86,8 @@
     },
     {
       "id": "3a68823c8daed0",
-      "title": "    SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n",
+      "title": "  SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-11-19T14:39:02.000Z",
       "category": "法規",
@@ -85,42 +157,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1edc6c5af0538"
     },
     {
-      "id": "7597c4f59fcbd3",
-      "title": "國際機構肯定AI成長前景 全體上市公司前三季獲利亮眼、展現韌性",
-      "titleZh": "國際機構肯定AI成長前景 全體上市公司前三季獲利亮眼、展現韌性",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e91ed1990505"
-    },
-    {
-      "id": "435ab292b4ffbf",
-      "title": "臺灣證券交易所有價證券上市審議委員會審議通過展逸國際企業股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
-      "titleZh": "臺灣證券交易所有價證券上市審議委員會審議通過展逸國際企業股份有限公司初次申請股票於臺灣創新板(tib-創)上市案",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e91a33680501"
-    },
-    {
-      "id": "636d797ca7e8e4",
-      "title": "證交所攜手福邦證券 共同舉辦推動優質企業啓航資本市場交流會",
-      "titleZh": "證交所攜手福邦證券 共同舉辦推動優質企業啓航資本市場交流會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e915831504fd"
-    },
-    {
-      "id": "9c655c13c236d6",
-      "title": "上市公司115年第3季財務報告形式審閱結果處置情形",
-      "titleZh": "上市公司115年第3季財務報告形式審閱結果處置情形",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-17T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1e90d470a04f9"
-    },
-    {
       "id": "4532bcae0da246",
       "title": "Agencies extend comment period for proposed third-party risk management guidance ",
       "titleZh": "【央行｜英文原題待人工校訂】Agencies extend comment period for proposed third-party risk management guidance ",
@@ -146,42 +182,6 @@
       "publishedAt": "2026-11-12T18:30:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
-    },
-    {
-      "id": "b8182560b02548",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-12T17:45:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
-    },
-    {
-      "id": "6baae670e70b34",
-      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
-    },
-    {
-      "id": "0587802de2991f",
-      "title": "  SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Announces Enforcement Annual Results for Fiscal Year 2026\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-11-10T16:15:35.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
-    },
-    {
-      "id": "fbf83c3d91598e",
-      "title": "  SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-11-04T16:28:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
     }
   ]
 }
