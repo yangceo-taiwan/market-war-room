@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T22:13:27.404Z",
+  "updatedAt": "2026-11-21T06:57:30.830Z",
   "marketFacts": [
-    "市場溫度 39/100，規則判定為偏保守。",
+    "市場溫度 34/100，規則判定為高風險。",
     "主要指數日線結構：偏空；小時線因免費穩定來源不足，暫列 mixed。",
-    "VIX：28.44；Total Put/Call：1.01。",
+    "VIX：28.44；Total Put/Call：1.13。",
     "美債 10Y–2Y 利差：0.28 個百分點。",
     "主要資料來源本次更新正常。"
   ],
   "knifeGod": null,
   "bulls": [],
   "bears": [],
-  "conclusion": "訊號轉弱，優先控制曝險與事件風險。",
+  "conclusion": "多項風險同時升高，首要任務是避免情緒化決策。",
   "scenarios": {
     "oneWeek": "以區間與事件風險為主，等待主要指數與市場寬度同向。",
     "oneMonth": "觀察主要指數能否維持趨勢、企業消息是否支撐，以及殖利率是否造成估值壓力。",
@@ -36,7 +36,7 @@
       "id": "putcall",
       "name": "Put/Call",
       "lamp": "yellow",
-      "value": "1.01",
+      "value": "1.13",
       "reason": "情緒是否進入極端"
     },
     {

@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T22:13:27.404Z",
+  "updatedAt": "2026-11-21T06:57:30.830Z",
   "reports": [
+    {
+      "date": "2026-11-21",
+      "session": "noon",
+      "generatedAt": "2026-11-21T06:57:30.830Z",
+      "temperature": {
+        "score": 34,
+        "label": "高風險",
+        "lamp": "red"
+      },
+      "dailyTrend": "bear",
+      "conclusion": "多項風險同時升高，首要任務是避免情緒化決策。",
+      "verification": null
+    },
     {
       "date": "2026-11-20",
       "session": "morning",
@@ -3496,19 +3509,6 @@
         "lamp": "yellow"
       },
       "dailyTrend": "bear",
-      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
-      "verification": null
-    },
-    {
-      "date": "2026-07-24",
-      "session": "morning",
-      "generatedAt": "2026-07-24T16:54:30.846Z",
-      "temperature": {
-        "score": 60,
-        "label": "中性偏穩",
-        "lamp": "yellow"
-      },
-      "dailyTrend": "mixed",
       "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
       "verification": null
     }
