@@ -1,8 +1,80 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:25:26.317Z",
+  "updatedAt": "2026-11-24T02:08:55.810Z",
   "status": "ok",
   "items": [
+    {
+      "id": "5965bc55993b50",
+      "title": "證交所參與2026 Meet Taipei Neo Star Demo Show 頒發獎金予前三名得獎團隊 「臺灣創新板（tib-創）」主題館吸引熱烈迴響",
+      "titleZh": "證交所參與2026 Meet Taipei Neo Star Demo Show 頒發獎金予前三名得獎團隊 「臺灣創新板（tib-創）」主題館吸引熱烈迴響",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a207ec726605b0"
+    },
+    {
+      "id": "e2bc74aede3d61",
+      "title": "上市公司115年第3季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
+      "titleZh": "上市公司115年第3季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a207aec04605ac"
+    },
+    {
+      "id": "dba79a50b46440",
+      "title": "柏騰科技股份有限公司等33家公司預計於115年12月份假證交所場地自行舉辦法人說明會",
+      "titleZh": "柏騰科技股份有限公司等33家公司預計於115年12月份假證交所場地自行舉辦法人說明會",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2079e8fd805a8"
+    },
+    {
+      "id": "97563b5fa3570a",
+      "title": "現在開始學習，正好！證交所推出「證好學 TWSE Academy」投資人教育平台",
+      "titleZh": "現在開始學習，正好！證交所推出「證好學 TWSE Academy」投資人教育平台",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2078b843f05a4"
+    },
+    {
+      "id": "31a2423e3b351f",
+      "title": "9家上市公司法說會展現獲利成長與營運韌性",
+      "titleZh": "9家上市公司法說會展現獲利成長與營運韌性",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a207562d14059e"
+    },
+    {
+      "id": "aa8c15e776febf",
+      "title": "自115年11月24日起，信用交易擔保維持率最低標準由130%調降至120%",
+      "titleZh": "自115年11月24日起，信用交易擔保維持率最低標準由130%調降至120%",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2072d582a0593"
+    },
+    {
+      "id": "ced57713d7ac08",
+      "title": "證交所致函並積極洽請上市公司啟動庫藏股與辦理法說會，展現臺灣產業優勢",
+      "titleZh": "證交所致函並積極洽請上市公司啟動庫藏股與辦理法說會，展現臺灣產業優勢",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a206f1193f0591"
+    },
+    {
+      "id": "e8e3eed5893c1e",
+      "title": "上週外資在集中市場賣超2,186.69億元，賣超台玻9.99萬張最多，另買超聯電10.64萬張最多",
+      "titleZh": "上週外資在集中市場賣超2,186.69億元，賣超台玻9.99萬張最多，另買超聯電10.64萬張最多",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-23T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2069e5477058b"
+    },
     {
       "id": "137217fbade893",
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -58,24 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f8229e040578"
     },
     {
-      "id": "d9afe0f56eaf52",
-      "title": "騰勢(證券代號：7889)採競價拍賣方式辦理承銷，於11月20日順利完成",
-      "titleZh": "騰勢(證券代號：7889)採競價拍賣方式辦理承銷，於11月20日順利完成",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f81413930574"
-    },
-    {
-      "id": "b478fb0c00e42e",
-      "title": "證交所攜手碳交所響應WFE「氣候倡議敲鐘」活動，聚焦能源管理與循環經濟加速企業低碳轉型",
-      "titleZh": "證交所攜手碳交所響應WFE「氣候倡議敲鐘」活動，聚焦能源管理與循環經濟加速企業低碳轉型",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f7951f99056b"
-    },
-    {
       "id": "241d9c35f2a8e1",
       "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
@@ -94,24 +148,6 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
     },
     {
-      "id": "218a35fc0102f3",
-      "title": "2026臺灣週圓滿落幕！45場活動吸引近4萬人次參與　科技及資本領航，展現臺灣國際競爭力",
-      "titleZh": "2026臺灣週圓滿落幕！45場活動吸引近4萬人次參與　科技及資本領航，展現臺灣國際競爭力",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-19T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f29bbf190556"
-    },
-    {
-      "id": "dc5f86f038bd2c",
-      "title": "全體證券商115年10月稅後淨利75.2億元，累計稅後淨利2,087.74億元",
-      "titleZh": "全體證券商115年10月稅後淨利75.2億元，累計稅後淨利2,087.74億元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-19T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f2b60a7b0558"
-    },
-    {
       "id": "dbea10a75a8483",
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
       "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -119,42 +155,6 @@
       "publishedAt": "2026-11-18T19:00:00.000Z",
       "category": "央行",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
-    },
-    {
-      "id": "b18f65aea0699a",
-      "title": "TLC BioSciences Corp.於115年11月18日送件申請股票第一上市",
-      "titleZh": "TLC BioSciences Corp.於115年11月18日送件申請股票第一上市",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ee394b290548"
-    },
-    {
-      "id": "0c5af11c14c211",
-      "title": "證交所舉辦「提升企業價值計畫線上實作工作坊」，助力上市公司掌握計畫編製實務重點",
-      "titleZh": "證交所舉辦「提升企業價值計畫線上實作工作坊」，助力上市公司掌握計畫編製實務重點",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1ee1bdc350542"
-    },
-    {
-      "id": "0630c481c334da",
-      "title": "116年7月5日起，千元以上股票升降單位調整為1元、盤中零股撮合縮短至1秒",
-      "titleZh": "116年7月5日起，千元以上股票升降單位調整為1元、盤中零股撮合縮短至1秒",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1edd070d6053c"
-    },
-    {
-      "id": "2d23f75d04dc9c",
-      "title": "116年事前登記股東常會日期每日限額80家  證交所舉辦兩次模擬測試",
-      "titleZh": "116年事前登記股東常會日期每日限額80家  證交所舉辦兩次模擬測試",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-18T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1edc6c5af0538"
     },
     {
       "id": "4532bcae0da246",
