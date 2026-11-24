@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T14:46:20.506Z",
+  "updatedAt": "2026-11-24T23:51:44.087Z",
   "status": "ok",
   "items": [
+    {
+      "id": "04af64fc022b29",
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-24T19:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm"
+    },
+    {
+      "id": "3e402449137d3b",
+      "title": "資本市場服務團再出擊 攜手安永推動優質企業啓航資本市場交流會圓滿完成",
+      "titleZh": "資本市場服務團再出擊 攜手安永推動優質企業啓航資本市場交流會圓滿完成",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a20d40686105d1"
+    },
+    {
+      "id": "1a64aa342a14cc",
+      "title": "「115年度上市公司業務宣導會」圓滿落幕，洞悉最新法規趨勢 強化市場資訊揭露與透明度",
+      "titleZh": "「115年度上市公司業務宣導會」圓滿落幕，洞悉最新法規趨勢 強化市場資訊揭露與透明度",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a20d2139b005cd"
+    },
+    {
+      "id": "ebf30f2d37449c",
+      "title": "政美應用(股)公司於115年11月24日送件申請股票上市",
+      "titleZh": "政美應用(股)公司於115年11月24日送件申請股票上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a20d009de205c9"
+    },
+    {
+      "id": "4cd5f6eaf8eec2",
+      "title": "上市ETF迎來新成員! 施羅德投信在台發行亞洲首檔主動式ETF「施羅德AI科技台股主動式ETF」，自115年11月26日起掛牌上市",
+      "titleZh": "上市ETF迎來新成員! 施羅德投信在台發行亞洲首檔主動式ETF「施羅德AI科技台股主動式ETF」，自115年11月26日起掛牌上市",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-24T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a20c99892505c2"
+    },
     {
       "id": "5965bc55993b50",
       "title": "證交所參與2026 Meet Taipei Neo Star Demo Show 頒發獎金予前三名得獎團隊 「臺灣創新板（tib-創）」主題館吸引熱烈迴響",
@@ -58,24 +103,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2072d582a0593"
     },
     {
-      "id": "ced57713d7ac08",
-      "title": "證交所致函並積極洽請上市公司啟動庫藏股與辦理法說會，展現臺灣產業優勢",
-      "titleZh": "證交所致函並積極洽請上市公司啟動庫藏股與辦理法說會，展現臺灣產業優勢",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a206f1193f0591"
-    },
-    {
-      "id": "e8e3eed5893c1e",
-      "title": "上週外資在集中市場賣超2,186.69億元，賣超台玻9.99萬張最多，另買超聯電10.64萬張最多",
-      "titleZh": "上週外資在集中市場賣超2,186.69億元，賣超台玻9.99萬張最多，另買超聯電10.64萬張最多",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2069e5477058b"
-    },
-    {
       "id": "137217fbade893",
       "title": "Federal Reserve announces College Fed Challenge winners",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve announces College Fed Challenge winners",
@@ -110,24 +137,6 @@
       "publishedAt": "2026-11-20T14:28:28.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering"
-    },
-    {
-      "id": "6bccfaf747815e",
-      "title": "本週發行量加權股價指數跌幅約為17.50%，上市股票總市值達118.10兆元",
-      "titleZh": "本週發行量加權股價指數跌幅約為17.50%，上市股票總市值達118.10兆元",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f8366829057a"
-    },
-    {
-      "id": "a817c3544c6a42",
-      "title": "短期市場波動不改產業基本面 證交所持續強化市場韌性",
-      "titleZh": "短期市場波動不改產業基本面 證交所持續強化市場韌性",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-20T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a1f8229e040578"
     },
     {
       "id": "241d9c35f2a8e1",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-11-13T16:57:00.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
-    },
-    {
-      "id": "82ba770a292c75",
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-12T18:30:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
     }
   ]
 }
