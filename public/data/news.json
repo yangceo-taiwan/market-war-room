@@ -1,8 +1,53 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T08:20:26.607Z",
+  "updatedAt": "2026-11-25T23:35:08.952Z",
   "status": "ok",
   "items": [
+    {
+      "id": "f0784a636c3b35",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "titleZh": "【央行｜英文原題待人工校訂】Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm"
+    },
+    {
+      "id": "7486b0f51365d6",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "titleZh": "【央行｜英文原題待人工校訂】Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "source": "Federal Reserve",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "category": "央行",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm"
+    },
+    {
+      "id": "d7ab0029cc21de",
+      "title": "    SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting\n",
+      "titleZh": "【法規｜英文原題待人工校訂】    SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting\n",
+      "source": "U.S. SEC",
+      "publishedAt": "2026-11-25T14:10:24.000Z",
+      "category": "法規",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting"
+    },
+    {
+      "id": "d1f71c38346160",
+      "title": "資本市場服務團攜手PwC 推動優質企業啟航邁向資本市場交流會圓滿落幕",
+      "titleZh": "資本市場服務團攜手PwC 推動優質企業啟航邁向資本市場交流會圓滿落幕",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a21263d83805e3"
+    },
+    {
+      "id": "0a7be50097cd6d",
+      "title": "證交所舉辦115年度證券商反詐騙評鑑活動頒獎典禮暨高階主管業務及反詐宣導會圓滿成功，20家證券商獲頒卓越獎，攜手織密證券業防詐網",
+      "titleZh": "證交所舉辦115年度證券商反詐騙評鑑活動頒獎典禮暨高階主管業務及反詐宣導會圓滿成功，20家證券商獲頒卓越獎，攜手織密證券業防詐網",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a21206026105df"
+    },
     {
       "id": "04af64fc022b29",
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -85,24 +130,6 @@
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2078b843f05a4"
     },
     {
-      "id": "31a2423e3b351f",
-      "title": "9家上市公司法說會展現獲利成長與營運韌性",
-      "titleZh": "9家上市公司法說會展現獲利成長與營運韌性",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a207562d14059e"
-    },
-    {
-      "id": "aa8c15e776febf",
-      "title": "自115年11月24日起，信用交易擔保維持率最低標準由130%調降至120%",
-      "titleZh": "自115年11月24日起，信用交易擔保維持率最低標準由130%調降至120%",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2072d582a0593"
-    },
-    {
       "id": "137217fbade893",
       "title": "Federal Reserve announces College Fed Challenge winners",
       "titleZh": "【央行｜英文原題待人工校訂】Federal Reserve announces College Fed Challenge winners",
@@ -113,8 +140,8 @@
     },
     {
       "id": "31dfa678a4d112",
-      "title": "    SEC Issues Proposal to Restructure the Consolidated Audit Trail\n",
-      "titleZh": "【法規｜英文原題待人工校訂】    SEC Issues Proposal to Restructure the Consolidated Audit Trail\n",
+      "title": "  SEC Issues Proposal to Restructure the Consolidated Audit Trail\n",
+      "titleZh": "【法規｜英文原題待人工校訂】  SEC Issues Proposal to Restructure the Consolidated Audit Trail\n",
       "source": "U.S. SEC",
       "publishedAt": "2026-11-20T18:03:24.000Z",
       "category": "法規",
@@ -155,33 +182,6 @@
       "publishedAt": "2026-11-19T14:39:02.000Z",
       "category": "法規",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
-    },
-    {
-      "id": "dbea10a75a8483",
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "titleZh": "【央行｜英文原題待人工校訂】Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-18T19:00:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
-    },
-    {
-      "id": "4532bcae0da246",
-      "title": "Agencies extend comment period for proposed third-party risk management guidance ",
-      "titleZh": "【央行｜英文原題待人工校訂】Agencies extend comment period for proposed third-party risk management guidance ",
-      "source": "Federal Reserve",
-      "publishedAt": "2026-11-13T21:15:00.000Z",
-      "category": "央行",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm"
-    },
-    {
-      "id": "864d97a81cf5e7",
-      "title": "  SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
-      "titleZh": "【法規｜英文原題待人工校訂】  SEC Proposes Executive and Director Compensation Disclosure Reforms\n",
-      "source": "U.S. SEC",
-      "publishedAt": "2026-11-13T16:57:00.000Z",
-      "category": "法規",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
     }
   ]
 }
