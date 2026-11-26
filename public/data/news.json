@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T08:05:47.328Z",
+  "updatedAt": "2026-11-26T23:47:02.801Z",
   "status": "ok",
   "items": [
+    {
+      "id": "1bb32cac966db4",
+      "title": "施羅德投信在台發行亞洲首檔主動式ETF正式掛牌證交所　國際資產管理業者深化臺灣布局",
+      "titleZh": "施羅德投信在台發行亞洲首檔主動式ETF正式掛牌證交所　國際資產管理業者深化臺灣布局",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2177983d30619"
+    },
+    {
+      "id": "e619e8712e44e9",
+      "title": "證交所偕創新板企業參展2026臺灣-北美醫療生技產業論壇 助攻企業拓展國際業務",
+      "titleZh": "證交所偕創新板企業參展2026臺灣-北美醫療生技產業論壇 助攻企業拓展國際業務",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-26T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a21738c8380615"
+    },
     {
       "id": "f0784a636c3b35",
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
@@ -47,6 +65,15 @@
       "publishedAt": "2026-11-25T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a21206026105df"
+    },
+    {
+      "id": "fbadc04aed8bfe",
+      "title": "資本市場服務團攜手資誠 推動優質企業邁向資本市場座談會圓滿落幕",
+      "titleZh": "資本市場服務團攜手資誠 推動優質企業邁向資本市場座談會圓滿落幕",
+      "source": "臺灣證券交易所",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "category": "台股",
+      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a21561da2e05e7"
     },
     {
       "id": "04af64fc022b29",
@@ -101,33 +128,6 @@
       "publishedAt": "2026-11-23T05:30:00.000Z",
       "category": "台股",
       "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a207ec726605b0"
-    },
-    {
-      "id": "e2bc74aede3d61",
-      "title": "上市公司115年第3季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
-      "titleZh": "上市公司115年第3季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a207aec04605ac"
-    },
-    {
-      "id": "dba79a50b46440",
-      "title": "柏騰科技股份有限公司等33家公司預計於115年12月份假證交所場地自行舉辦法人說明會",
-      "titleZh": "柏騰科技股份有限公司等33家公司預計於115年12月份假證交所場地自行舉辦法人說明會",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2079e8fd805a8"
-    },
-    {
-      "id": "97563b5fa3570a",
-      "title": "現在開始學習，正好！證交所推出「證好學 TWSE Academy」投資人教育平台",
-      "titleZh": "現在開始學習，正好！證交所推出「證好學 TWSE Academy」投資人教育平台",
-      "source": "臺灣證券交易所",
-      "publishedAt": "2026-11-23T05:30:00.000Z",
-      "category": "台股",
-      "url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6a19afd9c01a2078b843f05a4"
     },
     {
       "id": "137217fbade893",
