@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T08:15:49.331Z",
+  "updatedAt": "2026-11-27T23:23:42.171Z",
   "reports": [
+    {
+      "date": "2026-11-27",
+      "session": "morning",
+      "generatedAt": "2026-11-27T23:23:42.171Z",
+      "temperature": {
+        "score": 55,
+        "label": "中性偏穩",
+        "lamp": "yellow"
+      },
+      "dailyTrend": "bull",
+      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
+      "verification": null
+    },
     {
       "date": "2026-11-27",
       "session": "noon",
@@ -3490,19 +3503,6 @@
       "date": "2026-07-29",
       "session": "noon",
       "generatedAt": "2026-07-29T06:42:11.161Z",
-      "temperature": {
-        "score": 60,
-        "label": "中性偏穩",
-        "lamp": "yellow"
-      },
-      "dailyTrend": "mixed",
-      "conclusion": "訊號中性偏穩，適合觀察確認而非追逐單一題材。",
-      "verification": null
-    },
-    {
-      "date": "2026-07-29",
-      "session": "noon",
-      "generatedAt": "2026-07-29T03:33:32.253Z",
       "temperature": {
         "score": 60,
         "label": "中性偏穩",
